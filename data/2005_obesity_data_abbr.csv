@@ -1,0 +1,3142 @@
+STATE_NAME,COUNTY_NAME,COMBO_CODE,ADJPERCENT
+ALABAMA,Autauga County,01001,28.5
+ALABAMA,Baldwin County,01003,25.2
+ALABAMA,Barbour County,01005,33.0
+ALABAMA,Bibb County,01007,30.7
+ALABAMA,Blount County,01009,27.6
+ALABAMA,Bullock County,01011,36.0
+ALABAMA,Butler County,01013,30.1
+ALABAMA,Calhoun County,01015,30.0
+ALABAMA,Chambers County,01017,30.2
+ALABAMA,Cherokee County,01019,27.9
+ALABAMA,Chilton County,01021,28.9
+ALABAMA,Choctaw County,01023,31.8
+ALABAMA,Clarke County,01025,31.6
+ALABAMA,Clay County,01027,28.2
+ALABAMA,Cleburne County,01029,29.1
+ALABAMA,Coffee County,01031,31.0
+ALABAMA,Colbert County,01033,29.0
+ALABAMA,Conecuh County,01035,31.8
+ALABAMA,Coosa County,01037,32.4
+ALABAMA,Covington County,01039,27.6
+ALABAMA,Crenshaw County,01041,32.0
+ALABAMA,Cullman County,01043,26.0
+ALABAMA,Dale County,01045,30.6
+ALABAMA,Dallas County,01047,36.6
+ALABAMA,DeKalb County,01049,28.6
+ALABAMA,Elmore County,01051,28.1
+ALABAMA,Escambia County,01053,32.6
+ALABAMA,Etowah County,01055,29.5
+ALABAMA,Fayette County,01057,31.1
+ALABAMA,Franklin County,01059,29.6
+ALABAMA,Geneva County,01061,29.7
+ALABAMA,Greene County,01063,35.0
+ALABAMA,Hale County,01065,35.4
+ALABAMA,Henry County,01067,30.1
+ALABAMA,Houston County,01069,31.5
+ALABAMA,Jackson County,01071,29.9
+ALABAMA,Jefferson County,01073,29.0
+ALABAMA,Lamar County,01075,27.0
+ALABAMA,Lauderdale County,01077,29.1
+ALABAMA,Lawrence County,01079,28.9
+ALABAMA,Lee County,01081,27.5
+ALABAMA,Limestone County,01083,27.5
+ALABAMA,Lowndes County,01085,34.6
+ALABAMA,Macon County,01087,37.0
+ALABAMA,Madison County,01089,27.1
+ALABAMA,Marengo County,01091,33.0
+ALABAMA,Marion County,01093,29.6
+ALABAMA,Marshall County,01095,29.5
+ALABAMA,Mobile County,01097,30.2
+ALABAMA,Monroe County,01099,31.2
+ALABAMA,Montgomery County,01101,30.0
+ALABAMA,Morgan County,01103,27.2
+ALABAMA,Perry County,01105,36.2
+ALABAMA,Pickens County,01107,32.9
+ALABAMA,Pike County,01109,32.6
+ALABAMA,Randolph County,01111,31.3
+ALABAMA,Russell County,01113,32.8
+ALABAMA,St. Clair County,01115,28.8
+ALABAMA,Shelby County,01117,25.0
+ALABAMA,Sumter County,01119,35.1
+ALABAMA,Talladega County,01121,30.1
+ALABAMA,Tallapoosa County,01123,28.7
+ALABAMA,Tuscaloosa County,01125,29.6
+ALABAMA,Walker County,01127,30.3
+ALABAMA,Washington County,01129,31.4
+ALABAMA,Wilcox County,01131,35.3
+ALABAMA,Winston County,01133,29.0
+ALASKA,Aleutians East,02013,28.1
+ALASKA,Aleutians West,02016,22.8
+ALASKA,Anchorage,02020,24.6
+ALASKA,Bethel,02050,31.8
+ALASKA,Bristol Bay,02060,30.1
+ALASKA,Denali,02068,22.3
+ALASKA,Dillingham,02070,28.3
+ALASKA,Fairbanks North Star,02090,27.3
+ALASKA,Haines,02100,23.8
+ALASKA,Juneau,02110,23.0
+ALASKA,Kenai Peninsula,02122,25.0
+ALASKA,Ketchikan Gateway,02130,25.9
+ALASKA,Kodiak Island,02150,23.9
+ALASKA,Lake and Peninsula,02164,30.0
+ALASKA,Matanuska-Susitna,02170,24.4
+ALASKA,Nome,02180,27.3
+ALASKA,North Slope,02185,29.5
+ALASKA,Northwest Arctic,02188,30.5
+ALASKA,Prince of Wales-Outer Ketchikan,02201,29.7
+ALASKA,Sitka,02220,22.0
+ALASKA,Skagway-Hoonah-Angoon,02232,28.3
+ALASKA,Southeast Fairbanks,02240,28.3
+ALASKA,Valdez-Cordova,02261,28.1
+ALASKA,Wade Hampton,02270,27.6
+ALASKA,Wrangell-Petersburg,02280,25.2
+ALASKA,Yakutat,02282,26.0
+ALASKA,Yukon-Koyukuk,02290,23.6
+ARIZONA,Apache County,04001,28.7
+ARIZONA,Cochise County,04003,22.7
+ARIZONA,Coconino County,04005,20.3
+ARIZONA,Gila County,04007,24.0
+ARIZONA,Graham County,04009,23.2
+ARIZONA,Greenlee County,04011,22.8
+ARIZONA,La Paz County,04012,21.1
+ARIZONA,Maricopa County,04013,19.6
+ARIZONA,Mohave County,04015,22.7
+ARIZONA,Navajo County,04017,26.6
+ARIZONA,Pima County,04019,18.9
+ARIZONA,Pinal County,04021,26.8
+ARIZONA,Santa Cruz County,04023,18.3
+ARIZONA,Yavapai County,04025,17.9
+ARIZONA,Yuma County,04027,24.0
+ARKANSAS,Arkansas County,05001,29.3
+ARKANSAS,Ashley County,05003,30.7
+ARKANSAS,Baxter County,05005,26.9
+ARKANSAS,Benton County,05007,24.2
+ARKANSAS,Boone County,05009,26.2
+ARKANSAS,Bradley County,05011,28.7
+ARKANSAS,Calhoun County,05013,28.2
+ARKANSAS,Carroll County,05015,25.5
+ARKANSAS,Chicot County,05017,31.9
+ARKANSAS,Clark County,05019,29.1
+ARKANSAS,Clay County,05021,28.2
+ARKANSAS,Cleburne County,05023,26.7
+ARKANSAS,Cleveland County,05025,29.9
+ARKANSAS,Columbia County,05027,28.8
+ARKANSAS,Conway County,05029,28.6
+ARKANSAS,Craighead County,05031,29.6
+ARKANSAS,Crawford County,05033,26.1
+ARKANSAS,Crittenden County,05035,31.9
+ARKANSAS,Cross County,05037,30.0
+ARKANSAS,Dallas County,05039,30.5
+ARKANSAS,Desha County,05041,29.3
+ARKANSAS,Drew County,05043,29.3
+ARKANSAS,Faulkner County,05045,26.6
+ARKANSAS,Franklin County,05047,27.7
+ARKANSAS,Fulton County,05049,26.4
+ARKANSAS,Garland County,05051,26.8
+ARKANSAS,Grant County,05053,29.3
+ARKANSAS,Greene County,05055,30.7
+ARKANSAS,Hempstead County,05057,28.6
+ARKANSAS,Hot Spring County,05059,28.8
+ARKANSAS,Howard County,05061,28.7
+ARKANSAS,Independence County,05063,27.9
+ARKANSAS,Izard County,05065,28.1
+ARKANSAS,Jackson County,05067,28.4
+ARKANSAS,Jefferson County,05069,29.4
+ARKANSAS,Johnson County,05071,24.9
+ARKANSAS,Lafayette County,05073,29.7
+ARKANSAS,Lawrence County,05075,28.5
+ARKANSAS,Lee County,05077,30.7
+ARKANSAS,Lincoln County,05079,29.3
+ARKANSAS,Little River County,05081,28.4
+ARKANSAS,Logan County,05083,27.1
+ARKANSAS,Lonoke County,05085,27.7
+ARKANSAS,Madison County,05087,26.0
+ARKANSAS,Marion County,05089,25.9
+ARKANSAS,Miller County,05091,30.1
+ARKANSAS,Mississippi County,05093,30.5
+ARKANSAS,Monroe County,05095,31.8
+ARKANSAS,Montgomery County,05097,26.4
+ARKANSAS,Nevada County,05099,30.1
+ARKANSAS,Newton County,05101,28.7
+ARKANSAS,Ouachita County,05103,30.5
+ARKANSAS,Perry County,05105,28.6
+ARKANSAS,Phillips County,05107,33.2
+ARKANSAS,Pike County,05109,27.0
+ARKANSAS,Poinsett County,05111,28.9
+ARKANSAS,Polk County,05113,27.8
+ARKANSAS,Pope County,05115,27.7
+ARKANSAS,Prairie County,05117,27.6
+ARKANSAS,Pulaski County,05119,25.2
+ARKANSAS,Randolph County,05121,25.4
+ARKANSAS,St. Francis County,05123,30.6
+ARKANSAS,Saline County,05125,25.2
+ARKANSAS,Scott County,05127,26.9
+ARKANSAS,Searcy County,05129,27.4
+ARKANSAS,Sebastian County,05131,28.0
+ARKANSAS,Sevier County,05133,27.6
+ARKANSAS,Sharp County,05135,26.7
+ARKANSAS,Stone County,05137,26.8
+ARKANSAS,Union County,05139,28.1
+ARKANSAS,Van Buren County,05141,29.7
+ARKANSAS,Washington County,05143,21.2
+ARKANSAS,White County,05145,28.0
+ARKANSAS,Woodruff County,05147,28.4
+ARKANSAS,Yell County,05149,27.9
+CALIFORNIA,Alameda County,06001,22.1
+CALIFORNIA,Alpine County,06003,21.5
+CALIFORNIA,Amador County,06005,20.7
+CALIFORNIA,Butte County,06007,22.8
+CALIFORNIA,Calaveras County,06009,18.1
+CALIFORNIA,Colusa County,06011,20.3
+CALIFORNIA,Contra Costa County,06013,19.7
+CALIFORNIA,Del Norte County,06015,22.2
+CALIFORNIA,El Dorado County,06017,18.0
+CALIFORNIA,Fresno County,06019,23.5
+CALIFORNIA,Glenn County,06021,20.2
+CALIFORNIA,Humboldt County,06023,21.4
+CALIFORNIA,Imperial County,06025,23.4
+CALIFORNIA,Inyo County,06027,20.3
+CALIFORNIA,Kern County,06029,25.9
+CALIFORNIA,Kings County,06031,24.0
+CALIFORNIA,Lake County,06033,20.1
+CALIFORNIA,Lassen County,06035,21.9
+CALIFORNIA,Los Angeles County,06037,19.2
+CALIFORNIA,Madera County,06039,21.3
+CALIFORNIA,Marin County,06041,15.4
+CALIFORNIA,Mariposa County,06043,20.3
+CALIFORNIA,Mendocino County,06045,20.8
+CALIFORNIA,Merced County,06047,25.1
+CALIFORNIA,Modoc County,06049,22.4
+CALIFORNIA,Mono County,06051,20.8
+CALIFORNIA,Monterey County,06053,21.3
+CALIFORNIA,Napa County,06055,19.9
+CALIFORNIA,Nevada County,06057,18.9
+CALIFORNIA,Orange County,06059,17.6
+CALIFORNIA,Placer County,06061,18.2
+CALIFORNIA,Plumas County,06063,19.9
+CALIFORNIA,Riverside County,06065,23.6
+CALIFORNIA,Sacramento County,06067,23.2
+CALIFORNIA,San Benito County,06069,21.4
+CALIFORNIA,San Bernardino County,06071,24.8
+CALIFORNIA,San Diego County,06073,19.8
+CALIFORNIA,San Francisco County,06075,15.8
+CALIFORNIA,San Joaquin County,06077,24.0
+CALIFORNIA,San Luis Obispo County,06079,21.3
+CALIFORNIA,San Mateo County,06081,16.5
+CALIFORNIA,Santa Barbara County,06083,20.2
+CALIFORNIA,Santa Clara County,06085,18.3
+CALIFORNIA,Santa Cruz County,06087,19.2
+CALIFORNIA,Shasta County,06089,22.1
+CALIFORNIA,Sierra County,06091,20.7
+CALIFORNIA,Siskiyou County,06093,24.0
+CALIFORNIA,Solano County,06095,24.3
+CALIFORNIA,Sonoma County,06097,20.8
+CALIFORNIA,Stanislaus County,06099,28.0
+CALIFORNIA,Sutter County,06101,22.1
+CALIFORNIA,Tehama County,06103,21.8
+CALIFORNIA,Trinity County,06105,22.8
+CALIFORNIA,Tulare County,06107,25.5
+CALIFORNIA,Tuolumne County,06109,21.6
+CALIFORNIA,Ventura County,06111,19.6
+CALIFORNIA,Yolo County,06113,20.8
+CALIFORNIA,Yuba County,06115,23.0
+COLORADO,Adams County,08001,22.9
+COLORADO,Alamosa County,08003,16.3
+COLORADO,Arapahoe County,08005,19.1
+COLORADO,Archuleta County,08007,15.9
+COLORADO,Baca County,08009,16.2
+COLORADO,Bent County,08011,18.1
+COLORADO,Boulder County,08013,11.8
+COLORADO,Broomfield County,08014,17.4
+COLORADO,Chaffee County,08015,16.2
+COLORADO,Cheyenne County,08017,15.4
+COLORADO,Clear Creek County,08019,15.3
+COLORADO,Conejos County,08021,15.7
+COLORADO,Costilla County,08023,15.8
+COLORADO,Crowley County,08025,18.2
+COLORADO,Custer County,08027,14.9
+COLORADO,Delta County,08029,15.0
+COLORADO,Denver County,08031,14.5
+COLORADO,Dolores County,08033,16.0
+COLORADO,Douglas County,08035,13.4
+COLORADO,Eagle County,08037,13.3
+COLORADO,Elbert County,08039,14.7
+COLORADO,El Paso County,08041,18.3
+COLORADO,Fremont County,08043,16.1
+COLORADO,Garfield County,08045,14.2
+COLORADO,Gilpin County,08047,16.0
+COLORADO,Grand County,08049,13.5
+COLORADO,Gunnison County,08051,13.1
+COLORADO,Hinsdale County,08053,16.5
+COLORADO,Huerfano County,08055,17.1
+COLORADO,Jackson County,08057,13.1
+COLORADO,Jefferson County,08059,15.8
+COLORADO,Kiowa County,08061,16.4
+COLORADO,Kit Carson County,08063,17.5
+COLORADO,Lake County,08065,16.8
+COLORADO,La Plata County,08067,12.5
+COLORADO,Larimer County,08069,14.0
+COLORADO,Las Animas County,08071,17.9
+COLORADO,Lincoln County,08073,17.6
+COLORADO,Logan County,08075,19.4
+COLORADO,Mesa County,08077,18.8
+COLORADO,Mineral County,08079,15.5
+COLORADO,Moffat County,08081,16.1
+COLORADO,Montezuma County,08083,16.6
+COLORADO,Montrose County,08085,16.4
+COLORADO,Morgan County,08087,17.8
+COLORADO,Otero County,08089,19.1
+COLORADO,Ouray County,08091,15.8
+COLORADO,Park County,08093,14.9
+COLORADO,Phillips County,08095,16.4
+COLORADO,Pitkin County,08097,13.7
+COLORADO,Prowers County,08099,19.1
+COLORADO,Pueblo County,08101,21.5
+COLORADO,Rio Blanco County,08103,15.7
+COLORADO,Rio Grande County,08105,16.7
+COLORADO,Routt County,08107,14.1
+COLORADO,Saguache County,08109,16.1
+COLORADO,San Juan County,08111,15.5
+COLORADO,San Miguel County,08113,15.4
+COLORADO,Sedgwick County,08115,16.2
+COLORADO,Summit County,08117,12.9
+COLORADO,Teller County,08119,15.9
+COLORADO,Washington County,08121,16.8
+COLORADO,Weld County,08123,20.9
+COLORADO,Yuma County,08125,17.1
+CONNECTICUT,Fairfield County,09001,17.0
+CONNECTICUT,Hartford County,09003,20.6
+CONNECTICUT,Litchfield County,09005,18.4
+CONNECTICUT,Middlesex County,09007,20.4
+CONNECTICUT,New Haven County,09009,22.7
+CONNECTICUT,New London County,09011,20.9
+CONNECTICUT,Tolland County,09013,19.5
+CONNECTICUT,Windham County,09015,23.0
+DELAWARE,Kent County,10001,27.9
+DELAWARE,New Castle County,10003,22.9
+DELAWARE,Sussex County,10005,25.8
+DISTRICT OF COLUMBIA,Washington,11001,21.2
+FLORIDA,Alachua County,12001,20.4
+FLORIDA,Baker County,12003,27.9
+FLORIDA,Bay County,12005,23.5
+FLORIDA,Bradford County,12007,27.8
+FLORIDA,Brevard County,12009,21.4
+FLORIDA,Broward County,12011,19.3
+FLORIDA,Calhoun County,12013,27.9
+FLORIDA,Charlotte County,12015,23.1
+FLORIDA,Citrus County,12017,23.0
+FLORIDA,Clay County,12019,23.1
+FLORIDA,Collier County,12021,19.9
+FLORIDA,Columbia County,12023,25.8
+FLORIDA,DeSoto County,12027,27.3
+FLORIDA,Dixie County,12029,26.5
+FLORIDA,Duval County,12031,25.9
+FLORIDA,Escambia County,12033,28.5
+FLORIDA,Flagler County,12035,20.6
+FLORIDA,Franklin County,12037,23.3
+FLORIDA,Gadsden County,12039,27.8
+FLORIDA,Gilchrist County,12041,25.6
+FLORIDA,Glades County,12043,25.4
+FLORIDA,Gulf County,12045,24.4
+FLORIDA,Hamilton County,12047,27.2
+FLORIDA,Hardee County,12049,27.2
+FLORIDA,Hendry County,12051,24.8
+FLORIDA,Hernando County,12053,21.8
+FLORIDA,Highlands County,12055,24.0
+FLORIDA,Hillsborough County,12057,23.9
+FLORIDA,Holmes County,12059,26.9
+FLORIDA,Indian River County,12061,19.2
+FLORIDA,Jackson County,12063,24.5
+FLORIDA,Jefferson County,12065,25.3
+FLORIDA,Lafayette County,12067,23.3
+FLORIDA,Lake County,12069,23.8
+FLORIDA,Lee County,12071,23.3
+FLORIDA,Leon County,12073,22.3
+FLORIDA,Levy County,12075,26.2
+FLORIDA,Liberty County,12077,26.7
+FLORIDA,Madison County,12079,25.8
+FLORIDA,Manatee County,12081,20.3
+FLORIDA,Marion County,12083,25.3
+FLORIDA,Martin County,12085,20.4
+FLORIDA,Miami-Dade County,12086,18.2
+FLORIDA,Monroe County,12087,22.8
+FLORIDA,Nassau County,12089,23.3
+FLORIDA,Okaloosa County,12091,24.0
+FLORIDA,Okeechobee County,12093,26.2
+FLORIDA,Orange County,12095,21.8
+FLORIDA,Osceola County,12097,21.6
+FLORIDA,Palm Beach County,12099,20.2
+FLORIDA,Pasco County,12101,23.7
+FLORIDA,Pinellas County,12103,24.2
+FLORIDA,Polk County,12105,28.5
+FLORIDA,Putnam County,12107,25.0
+FLORIDA,St. Johns County,12109,19.9
+FLORIDA,St. Lucie County,12111,24.0
+FLORIDA,Santa Rosa County,12113,21.6
+FLORIDA,Sarasota County,12115,20.0
+FLORIDA,Seminole County,12117,21.4
+FLORIDA,Sumter County,12119,27.1
+FLORIDA,Suwannee County,12121,26.1
+FLORIDA,Taylor County,12123,28.9
+FLORIDA,Union County,12125,26.1
+FLORIDA,Volusia County,12127,22.8
+FLORIDA,Wakulla County,12129,25.5
+FLORIDA,Walton County,12131,24.9
+FLORIDA,Washington County,12133,27.8
+GEORGIA,Appling County,13001,27.7
+GEORGIA,Atkinson County,13003,26.0
+GEORGIA,Bacon County,13005,27.5
+GEORGIA,Baker County,13007,31.6
+GEORGIA,Baldwin County,13009,28.5
+GEORGIA,Banks County,13011,26.7
+GEORGIA,Barrow County,13013,25.9
+GEORGIA,Bartow County,13015,24.3
+GEORGIA,Ben Hill County,13017,29.9
+GEORGIA,Berrien County,13019,27.3
+GEORGIA,Bibb County,13021,29.2
+GEORGIA,Bleckley County,13023,28.4
+GEORGIA,Brantley County,13025,27.5
+GEORGIA,Brooks County,13027,28.8
+GEORGIA,Bryan County,13029,24.0
+GEORGIA,Bulloch County,13031,26.9
+GEORGIA,Burke County,13033,30.1
+GEORGIA,Butts County,13035,27.6
+GEORGIA,Calhoun County,13037,31.2
+GEORGIA,Camden County,13039,30.0
+GEORGIA,Candler County,13043,28.3
+GEORGIA,Carroll County,13045,28.0
+GEORGIA,Catoosa County,13047,26.0
+GEORGIA,Charlton County,13049,27.9
+GEORGIA,Chatham County,13051,27.6
+GEORGIA,Chattahoochee County,13053,28.5
+GEORGIA,Chattooga County,13055,24.9
+GEORGIA,Cherokee County,13057,23.4
+GEORGIA,Clarke County,13059,25.6
+GEORGIA,Clay County,13061,30.1
+GEORGIA,Clayton County,13063,27.9
+GEORGIA,Clinch County,13065,27.6
+GEORGIA,Cobb County,13067,21.4
+GEORGIA,Coffee County,13069,28.9
+GEORGIA,Colquitt County,13071,28.0
+GEORGIA,Columbia County,13073,23.5
+GEORGIA,Cook County,13075,28.1
+GEORGIA,Coweta County,13077,28.5
+GEORGIA,Crawford County,13079,27.0
+GEORGIA,Crisp County,13081,28.3
+GEORGIA,Dade County,13083,25.4
+GEORGIA,Dawson County,13085,23.7
+GEORGIA,Decatur County,13087,29.9
+GEORGIA,DeKalb County,13089,23.8
+GEORGIA,Dodge County,13091,29.0
+GEORGIA,Dooly County,13093,28.8
+GEORGIA,Dougherty County,13095,30.5
+GEORGIA,Douglas County,13097,26.9
+GEORGIA,Early County,13099,29.1
+GEORGIA,Echols County,13101,26.5
+GEORGIA,Effingham County,13103,25.0
+GEORGIA,Elbert County,13105,28.0
+GEORGIA,Emanuel County,13107,28.9
+GEORGIA,Evans County,13109,27.0
+GEORGIA,Fannin County,13111,24.9
+GEORGIA,Fayette County,13113,23.7
+GEORGIA,Floyd County,13115,28.4
+GEORGIA,Forsyth County,13117,20.6
+GEORGIA,Franklin County,13119,25.2
+GEORGIA,Fulton County,13121,23.7
+GEORGIA,Gilmer County,13123,23.4
+GEORGIA,Glascock County,13125,26.7
+GEORGIA,Glynn County,13127,28.5
+GEORGIA,Gordon County,13129,26.6
+GEORGIA,Grady County,13131,28.7
+GEORGIA,Greene County,13133,28.6
+GEORGIA,Gwinnett County,13135,24.5
+GEORGIA,Habersham County,13137,24.9
+GEORGIA,Hall County,13139,22.7
+GEORGIA,Hancock County,13141,31.7
+GEORGIA,Haralson County,13143,26.5
+GEORGIA,Harris County,13145,26.5
+GEORGIA,Hart County,13147,26.6
+GEORGIA,Heard County,13149,26.4
+GEORGIA,Henry County,13151,29.4
+GEORGIA,Houston County,13153,27.2
+GEORGIA,Irwin County,13155,27.4
+GEORGIA,Jackson County,13157,24.3
+GEORGIA,Jasper County,13159,28.2
+GEORGIA,Jeff Davis County,13161,30.0
+GEORGIA,Jefferson County,13163,32.2
+GEORGIA,Jenkins County,13165,29.8
+GEORGIA,Johnson County,13167,29.7
+GEORGIA,Jones County,13169,28.1
+GEORGIA,Lamar County,13171,26.8
+GEORGIA,Lanier County,13173,27.0
+GEORGIA,Laurens County,13175,27.3
+GEORGIA,Lee County,13177,24.3
+GEORGIA,Liberty County,13179,28.3
+GEORGIA,Lincoln County,13181,28.5
+GEORGIA,Long County,13183,27.5
+GEORGIA,Lowndes County,13185,25.3
+GEORGIA,Lumpkin County,13187,25.0
+GEORGIA,McDuffie County,13189,29.5
+GEORGIA,McIntosh County,13191,29.8
+GEORGIA,Macon County,13193,31.7
+GEORGIA,Madison County,13195,24.3
+GEORGIA,Marion County,13197,28.5
+GEORGIA,Meriwether County,13199,28.9
+GEORGIA,Miller County,13201,27.0
+GEORGIA,Mitchell County,13205,30.2
+GEORGIA,Monroe County,13207,27.4
+GEORGIA,Montgomery County,13209,26.1
+GEORGIA,Morgan County,13211,27.0
+GEORGIA,Murray County,13213,27.5
+GEORGIA,Muscogee County,13215,28.1
+GEORGIA,Newton County,13217,27.4
+GEORGIA,Oconee County,13219,23.8
+GEORGIA,Oglethorpe County,13221,27.6
+GEORGIA,Paulding County,13223,28.7
+GEORGIA,Peach County,13225,30.0
+GEORGIA,Pickens County,13227,24.9
+GEORGIA,Pierce County,13229,27.7
+GEORGIA,Pike County,13231,26.9
+GEORGIA,Polk County,13233,24.7
+GEORGIA,Pulaski County,13235,29.4
+GEORGIA,Putnam County,13237,27.0
+GEORGIA,Quitman County,13239,29.3
+GEORGIA,Rabun County,13241,23.6
+GEORGIA,Randolph County,13243,30.4
+GEORGIA,Richmond County,13245,28.8
+GEORGIA,Rockdale County,13247,28.7
+GEORGIA,Schley County,13249,27.1
+GEORGIA,Screven County,13251,28.9
+GEORGIA,Seminole County,13253,28.3
+GEORGIA,Spalding County,13255,28.2
+GEORGIA,Stephens County,13257,26.2
+GEORGIA,Stewart County,13259,31.0
+GEORGIA,Sumter County,13261,28.7
+GEORGIA,Talbot County,13263,29.9
+GEORGIA,Taliaferro County,13265,30.7
+GEORGIA,Tattnall County,13267,28.0
+GEORGIA,Taylor County,13269,28.5
+GEORGIA,Telfair County,13271,27.0
+GEORGIA,Terrell County,13273,32.0
+GEORGIA,Thomas County,13275,28.0
+GEORGIA,Tift County,13277,27.0
+GEORGIA,Toombs County,13279,26.9
+GEORGIA,Towns County,13281,25.4
+GEORGIA,Treutlen County,13283,28.6
+GEORGIA,Troup County,13285,26.4
+GEORGIA,Turner County,13287,29.2
+GEORGIA,Twiggs County,13289,28.8
+GEORGIA,Union County,13291,25.9
+GEORGIA,Upson County,13293,29.9
+GEORGIA,Walker County,13295,24.4
+GEORGIA,Walton County,13297,25.6
+GEORGIA,Ware County,13299,28.4
+GEORGIA,Warren County,13301,30.8
+GEORGIA,Washington County,13303,30.3
+GEORGIA,Wayne County,13305,27.4
+GEORGIA,Webster County,13307,30.1
+GEORGIA,Wheeler County,13309,29.1
+GEORGIA,White County,13311,24.1
+GEORGIA,Whitfield County,13313,27.4
+GEORGIA,Wilcox County,13315,29.1
+GEORGIA,Wilkes County,13317,28.3
+GEORGIA,Wilkinson County,13319,29.4
+GEORGIA,Worth County,13321,28.4
+HAWAII,Hawaii County,15001,21.3
+HAWAII,Honolulu County,15003,19.3
+HAWAII,Kalawao County,15005,24.2
+HAWAII,Kauai County,15007,21.1
+HAWAII,Maui County,15009,20.5
+IDAHO,Ada County,16001,20.2
+IDAHO,Adams County,16003,22.0
+IDAHO,Bannock County,16005,24.7
+IDAHO,Bear Lake County,16007,26.3
+IDAHO,Benewah County,16009,28.0
+IDAHO,Bingham County,16011,26.7
+IDAHO,Blaine County,16013,14.1
+IDAHO,Boise County,16015,21.6
+IDAHO,Bonner County,16017,18.6
+IDAHO,Bonneville County,16019,24.5
+IDAHO,Boundary County,16021,22.8
+IDAHO,Butte County,16023,25.9
+IDAHO,Camas County,16025,23.8
+IDAHO,Canyon County,16027,26.9
+IDAHO,Caribou County,16029,23.4
+IDAHO,Cassia County,16031,21.8
+IDAHO,Clark County,16033,22.4
+IDAHO,Clearwater County,16035,23.9
+IDAHO,Custer County,16037,25.4
+IDAHO,Elmore County,16039,28.3
+IDAHO,Franklin County,16041,22.1
+IDAHO,Fremont County,16043,24.0
+IDAHO,Gem County,16045,29.0
+IDAHO,Gooding County,16047,25.2
+IDAHO,Idaho County,16049,23.2
+IDAHO,Jefferson County,16051,25.9
+IDAHO,Jerome County,16053,24.9
+IDAHO,Kootenai County,16055,22.4
+IDAHO,Latah County,16057,21.1
+IDAHO,Lemhi County,16059,21.0
+IDAHO,Lewis County,16061,26.5
+IDAHO,Lincoln County,16063,20.5
+IDAHO,Madison County,16065,24.1
+IDAHO,Minidoka County,16067,24.1
+IDAHO,Nez Perce County,16069,25.4
+IDAHO,Oneida County,16071,21.9
+IDAHO,Owyhee County,16073,26.7
+IDAHO,Payette County,16075,26.3
+IDAHO,Power County,16077,27.6
+IDAHO,Shoshone County,16079,24.9
+IDAHO,Teton County,16081,20.5
+IDAHO,Twin Falls County,16083,25.3
+IDAHO,Valley County,16085,21.8
+IDAHO,Washington County,16087,25.8
+ILLINOIS,Adams County,17001,25.2
+ILLINOIS,Alexander County,17003,26.7
+ILLINOIS,Bond County,17005,26.1
+ILLINOIS,Boone County,17007,25.9
+ILLINOIS,Brown County,17009,25.3
+ILLINOIS,Bureau County,17011,24.3
+ILLINOIS,Calhoun County,17013,24.9
+ILLINOIS,Carroll County,17015,24.6
+ILLINOIS,Cass County,17017,25.6
+ILLINOIS,Champaign County,17019,25.4
+ILLINOIS,Christian County,17021,25.3
+ILLINOIS,Clark County,17023,25.0
+ILLINOIS,Clay County,17025,25.5
+ILLINOIS,Clinton County,17027,25.1
+ILLINOIS,Coles County,17029,25.5
+ILLINOIS,Cook County,17031,22.4
+ILLINOIS,Crawford County,17033,25.4
+ILLINOIS,Cumberland County,17035,25.2
+ILLINOIS,DeKalb County,17037,24.3
+ILLINOIS,De Witt County,17039,26.6
+ILLINOIS,Douglas County,17041,24.4
+ILLINOIS,DuPage County,17043,21.2
+ILLINOIS,Edgar County,17045,25.0
+ILLINOIS,Edwards County,17047,25.1
+ILLINOIS,Effingham County,17049,25.4
+ILLINOIS,Fayette County,17051,25.4
+ILLINOIS,Ford County,17053,24.8
+ILLINOIS,Franklin County,17055,25.2
+ILLINOIS,Fulton County,17057,25.2
+ILLINOIS,Gallatin County,17059,25.5
+ILLINOIS,Greene County,17061,25.8
+ILLINOIS,Grundy County,17063,26.2
+ILLINOIS,Hamilton County,17065,24.8
+ILLINOIS,Hancock County,17067,25.0
+ILLINOIS,Hardin County,17069,25.2
+ILLINOIS,Henderson County,17071,25.9
+ILLINOIS,Henry County,17073,23.9
+ILLINOIS,Iroquois County,17075,25.1
+ILLINOIS,Jackson County,17077,25.8
+ILLINOIS,Jasper County,17079,24.9
+ILLINOIS,Jefferson County,17081,27.0
+ILLINOIS,Jersey County,17083,25.6
+ILLINOIS,Jo Daviess County,17085,25.0
+ILLINOIS,Johnson County,17087,25.7
+ILLINOIS,Kane County,17089,24.3
+ILLINOIS,Kankakee County,17091,26.3
+ILLINOIS,Kendall County,17093,24.6
+ILLINOIS,Knox County,17095,25.7
+ILLINOIS,Lake County,17097,22.3
+ILLINOIS,LaSalle County,17099,25.2
+ILLINOIS,Lawrence County,17101,24.3
+ILLINOIS,Lee County,17103,25.8
+ILLINOIS,Livingston County,17105,25.5
+ILLINOIS,Logan County,17107,26.5
+ILLINOIS,McDonough County,17109,25.4
+ILLINOIS,McHenry County,17111,24.1
+ILLINOIS,McLean County,17113,24.8
+ILLINOIS,Macon County,17115,26.0
+ILLINOIS,Macoupin County,17117,25.7
+ILLINOIS,Madison County,17119,26.6
+ILLINOIS,Marion County,17121,25.2
+ILLINOIS,Marshall County,17123,24.1
+ILLINOIS,Mason County,17125,24.9
+ILLINOIS,Massac County,17127,25.0
+ILLINOIS,Menard County,17129,24.7
+ILLINOIS,Mercer County,17131,26.1
+ILLINOIS,Monroe County,17133,25.0
+ILLINOIS,Montgomery County,17135,26.4
+ILLINOIS,Morgan County,17137,25.6
+ILLINOIS,Moultrie County,17139,24.6
+ILLINOIS,Ogle County,17141,25.1
+ILLINOIS,Peoria County,17143,27.0
+ILLINOIS,Perry County,17145,26.6
+ILLINOIS,Piatt County,17147,24.3
+ILLINOIS,Pike County,17149,24.8
+ILLINOIS,Pope County,17151,25.5
+ILLINOIS,Pulaski County,17153,26.6
+ILLINOIS,Putnam County,17155,25.4
+ILLINOIS,Randolph County,17157,25.1
+ILLINOIS,Richland County,17159,25.2
+ILLINOIS,Rock Island County,17161,26.1
+ILLINOIS,St. Clair County,17163,28.2
+ILLINOIS,Saline County,17165,26.3
+ILLINOIS,Sangamon County,17167,24.9
+ILLINOIS,Schuyler County,17169,25.8
+ILLINOIS,Scott County,17171,24.8
+ILLINOIS,Shelby County,17173,24.5
+ILLINOIS,Stark County,17175,24.8
+ILLINOIS,Stephenson County,17177,24.9
+ILLINOIS,Tazewell County,17179,25.6
+ILLINOIS,Union County,17181,25.0
+ILLINOIS,Vermilion County,17183,27.3
+ILLINOIS,Wabash County,17185,25.2
+ILLINOIS,Warren County,17187,25.4
+ILLINOIS,Washington County,17189,25.5
+ILLINOIS,Wayne County,17191,24.7
+ILLINOIS,White County,17193,24.8
+ILLINOIS,Whiteside County,17195,24.7
+ILLINOIS,Will County,17197,24.7
+ILLINOIS,Williamson County,17199,26.0
+ILLINOIS,Winnebago County,17201,24.7
+ILLINOIS,Woodford County,17203,26.8
+INDIANA,Adams County,18001,27.1
+INDIANA,Allen County,18003,25.4
+INDIANA,Bartholomew County,18005,26.9
+INDIANA,Benton County,18007,27.6
+INDIANA,Blackford County,18009,26.6
+INDIANA,Boone County,18011,26.9
+INDIANA,Brown County,18013,25.9
+INDIANA,Carroll County,18015,27.9
+INDIANA,Cass County,18017,25.8
+INDIANA,Clark County,18019,28.3
+INDIANA,Clay County,18021,27.8
+INDIANA,Clinton County,18023,26.7
+INDIANA,Crawford County,18025,26.2
+INDIANA,Daviess County,18027,27.8
+INDIANA,Dearborn County,18029,26.3
+INDIANA,Decatur County,18031,28.2
+INDIANA,DeKalb County,18033,27.8
+INDIANA,Delaware County,18035,28.8
+INDIANA,Dubois County,18037,25.8
+INDIANA,Elkhart County,18039,26.8
+INDIANA,Fayette County,18041,26.6
+INDIANA,Floyd County,18043,27.3
+INDIANA,Fountain County,18045,26.9
+INDIANA,Franklin County,18047,27.0
+INDIANA,Fulton County,18049,26.6
+INDIANA,Gibson County,18051,25.7
+INDIANA,Grant County,18053,31.2
+INDIANA,Greene County,18055,27.0
+INDIANA,Hamilton County,18057,22.4
+INDIANA,Hancock County,18059,26.6
+INDIANA,Harrison County,18061,26.4
+INDIANA,Hendricks County,18063,26.0
+INDIANA,Henry County,18065,28.1
+INDIANA,Howard County,18067,27.9
+INDIANA,Huntington County,18069,26.1
+INDIANA,Jackson County,18071,27.7
+INDIANA,Jasper County,18073,27.8
+INDIANA,Jay County,18075,26.7
+INDIANA,Jefferson County,18077,27.4
+INDIANA,Jennings County,18079,27.2
+INDIANA,Johnson County,18081,25.3
+INDIANA,Knox County,18083,27.7
+INDIANA,Kosciusko County,18085,26.1
+INDIANA,LaGrange County,18087,26.1
+INDIANA,Lake County,18089,30.6
+INDIANA,LaPorte County,18091,26.8
+INDIANA,Lawrence County,18093,28.3
+INDIANA,Madison County,18095,26.8
+INDIANA,Marion County,18097,26.1
+INDIANA,Marshall County,18099,27.0
+INDIANA,Martin County,18101,27.2
+INDIANA,Miami County,18103,26.7
+INDIANA,Monroe County,18105,25.6
+INDIANA,Montgomery County,18107,28.0
+INDIANA,Morgan County,18109,26.8
+INDIANA,Newton County,18111,27.6
+INDIANA,Noble County,18113,28.2
+INDIANA,Ohio County,18115,27.1
+INDIANA,Orange County,18117,27.9
+INDIANA,Owen County,18119,28.8
+INDIANA,Parke County,18121,27.7
+INDIANA,Perry County,18123,27.6
+INDIANA,Pike County,18125,27.6
+INDIANA,Porter County,18127,25.0
+INDIANA,Posey County,18129,27.0
+INDIANA,Pulaski County,18131,27.3
+INDIANA,Putnam County,18133,25.8
+INDIANA,Randolph County,18135,26.6
+INDIANA,Ripley County,18137,27.1
+INDIANA,Rush County,18139,27.4
+INDIANA,St. Joseph County,18141,26.9
+INDIANA,Scott County,18143,27.9
+INDIANA,Shelby County,18145,27.7
+INDIANA,Spencer County,18147,27.2
+INDIANA,Starke County,18149,27.7
+INDIANA,Steuben County,18151,25.9
+INDIANA,Sullivan County,18153,27.2
+INDIANA,Switzerland County,18155,27.5
+INDIANA,Tippecanoe County,18157,26.2
+INDIANA,Tipton County,18159,28.1
+INDIANA,Union County,18161,27.6
+INDIANA,Vanderburgh County,18163,27.4
+INDIANA,Vermillion County,18165,27.3
+INDIANA,Vigo County,18167,29.0
+INDIANA,Wabash County,18169,26.2
+INDIANA,Warren County,18171,26.6
+INDIANA,Warrick County,18173,26.4
+INDIANA,Washington County,18175,26.3
+INDIANA,Wayne County,18177,27.6
+INDIANA,Wells County,18179,26.0
+INDIANA,White County,18181,27.4
+INDIANA,Whitley County,18183,26.7
+IOWA,Adair County,19001,26.5
+IOWA,Adams County,19003,25.7
+IOWA,Allamakee County,19005,25.1
+IOWA,Appanoose County,19007,25.7
+IOWA,Audubon County,19009,25.8
+IOWA,Benton County,19011,26.6
+IOWA,Black Hawk County,19013,26.0
+IOWA,Boone County,19015,25.7
+IOWA,Bremer County,19017,25.0
+IOWA,Buchanan County,19019,27.2
+IOWA,Buena Vista County,19021,26.2
+IOWA,Butler County,19023,25.5
+IOWA,Calhoun County,19025,26.4
+IOWA,Carroll County,19027,25.0
+IOWA,Cass County,19029,25.2
+IOWA,Cedar County,19031,26.5
+IOWA,Cerro Gordo County,19033,26.1
+IOWA,Cherokee County,19035,25.2
+IOWA,Chickasaw County,19037,26.5
+IOWA,Clarke County,19039,25.9
+IOWA,Clay County,19041,25.6
+IOWA,Clayton County,19043,26.5
+IOWA,Clinton County,19045,27.4
+IOWA,Crawford County,19047,25.5
+IOWA,Dallas County,19049,24.5
+IOWA,Davis County,19051,26.0
+IOWA,Decatur County,19053,25.7
+IOWA,Delaware County,19055,25.1
+IOWA,Des Moines County,19057,27.2
+IOWA,Dickinson County,19059,26.4
+IOWA,Dubuque County,19061,26.5
+IOWA,Emmet County,19063,25.9
+IOWA,Fayette County,19065,25.2
+IOWA,Floyd County,19067,26.7
+IOWA,Franklin County,19069,25.9
+IOWA,Fremont County,19071,26.9
+IOWA,Greene County,19073,27.0
+IOWA,Grundy County,19075,24.3
+IOWA,Guthrie County,19077,25.6
+IOWA,Hamilton County,19079,27.0
+IOWA,Hancock County,19081,24.8
+IOWA,Hardin County,19083,25.9
+IOWA,Harrison County,19085,28.1
+IOWA,Henry County,19087,26.0
+IOWA,Howard County,19089,25.9
+IOWA,Humboldt County,19091,26.1
+IOWA,Ida County,19093,25.8
+IOWA,Iowa County,19095,26.4
+IOWA,Jackson County,19097,25.6
+IOWA,Jasper County,19099,27.1
+IOWA,Jefferson County,19101,25.0
+IOWA,Johnson County,19103,22.3
+IOWA,Jones County,19105,24.5
+IOWA,Keokuk County,19107,25.3
+IOWA,Kossuth County,19109,25.7
+IOWA,Lee County,19111,26.3
+IOWA,Linn County,19113,24.5
+IOWA,Louisa County,19115,26.3
+IOWA,Lucas County,19117,26.3
+IOWA,Lyon County,19119,24.7
+IOWA,Madison County,19121,26.9
+IOWA,Mahaska County,19123,25.6
+IOWA,Marion County,19125,25.7
+IOWA,Marshall County,19127,26.0
+IOWA,Mills County,19129,25.5
+IOWA,Mitchell County,19131,26.4
+IOWA,Monona County,19133,25.9
+IOWA,Monroe County,19135,26.7
+IOWA,Montgomery County,19137,26.4
+IOWA,Muscatine County,19139,24.6
+IOWA,O'Brien County,19141,25.0
+IOWA,Osceola County,19143,26.5
+IOWA,Page County,19145,26.7
+IOWA,Palo Alto County,19147,25.3
+IOWA,Plymouth County,19149,25.8
+IOWA,Pocahontas County,19151,25.8
+IOWA,Polk County,19153,24.3
+IOWA,Pottawattamie County,19155,26.9
+IOWA,Poweshiek County,19157,27.0
+IOWA,Ringgold County,19159,25.7
+IOWA,Sac County,19161,25.2
+IOWA,Scott County,19163,24.3
+IOWA,Shelby County,19165,26.7
+IOWA,Sioux County,19167,24.3
+IOWA,Story County,19169,23.6
+IOWA,Tama County,19171,25.5
+IOWA,Taylor County,19173,26.1
+IOWA,Union County,19175,26.4
+IOWA,Van Buren County,19177,26.8
+IOWA,Wapello County,19179,25.7
+IOWA,Warren County,19181,27.2
+IOWA,Washington County,19183,26.1
+IOWA,Wayne County,19185,25.1
+IOWA,Webster County,19187,25.7
+IOWA,Winnebago County,19189,25.8
+IOWA,Winneshiek County,19191,26.8
+IOWA,Woodbury County,19193,25.9
+IOWA,Worth County,19195,25.7
+IOWA,Wright County,19197,24.0
+KANSAS,Allen County,20001,27.1
+KANSAS,Anderson County,20003,25.5
+KANSAS,Atchison County,20005,27.9
+KANSAS,Barber County,20007,24.7
+KANSAS,Barton County,20009,27.0
+KANSAS,Bourbon County,20011,25.4
+KANSAS,Brown County,20013,26.9
+KANSAS,Butler County,20015,26.1
+KANSAS,Chase County,20017,27.0
+KANSAS,Chautauqua County,20019,26.9
+KANSAS,Cherokee County,20021,27.4
+KANSAS,Cheyenne County,20023,26.2
+KANSAS,Clark County,20025,26.8
+KANSAS,Clay County,20027,27.3
+KANSAS,Cloud County,20029,26.3
+KANSAS,Coffey County,20031,26.7
+KANSAS,Comanche County,20033,25.4
+KANSAS,Cowley County,20035,27.3
+KANSAS,Crawford County,20037,26.7
+KANSAS,Decatur County,20039,26.5
+KANSAS,Dickinson County,20041,28.9
+KANSAS,Doniphan County,20043,26.4
+KANSAS,Douglas County,20045,20.8
+KANSAS,Edwards County,20047,25.5
+KANSAS,Elk County,20049,27.4
+KANSAS,Ellis County,20051,23.9
+KANSAS,Ellsworth County,20053,27.0
+KANSAS,Finney County,20055,23.9
+KANSAS,Ford County,20057,26.4
+KANSAS,Franklin County,20059,27.6
+KANSAS,Geary County,20061,24.5
+KANSAS,Gove County,20063,25.0
+KANSAS,Graham County,20065,25.2
+KANSAS,Grant County,20067,28.2
+KANSAS,Gray County,20069,26.0
+KANSAS,Greeley County,20071,26.6
+KANSAS,Greenwood County,20073,26.9
+KANSAS,Hamilton County,20075,27.0
+KANSAS,Harper County,20077,27.4
+KANSAS,Harvey County,20079,25.8
+KANSAS,Haskell County,20081,26.1
+KANSAS,Hodgeman County,20083,26.0
+KANSAS,Jackson County,20085,25.7
+KANSAS,Jefferson County,20087,27.2
+KANSAS,Jewell County,20089,25.9
+KANSAS,Johnson County,20091,19.5
+KANSAS,Kearny County,20093,26.1
+KANSAS,Kingman County,20095,27.1
+KANSAS,Kiowa County,20097,25.4
+KANSAS,Labette County,20099,27.0
+KANSAS,Lane County,20101,27.8
+KANSAS,Leavenworth County,20103,24.6
+KANSAS,Lincoln County,20105,26.0
+KANSAS,Linn County,20107,26.8
+KANSAS,Logan County,20109,24.9
+KANSAS,Lyon County,20111,26.1
+KANSAS,McPherson County,20113,26.9
+KANSAS,Marion County,20115,26.0
+KANSAS,Marshall County,20117,28.6
+KANSAS,Meade County,20119,25.1
+KANSAS,Miami County,20121,26.5
+KANSAS,Mitchell County,20123,24.1
+KANSAS,Montgomery County,20125,27.9
+KANSAS,Morris County,20127,26.5
+KANSAS,Morton County,20129,26.3
+KANSAS,Nemaha County,20131,23.9
+KANSAS,Neosho County,20133,26.2
+KANSAS,Ness County,20135,26.0
+KANSAS,Norton County,20137,25.4
+KANSAS,Osage County,20139,26.5
+KANSAS,Osborne County,20141,26.0
+KANSAS,Ottawa County,20143,25.9
+KANSAS,Pawnee County,20145,25.8
+KANSAS,Phillips County,20147,26.6
+KANSAS,Pottawatomie County,20149,25.5
+KANSAS,Pratt County,20151,25.1
+KANSAS,Rawlins County,20153,25.4
+KANSAS,Reno County,20155,25.2
+KANSAS,Republic County,20157,25.3
+KANSAS,Rice County,20159,26.5
+KANSAS,Riley County,20161,23.3
+KANSAS,Rooks County,20163,24.6
+KANSAS,Rush County,20165,27.6
+KANSAS,Russell County,20167,26.9
+KANSAS,Saline County,20169,26.1
+KANSAS,Scott County,20171,26.1
+KANSAS,Sedgwick County,20173,25.1
+KANSAS,Seward County,20175,25.6
+KANSAS,Shawnee County,20177,27.1
+KANSAS,Sheridan County,20179,25.0
+KANSAS,Sherman County,20181,25.6
+KANSAS,Smith County,20183,25.4
+KANSAS,Stafford County,20185,24.8
+KANSAS,Stanton County,20187,26.1
+KANSAS,Stevens County,20189,24.9
+KANSAS,Sumner County,20191,28.1
+KANSAS,Thomas County,20193,24.8
+KANSAS,Trego County,20195,26.1
+KANSAS,Wabaunsee County,20197,25.4
+KANSAS,Wallace County,20199,26.2
+KANSAS,Washington County,20201,25.2
+KANSAS,Wichita County,20203,26.8
+KANSAS,Wilson County,20205,25.8
+KANSAS,Woodson County,20207,25.7
+KANSAS,Wyandotte County,20209,28.5
+KENTUCKY,Adair County,21001,32.3
+KENTUCKY,Allen County,21003,30.1
+KENTUCKY,Anderson County,21005,26.9
+KENTUCKY,Ballard County,21007,28.8
+KENTUCKY,Barren County,21009,26.4
+KENTUCKY,Bath County,21011,33.0
+KENTUCKY,Bell County,21013,31.3
+KENTUCKY,Boone County,21015,25.8
+KENTUCKY,Bourbon County,21017,29.0
+KENTUCKY,Boyd County,21019,29.7
+KENTUCKY,Boyle County,21021,28.4
+KENTUCKY,Bracken County,21023,29.1
+KENTUCKY,Breathitt County,21025,33.4
+KENTUCKY,Breckinridge County,21027,26.3
+KENTUCKY,Bullitt County,21029,28.3
+KENTUCKY,Butler County,21031,29.0
+KENTUCKY,Caldwell County,21033,27.4
+KENTUCKY,Calloway County,21035,23.2
+KENTUCKY,Campbell County,21037,27.4
+KENTUCKY,Carlisle County,21039,27.6
+KENTUCKY,Carroll County,21041,28.4
+KENTUCKY,Carter County,21043,30.2
+KENTUCKY,Casey County,21045,27.3
+KENTUCKY,Christian County,21047,29.6
+KENTUCKY,Clark County,21049,30.2
+KENTUCKY,Clay County,21051,29.9
+KENTUCKY,Clinton County,21053,28.3
+KENTUCKY,Crittenden County,21055,29.3
+KENTUCKY,Cumberland County,21057,29.9
+KENTUCKY,Daviess County,21059,27.7
+KENTUCKY,Edmonson County,21061,28.8
+KENTUCKY,Elliott County,21063,29.0
+KENTUCKY,Estill County,21065,27.4
+KENTUCKY,Fayette County,21067,25.9
+KENTUCKY,Fleming County,21069,27.8
+KENTUCKY,Floyd County,21071,31.7
+KENTUCKY,Franklin County,21073,27.7
+KENTUCKY,Fulton County,21075,29.5
+KENTUCKY,Gallatin County,21077,28.1
+KENTUCKY,Garrard County,21079,26.3
+KENTUCKY,Grant County,21081,27.7
+KENTUCKY,Graves County,21083,27.4
+KENTUCKY,Grayson County,21085,28.9
+KENTUCKY,Green County,21087,31.3
+KENTUCKY,Greenup County,21089,31.6
+KENTUCKY,Hancock County,21091,27.1
+KENTUCKY,Hardin County,21093,29.4
+KENTUCKY,Harlan County,21095,31.8
+KENTUCKY,Harrison County,21097,28.5
+KENTUCKY,Hart County,21099,27.2
+KENTUCKY,Henderson County,21101,26.8
+KENTUCKY,Henry County,21103,29.7
+KENTUCKY,Hickman County,21105,31.0
+KENTUCKY,Hopkins County,21107,31.5
+KENTUCKY,Jackson County,21109,28.8
+KENTUCKY,Jefferson County,21111,26.5
+KENTUCKY,Jessamine County,21113,27.1
+KENTUCKY,Johnson County,21115,34.1
+KENTUCKY,Kenton County,21117,25.2
+KENTUCKY,Knott County,21119,29.6
+KENTUCKY,Knox County,21121,26.5
+KENTUCKY,Larue County,21123,28.2
+KENTUCKY,Laurel County,21125,29.7
+KENTUCKY,Lawrence County,21127,29.5
+KENTUCKY,Lee County,21129,29.7
+KENTUCKY,Leslie County,21131,31.6
+KENTUCKY,Letcher County,21133,34.0
+KENTUCKY,Lewis County,21135,29.7
+KENTUCKY,Lincoln County,21137,27.5
+KENTUCKY,Livingston County,21139,30.2
+KENTUCKY,Logan County,21141,29.9
+KENTUCKY,Lyon County,21143,29.3
+KENTUCKY,McCracken County,21145,26.8
+KENTUCKY,McCreary County,21147,30.7
+KENTUCKY,McLean County,21149,33.5
+KENTUCKY,Madison County,21151,27.7
+KENTUCKY,Magoffin County,21153,29.9
+KENTUCKY,Marion County,21155,28.6
+KENTUCKY,Marshall County,21157,26.0
+KENTUCKY,Martin County,21159,31.1
+KENTUCKY,Mason County,21161,26.3
+KENTUCKY,Meade County,21163,28.5
+KENTUCKY,Menifee County,21165,28.8
+KENTUCKY,Mercer County,21167,30.3
+KENTUCKY,Metcalfe County,21169,28.7
+KENTUCKY,Monroe County,21171,28.6
+KENTUCKY,Montgomery County,21173,30.5
+KENTUCKY,Morgan County,21175,29.3
+KENTUCKY,Muhlenberg County,21177,30.8
+KENTUCKY,Nelson County,21179,27.6
+KENTUCKY,Nicholas County,21181,29.6
+KENTUCKY,Ohio County,21183,29.6
+KENTUCKY,Oldham County,21185,25.4
+KENTUCKY,Owen County,21187,27.9
+KENTUCKY,Owsley County,21189,28.1
+KENTUCKY,Pendleton County,21191,28.5
+KENTUCKY,Perry County,21193,29.8
+KENTUCKY,Pike County,21195,30.0
+KENTUCKY,Powell County,21197,28.9
+KENTUCKY,Pulaski County,21199,27.7
+KENTUCKY,Robertson County,21201,26.5
+KENTUCKY,Rockcastle County,21203,30.0
+KENTUCKY,Rowan County,21205,30.2
+KENTUCKY,Russell County,21207,28.3
+KENTUCKY,Scott County,21209,28.8
+KENTUCKY,Shelby County,21211,29.2
+KENTUCKY,Simpson County,21213,29.2
+KENTUCKY,Spencer County,21215,28.4
+KENTUCKY,Taylor County,21217,26.3
+KENTUCKY,Todd County,21219,28.4
+KENTUCKY,Trigg County,21221,28.0
+KENTUCKY,Trimble County,21223,29.6
+KENTUCKY,Union County,21225,29.6
+KENTUCKY,Warren County,21227,26.3
+KENTUCKY,Washington County,21229,28.2
+KENTUCKY,Wayne County,21231,28.2
+KENTUCKY,Webster County,21233,30.6
+KENTUCKY,Whitley County,21235,31.2
+KENTUCKY,Wolfe County,21237,30.1
+KENTUCKY,Woodford County,21239,26.6
+LOUISIANA,Acadia County,22001,29.8
+LOUISIANA,Allen County,22003,29.8
+LOUISIANA,Ascension County,22005,25.4
+LOUISIANA,Assumption County,22007,29.6
+LOUISIANA,Avoyelles County,22009,29.3
+LOUISIANA,Beauregard County,22011,26.9
+LOUISIANA,Bienville County,22013,30.1
+LOUISIANA,Bossier County,22015,26.1
+LOUISIANA,Caddo County,22017,25.5
+LOUISIANA,Calcasieu County,22019,27.9
+LOUISIANA,Caldwell County,22021,28.7
+LOUISIANA,Cameron County,22023,27.7
+LOUISIANA,Catahoula County,22025,29.5
+LOUISIANA,Claiborne County,22027,30.8
+LOUISIANA,Concordia County,22029,30.4
+LOUISIANA,De Soto County,22031,29.3
+LOUISIANA,East Baton Rouge County,22033,26.6
+LOUISIANA,East Carroll County,22035,32.2
+LOUISIANA,East Feliciana County,22037,31.5
+LOUISIANA,Evangeline County,22039,27.6
+LOUISIANA,Franklin County,22041,28.8
+LOUISIANA,Grant County,22043,26.4
+LOUISIANA,Iberia County,22045,26.6
+LOUISIANA,Iberville County,22047,30.9
+LOUISIANA,Jackson County,22049,25.2
+LOUISIANA,Jefferson County,22051,25.8
+LOUISIANA,Jefferson Davis County,22053,28.1
+LOUISIANA,Lafayette County,22055,25.2
+LOUISIANA,Lafourche County,22057,28.5
+LOUISIANA,La Salle County,22059,27.5
+LOUISIANA,Lincoln County,22061,29.5
+LOUISIANA,Livingston County,22063,27.1
+LOUISIANA,Madison County,22065,32.8
+LOUISIANA,Morehouse County,22067,30.6
+LOUISIANA,Natchitoches County,22069,28.2
+LOUISIANA,Orleans County,22071,29.5
+LOUISIANA,Ouachita County,22073,27.0
+LOUISIANA,Plaquemines County,22075,27.6
+LOUISIANA,Pointe Coupee County,22077,28.3
+LOUISIANA,Rapides County,22079,28.1
+LOUISIANA,Red River County,22081,31.5
+LOUISIANA,Richland County,22083,28.8
+LOUISIANA,Sabine County,22085,29.1
+LOUISIANA,St. Bernard County,22087,29.0
+LOUISIANA,St. Charles County,22089,31.5
+LOUISIANA,St. Helena County,22091,29.1
+LOUISIANA,St. James County,22093,29.5
+LOUISIANA,St. John the Baptist County,22095,28.2
+LOUISIANA,St. Landry County,22097,29.2
+LOUISIANA,St. Martin County,22099,29.8
+LOUISIANA,St. Mary County,22101,32.9
+LOUISIANA,St. Tammany County,22103,23.6
+LOUISIANA,Tangipahoa County,22105,29.5
+LOUISIANA,Tensas County,22107,31.1
+LOUISIANA,Terrebonne County,22109,28.7
+LOUISIANA,Union County,22111,30.5
+LOUISIANA,Vermilion County,22113,25.7
+LOUISIANA,Vernon County,22115,27.7
+LOUISIANA,Washington County,22117,30.4
+LOUISIANA,Webster County,22119,28.3
+LOUISIANA,West Baton Rouge County,22121,29.3
+LOUISIANA,West Carroll County,22123,26.7
+LOUISIANA,West Feliciana County,22125,29.6
+LOUISIANA,Winn County,22127,29.5
+MAINE,Androscoggin County,23001,24.1
+MAINE,Aroostook County,23003,27.0
+MAINE,Cumberland County,23005,17.8
+MAINE,Franklin County,23007,23.6
+MAINE,Hancock County,23009,22.9
+MAINE,Kennebec County,23011,28.2
+MAINE,Knox County,23013,21.1
+MAINE,Lincoln County,23015,19.9
+MAINE,Oxford County,23017,25.3
+MAINE,Penobscot County,23019,25.3
+MAINE,Piscataquis County,23021,24.3
+MAINE,Sagadahoc County,23023,22.7
+MAINE,Somerset County,23025,25.0
+MAINE,Waldo County,23027,26.0
+MAINE,Washington County,23029,28.0
+MAINE,York County,23031,23.5
+MARYLAND,Allegany County,24001,26.5
+MARYLAND,Anne Arundel County,24003,23.4
+MARYLAND,Baltimore County,24005,23.3
+MARYLAND,Calvert County,24009,23.2
+MARYLAND,Caroline County,24011,28.7
+MARYLAND,Carroll County,24013,21.1
+MARYLAND,Cecil County,24015,25.7
+MARYLAND,Charles County,24017,29.3
+MARYLAND,Dorchester County,24019,27.0
+MARYLAND,Frederick County,24021,24.5
+MARYLAND,Garrett County,24023,25.3
+MARYLAND,Harford County,24025,25.0
+MARYLAND,Howard County,24027,21.4
+MARYLAND,Kent County,24029,24.6
+MARYLAND,Montgomery County,24031,17.0
+MARYLAND,Prince George's County,24033,29.1
+MARYLAND,Queen Anne's County,24035,21.3
+MARYLAND,St. Mary's County,24037,25.4
+MARYLAND,Somerset County,24039,29.3
+MARYLAND,Talbot County,24041,20.5
+MARYLAND,Washington County,24043,25.5
+MARYLAND,Wicomico County,24045,27.4
+MARYLAND,Worcester County,24047,24.8
+MARYLAND,Baltimore (City),24510,30.8
+MASSACHUSETTS,Barnstable County,25001,18.8
+MASSACHUSETTS,Berkshire County,25003,19.7
+MASSACHUSETTS,Bristol County,25005,25.9
+MASSACHUSETTS,Dukes County,25007,18.3
+MASSACHUSETTS,Essex County,25009,21.5
+MASSACHUSETTS,Franklin County,25011,21.7
+MASSACHUSETTS,Hampden County,25013,23.3
+MASSACHUSETTS,Hampshire County,25015,18.1
+MASSACHUSETTS,Middlesex County,25017,19.9
+MASSACHUSETTS,Nantucket County,25019,19.7
+MASSACHUSETTS,Norfolk County,25021,17.3
+MASSACHUSETTS,Plymouth County,25023,20.4
+MASSACHUSETTS,Suffolk County,25025,20.0
+MASSACHUSETTS,Worcester County,25027,23.0
+MICHIGAN,Alcona County,26001,26.7
+MICHIGAN,Alger County,26003,27.0
+MICHIGAN,Allegan County,26005,26.1
+MICHIGAN,Alpena County,26007,26.2
+MICHIGAN,Antrim County,26009,25.6
+MICHIGAN,Arenac County,26011,27.5
+MICHIGAN,Baraga County,26013,28.1
+MICHIGAN,Barry County,26015,26.1
+MICHIGAN,Bay County,26017,27.9
+MICHIGAN,Benzie County,26019,27.7
+MICHIGAN,Berrien County,26021,27.1
+MICHIGAN,Branch County,26023,26.3
+MICHIGAN,Calhoun County,26025,26.7
+MICHIGAN,Cass County,26027,26.9
+MICHIGAN,Charlevoix County,26029,26.6
+MICHIGAN,Cheboygan County,26031,25.6
+MICHIGAN,Chippewa County,26033,28.2
+MICHIGAN,Clare County,26035,27.8
+MICHIGAN,Clinton County,26037,26.7
+MICHIGAN,Crawford County,26039,26.6
+MICHIGAN,Delta County,26041,27.5
+MICHIGAN,Dickinson County,26043,27.5
+MICHIGAN,Eaton County,26045,27.2
+MICHIGAN,Emmet County,26047,26.4
+MICHIGAN,Genesee County,26049,28.6
+MICHIGAN,Gladwin County,26051,27.3
+MICHIGAN,Gogebic County,26053,27.3
+MICHIGAN,Grand Traverse County,26055,24.8
+MICHIGAN,Gratiot County,26057,27.9
+MICHIGAN,Hillsdale County,26059,27.6
+MICHIGAN,Houghton County,26061,28.3
+MICHIGAN,Huron County,26063,27.3
+MICHIGAN,Ingham County,26065,27.3
+MICHIGAN,Ionia County,26067,28.1
+MICHIGAN,Iosco County,26069,28.3
+MICHIGAN,Iron County,26071,26.6
+MICHIGAN,Isabella County,26073,27.7
+MICHIGAN,Jackson County,26075,26.2
+MICHIGAN,Kalamazoo County,26077,25.8
+MICHIGAN,Kalkaska County,26079,26.5
+MICHIGAN,Kent County,26081,24.6
+MICHIGAN,Keweenaw County,26083,26.1
+MICHIGAN,Lake County,26085,28.8
+MICHIGAN,Lapeer County,26087,27.6
+MICHIGAN,Leelanau County,26089,27.3
+MICHIGAN,Lenawee County,26091,27.1
+MICHIGAN,Livingston County,26093,24.9
+MICHIGAN,Luce County,26095,28.0
+MICHIGAN,Mackinac County,26097,28.1
+MICHIGAN,Macomb County,26099,24.2
+MICHIGAN,Manistee County,26101,27.0
+MICHIGAN,Marquette County,26103,25.9
+MICHIGAN,Mason County,26105,27.2
+MICHIGAN,Mecosta County,26107,27.2
+MICHIGAN,Menominee County,26109,25.9
+MICHIGAN,Midland County,26111,26.0
+MICHIGAN,Missaukee County,26113,27.6
+MICHIGAN,Monroe County,26115,26.8
+MICHIGAN,Montcalm County,26117,29.3
+MICHIGAN,Montmorency County,26119,25.8
+MICHIGAN,Muskegon County,26121,29.5
+MICHIGAN,Newaygo County,26123,27.5
+MICHIGAN,Oakland County,26125,22.7
+MICHIGAN,Oceana County,26127,26.1
+MICHIGAN,Ogemaw County,26129,29.8
+MICHIGAN,Ontonagon County,26131,27.3
+MICHIGAN,Osceola County,26133,26.7
+MICHIGAN,Oscoda County,26135,27.9
+MICHIGAN,Otsego County,26137,27.9
+MICHIGAN,Ottawa County,26139,25.0
+MICHIGAN,Presque Isle County,26141,27.0
+MICHIGAN,Roscommon County,26143,28.6
+MICHIGAN,Saginaw County,26145,29.7
+MICHIGAN,St. Clair County,26147,29.4
+MICHIGAN,St. Joseph County,26149,29.4
+MICHIGAN,Sanilac County,26151,30.2
+MICHIGAN,Schoolcraft County,26153,26.8
+MICHIGAN,Shiawassee County,26155,27.0
+MICHIGAN,Tuscola County,26157,29.1
+MICHIGAN,Van Buren County,26159,26.6
+MICHIGAN,Washtenaw County,26161,23.9
+MICHIGAN,Wayne County,26163,30.5
+MICHIGAN,Wexford County,26165,26.6
+MINNESOTA,Aitkin County,27001,25.2
+MINNESOTA,Anoka County,27003,26.1
+MINNESOTA,Becker County,27005,26.2
+MINNESOTA,Beltrami County,27007,25.5
+MINNESOTA,Benton County,27009,25.7
+MINNESOTA,Big Stone County,27011,25.6
+MINNESOTA,Blue Earth County,27013,25.8
+MINNESOTA,Brown County,27015,26.8
+MINNESOTA,Carlton County,27017,24.7
+MINNESOTA,Carver County,27019,23.3
+MINNESOTA,Cass County,27021,26.8
+MINNESOTA,Chippewa County,27023,24.7
+MINNESOTA,Chisago County,27025,25.5
+MINNESOTA,Clay County,27027,25.2
+MINNESOTA,Clearwater County,27029,25.8
+MINNESOTA,Cook County,27031,25.4
+MINNESOTA,Cottonwood County,27033,25.2
+MINNESOTA,Crow Wing County,27035,25.5
+MINNESOTA,Dakota County,27037,21.5
+MINNESOTA,Dodge County,27039,25.9
+MINNESOTA,Douglas County,27041,24.9
+MINNESOTA,Faribault County,27043,26.4
+MINNESOTA,Fillmore County,27045,23.3
+MINNESOTA,Freeborn County,27047,25.6
+MINNESOTA,Goodhue County,27049,25.9
+MINNESOTA,Grant County,27051,25.6
+MINNESOTA,Hennepin County,27053,20.5
+MINNESOTA,Houston County,27055,25.1
+MINNESOTA,Hubbard County,27057,25.9
+MINNESOTA,Isanti County,27059,25.3
+MINNESOTA,Itasca County,27061,25.1
+MINNESOTA,Jackson County,27063,25.6
+MINNESOTA,Kanabec County,27065,25.4
+MINNESOTA,Kandiyohi County,27067,25.7
+MINNESOTA,Kittson County,27069,25.4
+MINNESOTA,Koochiching County,27071,24.8
+MINNESOTA,Lac qui Parle County,27073,25.8
+MINNESOTA,Lake County,27075,25.6
+MINNESOTA,Lake of the Woods County,27077,25.5
+MINNESOTA,Le Sueur County,27079,26.1
+MINNESOTA,Lincoln County,27081,25.2
+MINNESOTA,Lyon County,27083,26.3
+MINNESOTA,McLeod County,27085,25.9
+MINNESOTA,Mahnomen County,27087,25.5
+MINNESOTA,Marshall County,27089,26.0
+MINNESOTA,Martin County,27091,25.9
+MINNESOTA,Meeker County,27093,25.9
+MINNESOTA,Mille Lacs County,27095,25.0
+MINNESOTA,Morrison County,27097,25.1
+MINNESOTA,Mower County,27099,24.9
+MINNESOTA,Murray County,27101,25.0
+MINNESOTA,Nicollet County,27103,25.2
+MINNESOTA,Nobles County,27105,25.2
+MINNESOTA,Norman County,27107,25.5
+MINNESOTA,Olmsted County,27109,24.8
+MINNESOTA,Otter Tail County,27111,25.9
+MINNESOTA,Pennington County,27113,25.5
+MINNESOTA,Pine County,27115,25.7
+MINNESOTA,Pipestone County,27117,25.6
+MINNESOTA,Polk County,27119,27.1
+MINNESOTA,Pope County,27121,25.8
+MINNESOTA,Ramsey County,27123,22.7
+MINNESOTA,Red Lake County,27125,25.2
+MINNESOTA,Redwood County,27127,25.0
+MINNESOTA,Renville County,27129,25.8
+MINNESOTA,Rice County,27131,24.8
+MINNESOTA,Rock County,27133,25.5
+MINNESOTA,Roseau County,27135,25.1
+MINNESOTA,St. Louis County,27137,22.0
+MINNESOTA,Scott County,27139,25.2
+MINNESOTA,Sherburne County,27141,25.2
+MINNESOTA,Sibley County,27143,26.3
+MINNESOTA,Stearns County,27145,24.2
+MINNESOTA,Steele County,27147,24.2
+MINNESOTA,Stevens County,27149,25.3
+MINNESOTA,Swift County,27151,26.4
+MINNESOTA,Todd County,27153,26.8
+MINNESOTA,Traverse County,27155,25.4
+MINNESOTA,Wabasha County,27157,26.3
+MINNESOTA,Wadena County,27159,26.5
+MINNESOTA,Waseca County,27161,25.6
+MINNESOTA,Washington County,27163,23.9
+MINNESOTA,Watonwan County,27165,25.7
+MINNESOTA,Wilkin County,27167,25.2
+MINNESOTA,Winona County,27169,26.3
+MINNESOTA,Wright County,27171,25.3
+MINNESOTA,Yellow Medicine County,27173,25.3
+MISSISSIPPI,Adams County,28001,32.1
+MISSISSIPPI,Alcorn County,28003,28.6
+MISSISSIPPI,Amite County,28005,33.8
+MISSISSIPPI,Attala County,28007,33.5
+MISSISSIPPI,Benton County,28009,32.2
+MISSISSIPPI,Bolivar County,28011,33.9
+MISSISSIPPI,Calhoun County,28013,31.2
+MISSISSIPPI,Carroll County,28015,31.4
+MISSISSIPPI,Chickasaw County,28017,30.8
+MISSISSIPPI,Choctaw County,28019,30.0
+MISSISSIPPI,Claiborne County,28021,37.4
+MISSISSIPPI,Clarke County,28023,29.6
+MISSISSIPPI,Clay County,28025,33.7
+MISSISSIPPI,Coahoma County,28027,36.6
+MISSISSIPPI,Copiah County,28029,34.0
+MISSISSIPPI,Covington County,28031,32.2
+MISSISSIPPI,DeSoto County,28033,26.7
+MISSISSIPPI,Forrest County,28035,30.1
+MISSISSIPPI,Franklin County,28037,33.1
+MISSISSIPPI,George County,28039,29.9
+MISSISSIPPI,Greene County,28041,30.0
+MISSISSIPPI,Grenada County,28043,32.6
+MISSISSIPPI,Hancock County,28045,27.7
+MISSISSIPPI,Harrison County,28047,27.3
+MISSISSIPPI,Hinds County,28049,30.4
+MISSISSIPPI,Holmes County,28051,38.9
+MISSISSIPPI,Humphreys County,28053,36.8
+MISSISSIPPI,Issaquena County,28055,34.2
+MISSISSIPPI,Itawamba County,28057,29.4
+MISSISSIPPI,Jackson County,28059,29.9
+MISSISSIPPI,Jasper County,28061,33.5
+MISSISSIPPI,Jefferson County,28063,38.5
+MISSISSIPPI,Jefferson Davis County,28065,35.4
+MISSISSIPPI,Jones County,28067,31.4
+MISSISSIPPI,Kemper County,28069,35.6
+MISSISSIPPI,Lafayette County,28071,27.2
+MISSISSIPPI,Lamar County,28073,27.8
+MISSISSIPPI,Lauderdale County,28075,30.0
+MISSISSIPPI,Lawrence County,28077,31.9
+MISSISSIPPI,Leake County,28079,31.7
+MISSISSIPPI,Lee County,28081,27.9
+MISSISSIPPI,Leflore County,28083,36.7
+MISSISSIPPI,Lincoln County,28085,30.8
+MISSISSIPPI,Lowndes County,28087,31.2
+MISSISSIPPI,Madison County,28089,30.2
+MISSISSIPPI,Marion County,28091,30.7
+MISSISSIPPI,Marshall County,28093,32.8
+MISSISSIPPI,Monroe County,28095,32.0
+MISSISSIPPI,Montgomery County,28097,34.0
+MISSISSIPPI,Neshoba County,28099,31.4
+MISSISSIPPI,Newton County,28101,32.4
+MISSISSIPPI,Noxubee County,28103,36.4
+MISSISSIPPI,Oktibbeha County,28105,29.6
+MISSISSIPPI,Panola County,28107,31.8
+MISSISSIPPI,Pearl River County,28109,29.8
+MISSISSIPPI,Perry County,28111,30.1
+MISSISSIPPI,Pike County,28113,32.1
+MISSISSIPPI,Pontotoc County,28115,28.6
+MISSISSIPPI,Prentiss County,28117,26.7
+MISSISSIPPI,Quitman County,28119,35.3
+MISSISSIPPI,Rankin County,28121,26.9
+MISSISSIPPI,Scott County,28123,34.9
+MISSISSIPPI,Sharkey County,28125,36.5
+MISSISSIPPI,Simpson County,28127,30.7
+MISSISSIPPI,Smith County,28129,29.8
+MISSISSIPPI,Stone County,28131,30.6
+MISSISSIPPI,Sunflower County,28133,35.5
+MISSISSIPPI,Tallahatchie County,28135,35.7
+MISSISSIPPI,Tate County,28137,31.7
+MISSISSIPPI,Tippah County,28139,31.1
+MISSISSIPPI,Tishomingo County,28141,26.6
+MISSISSIPPI,Tunica County,28143,37.3
+MISSISSIPPI,Union County,28145,27.9
+MISSISSIPPI,Walthall County,28147,31.6
+MISSISSIPPI,Warren County,28149,34.5
+MISSISSIPPI,Washington County,28151,35.3
+MISSISSIPPI,Wayne County,28153,29.4
+MISSISSIPPI,Webster County,28155,31.3
+MISSISSIPPI,Wilkinson County,28157,37.2
+MISSISSIPPI,Winston County,28159,34.8
+MISSISSIPPI,Yalobusha County,28161,33.3
+MISSISSIPPI,Yazoo County,28163,35.0
+MISSOURI,Adair County,29001,27.4
+MISSOURI,Andrew County,29003,27.9
+MISSOURI,Atchison County,29005,28.1
+MISSOURI,Audrain County,29007,29.1
+MISSOURI,Barry County,29009,28.2
+MISSOURI,Barton County,29011,28.7
+MISSOURI,Bates County,29013,29.4
+MISSOURI,Benton County,29015,27.9
+MISSOURI,Bollinger County,29017,28.3
+MISSOURI,Boone County,29019,25.4
+MISSOURI,Buchanan County,29021,28.4
+MISSOURI,Butler County,29023,30.6
+MISSOURI,Caldwell County,29025,26.6
+MISSOURI,Callaway County,29027,28.5
+MISSOURI,Camden County,29029,28.6
+MISSOURI,Cape Girardeau County,29031,27.8
+MISSOURI,Carroll County,29033,28.7
+MISSOURI,Carter County,29035,27.7
+MISSOURI,Cass County,29037,28.9
+MISSOURI,Cedar County,29039,28.2
+MISSOURI,Chariton County,29041,28.7
+MISSOURI,Christian County,29043,24.9
+MISSOURI,Clark County,29045,29.6
+MISSOURI,Clay County,29047,27.6
+MISSOURI,Clinton County,29049,28.6
+MISSOURI,Cole County,29051,27.2
+MISSOURI,Cooper County,29053,28.4
+MISSOURI,Crawford County,29055,26.1
+MISSOURI,Dade County,29057,27.8
+MISSOURI,Dallas County,29059,29.4
+MISSOURI,Daviess County,29061,26.4
+MISSOURI,DeKalb County,29063,29.2
+MISSOURI,Dent County,29065,28.4
+MISSOURI,Douglas County,29067,28.2
+MISSOURI,Dunklin County,29069,28.0
+MISSOURI,Franklin County,29071,27.9
+MISSOURI,Gasconade County,29073,28.4
+MISSOURI,Gentry County,29075,28.6
+MISSOURI,Greene County,29077,27.1
+MISSOURI,Grundy County,29079,29.5
+MISSOURI,Harrison County,29081,28.8
+MISSOURI,Henry County,29083,29.2
+MISSOURI,Hickory County,29085,27.4
+MISSOURI,Holt County,29087,28.4
+MISSOURI,Howard County,29089,28.8
+MISSOURI,Howell County,29091,27.0
+MISSOURI,Iron County,29093,28.5
+MISSOURI,Jackson County,29095,26.6
+MISSOURI,Jasper County,29097,27.9
+MISSOURI,Jefferson County,29099,28.1
+MISSOURI,Johnson County,29101,27.2
+MISSOURI,Knox County,29103,27.6
+MISSOURI,Laclede County,29105,27.9
+MISSOURI,Lafayette County,29107,29.0
+MISSOURI,Lawrence County,29109,28.3
+MISSOURI,Lewis County,29111,28.8
+MISSOURI,Lincoln County,29113,27.8
+MISSOURI,Linn County,29115,27.2
+MISSOURI,Livingston County,29117,28.1
+MISSOURI,McDonald County,29119,27.2
+MISSOURI,Macon County,29121,27.5
+MISSOURI,Madison County,29123,27.9
+MISSOURI,Maries County,29125,28.0
+MISSOURI,Marion County,29127,27.9
+MISSOURI,Mercer County,29129,28.6
+MISSOURI,Miller County,29131,27.4
+MISSOURI,Mississippi County,29133,29.8
+MISSOURI,Moniteau County,29135,27.4
+MISSOURI,Monroe County,29137,28.6
+MISSOURI,Montgomery County,29139,28.1
+MISSOURI,Morgan County,29141,27.1
+MISSOURI,New Madrid County,29143,28.1
+MISSOURI,Newton County,29145,28.2
+MISSOURI,Nodaway County,29147,27.9
+MISSOURI,Oregon County,29149,29.2
+MISSOURI,Osage County,29151,26.7
+MISSOURI,Ozark County,29153,28.8
+MISSOURI,Pemiscot County,29155,28.7
+MISSOURI,Perry County,29157,28.4
+MISSOURI,Pettis County,29159,26.5
+MISSOURI,Phelps County,29161,28.4
+MISSOURI,Pike County,29163,28.4
+MISSOURI,Platte County,29165,27.1
+MISSOURI,Polk County,29167,27.1
+MISSOURI,Pulaski County,29169,28.4
+MISSOURI,Putnam County,29171,27.8
+MISSOURI,Ralls County,29173,28.6
+MISSOURI,Randolph County,29175,28.7
+MISSOURI,Ray County,29177,27.8
+MISSOURI,Reynolds County,29179,28.6
+MISSOURI,Ripley County,29181,29.2
+MISSOURI,St. Charles County,29183,26.0
+MISSOURI,St. Clair County,29185,26.6
+MISSOURI,Ste. Genevieve County,29186,27.8
+MISSOURI,St. Francois County,29187,29.3
+MISSOURI,St. Louis County,29189,25.4
+MISSOURI,Saline County,29195,27.9
+MISSOURI,Schuyler County,29197,27.0
+MISSOURI,Scotland County,29199,27.3
+MISSOURI,Scott County,29201,29.4
+MISSOURI,Shannon County,29203,28.6
+MISSOURI,Shelby County,29205,27.4
+MISSOURI,Stoddard County,29207,29.0
+MISSOURI,Stone County,29209,27.3
+MISSOURI,Sullivan County,29211,29.1
+MISSOURI,Taney County,29213,26.7
+MISSOURI,Texas County,29215,26.8
+MISSOURI,Vernon County,29217,27.8
+MISSOURI,Warren County,29219,28.7
+MISSOURI,Washington County,29221,28.5
+MISSOURI,Wayne County,29223,27.6
+MISSOURI,Webster County,29225,27.3
+MISSOURI,Worth County,29227,27.3
+MISSOURI,Wright County,29229,27.9
+MISSOURI,St Louis (City),29510,30.8
+MONTANA,Beaverhead County,30001,23.3
+MONTANA,Big Horn County,30003,31.2
+MONTANA,Blaine County,30005,28.4
+MONTANA,Broadwater County,30007,22.3
+MONTANA,Carbon County,30009,19.2
+MONTANA,Carter County,30011,23.4
+MONTANA,Cascade County,30013,24.5
+MONTANA,Chouteau County,30015,22.7
+MONTANA,Custer County,30017,25.4
+MONTANA,Daniels County,30019,21.1
+MONTANA,Dawson County,30021,22.5
+MONTANA,Deer Lodge County,30023,24.0
+MONTANA,Fallon County,30025,23.5
+MONTANA,Fergus County,30027,21.4
+MONTANA,Flathead County,30029,16.4
+MONTANA,Gallatin County,30031,15.1
+MONTANA,Garfield County,30033,23.3
+MONTANA,Glacier County,30035,31.7
+MONTANA,Golden Valley County,30037,21.6
+MONTANA,Granite County,30039,20.6
+MONTANA,Hill County,30041,25.9
+MONTANA,Jefferson County,30043,18.3
+MONTANA,Judith Basin County,30045,22.3
+MONTANA,Lake County,30047,23.4
+MONTANA,Lewis and Clark County,30049,19.6
+MONTANA,Liberty County,30051,24.5
+MONTANA,Lincoln County,30053,21.3
+MONTANA,McCone County,30055,22.2
+MONTANA,Madison County,30057,18.1
+MONTANA,Meagher County,30059,23.1
+MONTANA,Mineral County,30061,21.8
+MONTANA,Missoula County,30063,16.7
+MONTANA,Musselshell County,30065,20.6
+MONTANA,Park County,30067,17.9
+MONTANA,Petroleum County,30069,22.7
+MONTANA,Phillips County,30071,25.7
+MONTANA,Pondera County,30073,24.7
+MONTANA,Powder River County,30075,19.7
+MONTANA,Powell County,30077,24.2
+MONTANA,Prairie County,30079,21.8
+MONTANA,Ravalli County,30081,18.9
+MONTANA,Richland County,30083,25.2
+MONTANA,Roosevelt County,30085,33.0
+MONTANA,Rosebud County,30087,29.5
+MONTANA,Sanders County,30089,20.0
+MONTANA,Sheridan County,30091,26.2
+MONTANA,Silver Bow County,30093,21.0
+MONTANA,Stillwater County,30095,20.3
+MONTANA,Sweet Grass County,30097,19.8
+MONTANA,Teton County,30099,20.6
+MONTANA,Toole County,30101,25.1
+MONTANA,Treasure County,30103,20.1
+MONTANA,Valley County,30105,25.4
+MONTANA,Wheatland County,30107,19.6
+MONTANA,Wibaux County,30109,21.6
+MONTANA,Yellowstone County,30111,23.6
+NEBRASKA,Adams County,31001,26.2
+NEBRASKA,Antelope County,31003,25.7
+NEBRASKA,Arthur County,31005,25.7
+NEBRASKA,Banner County,31007,25.2
+NEBRASKA,Blaine County,31009,25.4
+NEBRASKA,Boone County,31011,25.4
+NEBRASKA,Box Butte County,31013,26.6
+NEBRASKA,Boyd County,31015,26.2
+NEBRASKA,Brown County,31017,26.4
+NEBRASKA,Buffalo County,31019,26.3
+NEBRASKA,Burt County,31021,26.2
+NEBRASKA,Butler County,31023,27.3
+NEBRASKA,Cass County,31025,26.9
+NEBRASKA,Cedar County,31027,26.4
+NEBRASKA,Chase County,31029,26.8
+NEBRASKA,Cherry County,31031,27.3
+NEBRASKA,Cheyenne County,31033,25.5
+NEBRASKA,Clay County,31035,26.9
+NEBRASKA,Colfax County,31037,26.0
+NEBRASKA,Cuming County,31039,25.8
+NEBRASKA,Custer County,31041,26.3
+NEBRASKA,Dakota County,31043,26.2
+NEBRASKA,Dawes County,31045,24.9
+NEBRASKA,Dawson County,31047,27.2
+NEBRASKA,Deuel County,31049,26.7
+NEBRASKA,Dixon County,31051,25.0
+NEBRASKA,Dodge County,31053,26.1
+NEBRASKA,Douglas County,31055,24.8
+NEBRASKA,Dundy County,31057,26.9
+NEBRASKA,Fillmore County,31059,26.5
+NEBRASKA,Franklin County,31061,27.0
+NEBRASKA,Frontier County,31063,25.5
+NEBRASKA,Furnas County,31065,24.9
+NEBRASKA,Gage County,31067,24.5
+NEBRASKA,Garden County,31069,25.8
+NEBRASKA,Garfield County,31071,24.6
+NEBRASKA,Gosper County,31073,27.5
+NEBRASKA,Grant County,31075,25.4
+NEBRASKA,Greeley County,31077,26.9
+NEBRASKA,Hall County,31079,28.1
+NEBRASKA,Hamilton County,31081,27.7
+NEBRASKA,Harlan County,31083,27.1
+NEBRASKA,Hayes County,31085,26.5
+NEBRASKA,Hitchcock County,31087,25.2
+NEBRASKA,Holt County,31089,25.1
+NEBRASKA,Hooker County,31091,25.9
+NEBRASKA,Howard County,31093,28.0
+NEBRASKA,Jefferson County,31095,26.3
+NEBRASKA,Johnson County,31097,27.0
+NEBRASKA,Kearney County,31099,24.9
+NEBRASKA,Keith County,31101,25.9
+NEBRASKA,Keya Paha County,31103,26.6
+NEBRASKA,Kimball County,31105,27.3
+NEBRASKA,Knox County,31107,26.7
+NEBRASKA,Lancaster County,31109,23.5
+NEBRASKA,Lincoln County,31111,28.0
+NEBRASKA,Logan County,31113,27.3
+NEBRASKA,Loup County,31115,26.0
+NEBRASKA,McPherson County,31117,27.2
+NEBRASKA,Madison County,31119,23.6
+NEBRASKA,Merrick County,31121,26.7
+NEBRASKA,Morrill County,31123,27.3
+NEBRASKA,Nance County,31125,25.2
+NEBRASKA,Nemaha County,31127,26.6
+NEBRASKA,Nuckolls County,31129,28.6
+NEBRASKA,Otoe County,31131,26.7
+NEBRASKA,Pawnee County,31133,25.6
+NEBRASKA,Perkins County,31135,26.2
+NEBRASKA,Phelps County,31137,26.9
+NEBRASKA,Pierce County,31139,25.6
+NEBRASKA,Platte County,31141,25.6
+NEBRASKA,Polk County,31143,26.2
+NEBRASKA,Red Willow County,31145,25.6
+NEBRASKA,Richardson County,31147,27.2
+NEBRASKA,Rock County,31149,27.2
+NEBRASKA,Saline County,31151,26.1
+NEBRASKA,Sarpy County,31153,27.2
+NEBRASKA,Saunders County,31155,26.3
+NEBRASKA,Scotts Bluff County,31157,27.2
+NEBRASKA,Seward County,31159,25.5
+NEBRASKA,Sheridan County,31161,26.5
+NEBRASKA,Sherman County,31163,28.4
+NEBRASKA,Sioux County,31165,24.9
+NEBRASKA,Stanton County,31167,27.1
+NEBRASKA,Thayer County,31169,26.1
+NEBRASKA,Thomas County,31171,26.0
+NEBRASKA,Thurston County,31173,30.0
+NEBRASKA,Valley County,31175,25.4
+NEBRASKA,Washington County,31177,26.0
+NEBRASKA,Wayne County,31179,25.9
+NEBRASKA,Webster County,31181,26.9
+NEBRASKA,Wheeler County,31183,25.4
+NEBRASKA,York County,31185,27.0
+NEVADA,Churchill County,32001,23.7
+NEVADA,Clark County,32003,21.5
+NEVADA,Douglas County,32005,17.2
+NEVADA,Elko County,32007,23.9
+NEVADA,Esmeralda County,32009,23.6
+NEVADA,Eureka County,32011,22.4
+NEVADA,Humboldt County,32013,26.0
+NEVADA,Lander County,32015,24.9
+NEVADA,Lincoln County,32017,25.5
+NEVADA,Lyon County,32019,24.4
+NEVADA,Mineral County,32021,29.3
+NEVADA,Nye County,32023,30.3
+NEVADA,Pershing County,32027,26.9
+NEVADA,Storey County,32029,24.0
+NEVADA,Washoe County,32031,19.0
+NEVADA,White Pine County,32033,23.0
+NEVADA,Carson City (City),32510,20.2
+NEW HAMPSHIRE,Belknap County,33001,22.1
+NEW HAMPSHIRE,Carroll County,33003,19.5
+NEW HAMPSHIRE,Cheshire County,33005,23.3
+NEW HAMPSHIRE,Coos County,33007,26.3
+NEW HAMPSHIRE,Grafton County,33009,21.4
+NEW HAMPSHIRE,Hillsborough County,33011,21.8
+NEW HAMPSHIRE,Merrimack County,33013,22.0
+NEW HAMPSHIRE,Rockingham County,33015,21.6
+NEW HAMPSHIRE,Strafford County,33017,23.2
+NEW HAMPSHIRE,Sullivan County,33019,22.5
+NEW JERSEY,Atlantic County,34001,24.9
+NEW JERSEY,Bergen County,34003,17.8
+NEW JERSEY,Burlington County,34005,24.4
+NEW JERSEY,Camden County,34007,25.1
+NEW JERSEY,Cape May County,34009,23.8
+NEW JERSEY,Cumberland County,34011,26.1
+NEW JERSEY,Essex County,34013,24.5
+NEW JERSEY,Gloucester County,34015,24.4
+NEW JERSEY,Hudson County,34017,21.8
+NEW JERSEY,Hunterdon County,34019,18.1
+NEW JERSEY,Mercer County,34021,22.3
+NEW JERSEY,Middlesex County,34023,21.1
+NEW JERSEY,Monmouth County,34025,18.5
+NEW JERSEY,Morris County,34027,18.5
+NEW JERSEY,Ocean County,34029,24.6
+NEW JERSEY,Passaic County,34031,23.6
+NEW JERSEY,Salem County,34033,26.7
+NEW JERSEY,Somerset County,34035,18.8
+NEW JERSEY,Sussex County,34037,20.6
+NEW JERSEY,Union County,34039,20.3
+NEW JERSEY,Warren County,34041,24.5
+NEW MEXICO,Bernalillo County,35001,17.0
+NEW MEXICO,Catron County,35003,18.2
+NEW MEXICO,Chaves County,35005,22.3
+NEW MEXICO,Cibola County,35006,24.1
+NEW MEXICO,Colfax County,35007,19.7
+NEW MEXICO,Curry County,35009,24.0
+NEW MEXICO,De Baca County,35011,19.5
+NEW MEXICO,Dona Ana County,35013,19.1
+NEW MEXICO,Eddy County,35015,23.8
+NEW MEXICO,Grant County,35017,20.1
+NEW MEXICO,Guadalupe County,35019,19.7
+NEW MEXICO,Harding County,35021,19.7
+NEW MEXICO,Hidalgo County,35023,22.3
+NEW MEXICO,Lea County,35025,27.7
+NEW MEXICO,Lincoln County,35027,15.9
+NEW MEXICO,Los Alamos County,35028,16.3
+NEW MEXICO,Luna County,35029,24.4
+NEW MEXICO,McKinley County,35031,28.7
+NEW MEXICO,Mora County,35033,18.8
+NEW MEXICO,Otero County,35035,23.2
+NEW MEXICO,Quay County,35037,22.8
+NEW MEXICO,Rio Arriba County,35039,17.7
+NEW MEXICO,Roosevelt County,35041,20.9
+NEW MEXICO,Sandoval County,35043,22.2
+NEW MEXICO,San Juan County,35045,24.3
+NEW MEXICO,San Miguel County,35047,17.7
+NEW MEXICO,Santa Fe County,35049,12.0
+NEW MEXICO,Sierra County,35051,24.2
+NEW MEXICO,Socorro County,35053,20.3
+NEW MEXICO,Taos County,35055,14.6
+NEW MEXICO,Torrance County,35057,21.4
+NEW MEXICO,Union County,35059,17.9
+NEW MEXICO,Valencia County,35061,21.2
+NEW YORK,Albany County,36001,22.2
+NEW YORK,Allegany County,36003,24.9
+NEW YORK,Bronx County,36005,22.8
+NEW YORK,Broome County,36007,26.7
+NEW YORK,Cattaraugus County,36009,25.5
+NEW YORK,Cayuga County,36011,25.4
+NEW YORK,Chautauqua County,36013,25.7
+NEW YORK,Chemung County,36015,27.3
+NEW YORK,Chenango County,36017,25.8
+NEW YORK,Clinton County,36019,25.6
+NEW YORK,Columbia County,36021,22.2
+NEW YORK,Cortland County,36023,21.5
+NEW YORK,Delaware County,36025,23.3
+NEW YORK,Dutchess County,36027,21.2
+NEW YORK,Erie County,36029,25.7
+NEW YORK,Essex County,36031,20.4
+NEW YORK,Franklin County,36033,25.1
+NEW YORK,Fulton County,36035,22.1
+NEW YORK,Genesee County,36037,23.3
+NEW YORK,Greene County,36039,22.4
+NEW YORK,Hamilton County,36041,21.9
+NEW YORK,Herkimer County,36043,23.5
+NEW YORK,Jefferson County,36045,26.3
+NEW YORK,Kings County,36047,22.9
+NEW YORK,Lewis County,36049,25.2
+NEW YORK,Livingston County,36051,23.9
+NEW YORK,Madison County,36053,24.9
+NEW YORK,Monroe County,36055,23.3
+NEW YORK,Montgomery County,36057,25.2
+NEW YORK,Nassau County,36059,18.7
+NEW YORK,New York County,36061,14.2
+NEW YORK,Niagara County,36063,22.7
+NEW YORK,Oneida County,36065,24.6
+NEW YORK,Onondaga County,36067,23.6
+NEW YORK,Ontario County,36069,21.4
+NEW YORK,Orange County,36071,22.3
+NEW YORK,Orleans County,36073,25.1
+NEW YORK,Oswego County,36075,22.0
+NEW YORK,Otsego County,36077,22.2
+NEW YORK,Putnam County,36079,21.2
+NEW YORK,Queens County,36081,19.1
+NEW YORK,Rensselaer County,36083,25.1
+NEW YORK,Richmond County,36085,23.1
+NEW YORK,Rockland County,36087,20.5
+NEW YORK,St. Lawrence County,36089,27.0
+NEW YORK,Saratoga County,36091,22.5
+NEW YORK,Schenectady County,36093,22.8
+NEW YORK,Schoharie County,36095,21.2
+NEW YORK,Schuyler County,36097,22.3
+NEW YORK,Seneca County,36099,26.1
+NEW YORK,Steuben County,36101,24.4
+NEW YORK,Suffolk County,36103,22.3
+NEW YORK,Sullivan County,36105,22.4
+NEW YORK,Tioga County,36107,20.6
+NEW YORK,Tompkins County,36109,20.7
+NEW YORK,Ulster County,36111,21.0
+NEW YORK,Warren County,36113,24.0
+NEW YORK,Washington County,36115,25.1
+NEW YORK,Wayne County,36117,25.2
+NEW YORK,Westchester County,36119,17.0
+NEW YORK,Wyoming County,36121,22.8
+NEW YORK,Yates County,36123,25.1
+NORTH CAROLINA,Alamance County,37001,27.6
+NORTH CAROLINA,Alexander County,37003,24.9
+NORTH CAROLINA,Alleghany County,37005,24.5
+NORTH CAROLINA,Anson County,37007,31.5
+NORTH CAROLINA,Ashe County,37009,27.7
+NORTH CAROLINA,Avery County,37011,22.7
+NORTH CAROLINA,Beaufort County,37013,31.9
+NORTH CAROLINA,Bertie County,37015,34.1
+NORTH CAROLINA,Bladen County,37017,29.6
+NORTH CAROLINA,Brunswick County,37019,23.7
+NORTH CAROLINA,Buncombe County,37021,21.7
+NORTH CAROLINA,Burke County,37023,28.3
+NORTH CAROLINA,Cabarrus County,37025,25.8
+NORTH CAROLINA,Caldwell County,37027,25.9
+NORTH CAROLINA,Camden County,37029,27.5
+NORTH CAROLINA,Carteret County,37031,25.1
+NORTH CAROLINA,Caswell County,37033,28.4
+NORTH CAROLINA,Catawba County,37035,25.7
+NORTH CAROLINA,Chatham County,37037,23.4
+NORTH CAROLINA,Cherokee County,37039,24.2
+NORTH CAROLINA,Chowan County,37041,30.1
+NORTH CAROLINA,Clay County,37043,24.1
+NORTH CAROLINA,Cleveland County,37045,24.7
+NORTH CAROLINA,Columbus County,37047,30.4
+NORTH CAROLINA,Craven County,37049,30.2
+NORTH CAROLINA,Cumberland County,37051,29.1
+NORTH CAROLINA,Currituck County,37053,23.4
+NORTH CAROLINA,Dare County,37055,23.0
+NORTH CAROLINA,Davidson County,37057,26.7
+NORTH CAROLINA,Davie County,37059,24.9
+NORTH CAROLINA,Duplin County,37061,28.4
+NORTH CAROLINA,Durham County,37063,24.5
+NORTH CAROLINA,Edgecombe County,37065,36.5
+NORTH CAROLINA,Forsyth County,37067,23.7
+NORTH CAROLINA,Franklin County,37069,28.6
+NORTH CAROLINA,Gaston County,37071,26.8
+NORTH CAROLINA,Gates County,37073,32.5
+NORTH CAROLINA,Graham County,37075,25.9
+NORTH CAROLINA,Granville County,37077,33.4
+NORTH CAROLINA,Greene County,37079,32.9
+NORTH CAROLINA,Guilford County,37081,24.4
+NORTH CAROLINA,Halifax County,37083,32.4
+NORTH CAROLINA,Harnett County,37085,27.4
+NORTH CAROLINA,Haywood County,37087,24.6
+NORTH CAROLINA,Henderson County,37089,24.1
+NORTH CAROLINA,Hertford County,37091,34.3
+NORTH CAROLINA,Hoke County,37093,30.6
+NORTH CAROLINA,Hyde County,37095,29.7
+NORTH CAROLINA,Iredell County,37097,24.5
+NORTH CAROLINA,Jackson County,37099,28.2
+NORTH CAROLINA,Johnston County,37101,27.8
+NORTH CAROLINA,Jones County,37103,30.3
+NORTH CAROLINA,Lee County,37105,25.4
+NORTH CAROLINA,Lenoir County,37107,30.6
+NORTH CAROLINA,Lincoln County,37109,24.9
+NORTH CAROLINA,McDowell County,37111,26.9
+NORTH CAROLINA,Macon County,37113,22.9
+NORTH CAROLINA,Madison County,37115,25.9
+NORTH CAROLINA,Martin County,37117,32.6
+NORTH CAROLINA,Mecklenburg County,37119,22.6
+NORTH CAROLINA,Mitchell County,37121,25.9
+NORTH CAROLINA,Montgomery County,37123,28.4
+NORTH CAROLINA,Moore County,37125,24.9
+NORTH CAROLINA,Nash County,37127,29.4
+NORTH CAROLINA,New Hanover County,37129,22.5
+NORTH CAROLINA,Northampton County,37131,35.2
+NORTH CAROLINA,Onslow County,37133,27.7
+NORTH CAROLINA,Orange County,37135,20.3
+NORTH CAROLINA,Pamlico County,37137,27.1
+NORTH CAROLINA,Pasquotank County,37139,30.3
+NORTH CAROLINA,Pender County,37141,24.3
+NORTH CAROLINA,Perquimans County,37143,27.8
+NORTH CAROLINA,Person County,37145,31.8
+NORTH CAROLINA,Pitt County,37147,30.0
+NORTH CAROLINA,Polk County,37149,25.8
+NORTH CAROLINA,Randolph County,37151,26.0
+NORTH CAROLINA,Richmond County,37153,30.0
+NORTH CAROLINA,Robeson County,37155,33.8
+NORTH CAROLINA,Rockingham County,37157,28.4
+NORTH CAROLINA,Rowan County,37159,27.4
+NORTH CAROLINA,Rutherford County,37161,25.1
+NORTH CAROLINA,Sampson County,37163,29.4
+NORTH CAROLINA,Scotland County,37165,31.2
+NORTH CAROLINA,Stanly County,37167,27.2
+NORTH CAROLINA,Stokes County,37169,23.0
+NORTH CAROLINA,Surry County,37171,26.2
+NORTH CAROLINA,Swain County,37173,30.1
+NORTH CAROLINA,Transylvania County,37175,23.4
+NORTH CAROLINA,Tyrrell County,37177,29.7
+NORTH CAROLINA,Union County,37179,24.5
+NORTH CAROLINA,Vance County,37181,32.7
+NORTH CAROLINA,Wake County,37183,22.6
+NORTH CAROLINA,Warren County,37185,32.8
+NORTH CAROLINA,Washington County,37187,30.8
+NORTH CAROLINA,Watauga County,37189,22.1
+NORTH CAROLINA,Wayne County,37191,30.3
+NORTH CAROLINA,Wilkes County,37193,25.9
+NORTH CAROLINA,Wilson County,37195,29.5
+NORTH CAROLINA,Yadkin County,37197,25.9
+NORTH CAROLINA,Yancey County,37199,24.0
+NORTH DAKOTA,Adams County,38001,26.5
+NORTH DAKOTA,Barnes County,38003,26.4
+NORTH DAKOTA,Benson County,38005,31.8
+NORTH DAKOTA,Billings County,38007,25.0
+NORTH DAKOTA,Bottineau County,38009,25.7
+NORTH DAKOTA,Bowman County,38011,26.8
+NORTH DAKOTA,Burke County,38013,25.9
+NORTH DAKOTA,Burleigh County,38015,22.9
+NORTH DAKOTA,Cass County,38017,24.4
+NORTH DAKOTA,Cavalier County,38019,25.9
+NORTH DAKOTA,Dickey County,38021,25.4
+NORTH DAKOTA,Divide County,38023,25.9
+NORTH DAKOTA,Dunn County,38025,26.4
+NORTH DAKOTA,Eddy County,38027,26.8
+NORTH DAKOTA,Emmons County,38029,27.3
+NORTH DAKOTA,Foster County,38031,24.8
+NORTH DAKOTA,Golden Valley County,38033,26.0
+NORTH DAKOTA,Grand Forks County,38035,24.0
+NORTH DAKOTA,Grant County,38037,25.1
+NORTH DAKOTA,Griggs County,38039,25.2
+NORTH DAKOTA,Hettinger County,38041,26.6
+NORTH DAKOTA,Kidder County,38043,25.1
+NORTH DAKOTA,LaMoure County,38045,26.7
+NORTH DAKOTA,Logan County,38047,26.1
+NORTH DAKOTA,McHenry County,38049,26.5
+NORTH DAKOTA,McIntosh County,38051,26.4
+NORTH DAKOTA,McKenzie County,38053,27.4
+NORTH DAKOTA,McLean County,38055,26.3
+NORTH DAKOTA,Mercer County,38057,25.5
+NORTH DAKOTA,Morton County,38059,27.5
+NORTH DAKOTA,Mountrail County,38061,33.2
+NORTH DAKOTA,Nelson County,38063,27.2
+NORTH DAKOTA,Oliver County,38065,26.0
+NORTH DAKOTA,Pembina County,38067,25.6
+NORTH DAKOTA,Pierce County,38069,25.8
+NORTH DAKOTA,Ramsey County,38071,28.5
+NORTH DAKOTA,Ransom County,38073,25.2
+NORTH DAKOTA,Renville County,38075,25.9
+NORTH DAKOTA,Richland County,38077,26.3
+NORTH DAKOTA,Rolette County,38079,36.4
+NORTH DAKOTA,Sargent County,38081,25.4
+NORTH DAKOTA,Sheridan County,38083,25.8
+NORTH DAKOTA,Sioux County,38085,35.9
+NORTH DAKOTA,Slope County,38087,25.6
+NORTH DAKOTA,Stark County,38089,24.7
+NORTH DAKOTA,Steele County,38091,24.7
+NORTH DAKOTA,Stutsman County,38093,28.8
+NORTH DAKOTA,Towner County,38095,25.9
+NORTH DAKOTA,Traill County,38097,28.1
+NORTH DAKOTA,Walsh County,38099,25.1
+NORTH DAKOTA,Ward County,38101,25.3
+NORTH DAKOTA,Wells County,38103,27.6
+NORTH DAKOTA,Williams County,38105,27.2
+OHIO,Adams County,39001,25.9
+OHIO,Allen County,39003,26.4
+OHIO,Ashland County,39005,24.8
+OHIO,Ashtabula County,39007,24.5
+OHIO,Athens County,39009,26.4
+OHIO,Auglaize County,39011,25.6
+OHIO,Belmont County,39013,25.2
+OHIO,Brown County,39015,25.8
+OHIO,Butler County,39017,27.7
+OHIO,Carroll County,39019,26.5
+OHIO,Champaign County,39021,26.1
+OHIO,Clark County,39023,29.1
+OHIO,Clermont County,39025,25.4
+OHIO,Clinton County,39027,25.3
+OHIO,Columbiana County,39029,25.5
+OHIO,Coshocton County,39031,26.5
+OHIO,Crawford County,39033,25.0
+OHIO,Cuyahoga County,39035,26.1
+OHIO,Darke County,39037,25.8
+OHIO,Defiance County,39039,25.5
+OHIO,Delaware County,39041,25.2
+OHIO,Erie County,39043,26.0
+OHIO,Fairfield County,39045,26.1
+OHIO,Fayette County,39047,26.0
+OHIO,Franklin County,39049,24.8
+OHIO,Fulton County,39051,25.3
+OHIO,Gallia County,39053,25.5
+OHIO,Geauga County,39055,26.9
+OHIO,Greene County,39057,25.4
+OHIO,Guernsey County,39059,25.8
+OHIO,Hamilton County,39061,25.2
+OHIO,Hancock County,39063,26.7
+OHIO,Hardin County,39065,25.4
+OHIO,Harrison County,39067,25.6
+OHIO,Henry County,39069,25.1
+OHIO,Highland County,39071,26.2
+OHIO,Hocking County,39073,26.2
+OHIO,Holmes County,39075,25.2
+OHIO,Huron County,39077,26.3
+OHIO,Jackson County,39079,25.5
+OHIO,Jefferson County,39081,26.5
+OHIO,Knox County,39083,25.2
+OHIO,Lake County,39085,23.3
+OHIO,Lawrence County,39087,28.5
+OHIO,Licking County,39089,25.4
+OHIO,Logan County,39091,25.9
+OHIO,Lorain County,39093,25.7
+OHIO,Lucas County,39095,27.4
+OHIO,Madison County,39097,25.0
+OHIO,Mahoning County,39099,28.0
+OHIO,Marion County,39101,27.0
+OHIO,Medina County,39103,25.2
+OHIO,Meigs County,39105,26.0
+OHIO,Mercer County,39107,25.9
+OHIO,Miami County,39109,25.8
+OHIO,Monroe County,39111,25.5
+OHIO,Montgomery County,39113,28.5
+OHIO,Morgan County,39115,26.0
+OHIO,Morrow County,39117,25.1
+OHIO,Muskingum County,39119,25.3
+OHIO,Noble County,39121,27.0
+OHIO,Ottawa County,39123,25.0
+OHIO,Paulding County,39125,25.4
+OHIO,Perry County,39127,26.1
+OHIO,Pickaway County,39129,25.4
+OHIO,Pike County,39131,25.1
+OHIO,Portage County,39133,25.6
+OHIO,Preble County,39135,25.2
+OHIO,Putnam County,39137,24.2
+OHIO,Richland County,39139,26.0
+OHIO,Ross County,39141,26.3
+OHIO,Sandusky County,39143,26.7
+OHIO,Scioto County,39145,27.2
+OHIO,Seneca County,39147,25.6
+OHIO,Shelby County,39149,25.1
+OHIO,Stark County,39151,27.0
+OHIO,Summit County,39153,28.1
+OHIO,Trumbull County,39155,26.2
+OHIO,Tuscarawas County,39157,27.4
+OHIO,Union County,39159,26.1
+OHIO,Van Wert County,39161,26.3
+OHIO,Vinton County,39163,25.8
+OHIO,Warren County,39165,24.5
+OHIO,Washington County,39167,25.4
+OHIO,Wayne County,39169,25.7
+OHIO,Williams County,39171,25.6
+OHIO,Wood County,39173,24.8
+OHIO,Wyandot County,39175,25.6
+OKLAHOMA,Adair County,40001,31.3
+OKLAHOMA,Alfalfa County,40003,28.3
+OKLAHOMA,Atoka County,40005,30.0
+OKLAHOMA,Beaver County,40007,27.0
+OKLAHOMA,Beckham County,40009,27.9
+OKLAHOMA,Blaine County,40011,31.6
+OKLAHOMA,Bryan County,40013,28.3
+OKLAHOMA,Caddo County,40015,29.7
+OKLAHOMA,Canadian County,40017,25.1
+OKLAHOMA,Carter County,40019,26.7
+OKLAHOMA,Cherokee County,40021,28.7
+OKLAHOMA,Choctaw County,40023,27.6
+OKLAHOMA,Cimarron County,40025,26.3
+OKLAHOMA,Cleveland County,40027,23.6
+OKLAHOMA,Coal County,40029,28.6
+OKLAHOMA,Comanche County,40031,27.2
+OKLAHOMA,Cotton County,40033,28.1
+OKLAHOMA,Craig County,40035,29.6
+OKLAHOMA,Creek County,40037,27.3
+OKLAHOMA,Custer County,40039,28.2
+OKLAHOMA,Delaware County,40041,28.4
+OKLAHOMA,Dewey County,40043,27.0
+OKLAHOMA,Ellis County,40045,27.5
+OKLAHOMA,Garfield County,40047,27.0
+OKLAHOMA,Garvin County,40049,26.8
+OKLAHOMA,Grady County,40051,28.5
+OKLAHOMA,Grant County,40053,28.5
+OKLAHOMA,Greer County,40055,26.9
+OKLAHOMA,Harmon County,40057,26.3
+OKLAHOMA,Harper County,40059,26.9
+OKLAHOMA,Haskell County,40061,26.6
+OKLAHOMA,Hughes County,40063,25.4
+OKLAHOMA,Jackson County,40065,26.1
+OKLAHOMA,Jefferson County,40067,27.5
+OKLAHOMA,Johnston County,40069,30.8
+OKLAHOMA,Kay County,40071,27.3
+OKLAHOMA,Kingfisher County,40073,28.0
+OKLAHOMA,Kiowa County,40075,31.6
+OKLAHOMA,Latimer County,40077,31.2
+OKLAHOMA,Le Flore County,40079,30.3
+OKLAHOMA,Lincoln County,40081,25.7
+OKLAHOMA,Logan County,40083,29.3
+OKLAHOMA,Love County,40085,29.2
+OKLAHOMA,McClain County,40087,26.7
+OKLAHOMA,McCurtain County,40089,30.7
+OKLAHOMA,McIntosh County,40091,28.5
+OKLAHOMA,Major County,40093,28.5
+OKLAHOMA,Marshall County,40095,28.6
+OKLAHOMA,Mayes County,40097,29.3
+OKLAHOMA,Murray County,40099,26.1
+OKLAHOMA,Muskogee County,40101,28.9
+OKLAHOMA,Noble County,40103,25.9
+OKLAHOMA,Nowata County,40105,28.4
+OKLAHOMA,Okfuskee County,40107,29.1
+OKLAHOMA,Oklahoma County,40109,24.9
+OKLAHOMA,Okmulgee County,40111,28.4
+OKLAHOMA,Osage County,40113,30.4
+OKLAHOMA,Ottawa County,40115,29.2
+OKLAHOMA,Pawnee County,40117,28.5
+OKLAHOMA,Payne County,40119,25.5
+OKLAHOMA,Pittsburg County,40121,30.9
+OKLAHOMA,Pontotoc County,40123,26.9
+OKLAHOMA,Pottawatomie County,40125,28.5
+OKLAHOMA,Pushmataha County,40127,28.8
+OKLAHOMA,Roger Mills County,40129,27.9
+OKLAHOMA,Rogers County,40131,25.7
+OKLAHOMA,Seminole County,40133,27.5
+OKLAHOMA,Sequoyah County,40135,29.0
+OKLAHOMA,Stephens County,40137,28.8
+OKLAHOMA,Texas County,40139,26.3
+OKLAHOMA,Tillman County,40141,26.6
+OKLAHOMA,Tulsa County,40143,25.9
+OKLAHOMA,Wagoner County,40145,28.3
+OKLAHOMA,Washington County,40147,25.7
+OKLAHOMA,Washita County,40149,28.2
+OKLAHOMA,Woods County,40151,26.4
+OKLAHOMA,Woodward County,40153,27.9
+OREGON,Baker County,41001,22.0
+OREGON,Benton County,41003,19.4
+OREGON,Clackamas County,41005,21.7
+OREGON,Clatsop County,41007,26.4
+OREGON,Columbia County,41009,29.1
+OREGON,Coos County,41011,25.8
+OREGON,Crook County,41013,24.4
+OREGON,Curry County,41015,21.5
+OREGON,Deschutes County,41017,17.7
+OREGON,Douglas County,41019,28.9
+OREGON,Gilliam County,41021,23.6
+OREGON,Grant County,41023,24.5
+OREGON,Harney County,41025,24.8
+OREGON,Hood River County,41027,24.1
+OREGON,Jackson County,41029,20.4
+OREGON,Jefferson County,41031,24.6
+OREGON,Josephine County,41033,22.3
+OREGON,Klamath County,41035,27.3
+OREGON,Lake County,41037,27.8
+OREGON,Lane County,41039,24.8
+OREGON,Lincoln County,41041,27.4
+OREGON,Linn County,41043,29.0
+OREGON,Malheur County,41045,25.9
+OREGON,Marion County,41047,27.5
+OREGON,Morrow County,41049,25.8
+OREGON,Multnomah County,41051,20.9
+OREGON,Polk County,41053,24.9
+OREGON,Sherman County,41055,24.5
+OREGON,Tillamook County,41057,22.9
+OREGON,Umatilla County,41059,29.3
+OREGON,Union County,41061,22.4
+OREGON,Wallowa County,41063,22.3
+OREGON,Wasco County,41065,25.2
+OREGON,Washington County,41067,20.7
+OREGON,Wheeler County,41069,24.4
+OREGON,Yamhill County,41071,26.4
+PENNSYLVANIA,Adams County,42001,25.2
+PENNSYLVANIA,Allegheny County,42003,22.2
+PENNSYLVANIA,Armstrong County,42005,26.5
+PENNSYLVANIA,Beaver County,42007,24.6
+PENNSYLVANIA,Bedford County,42009,26.8
+PENNSYLVANIA,Berks County,42011,24.8
+PENNSYLVANIA,Blair County,42013,26.0
+PENNSYLVANIA,Bradford County,42015,24.5
+PENNSYLVANIA,Bucks County,42017,19.9
+PENNSYLVANIA,Butler County,42019,26.3
+PENNSYLVANIA,Cambria County,42021,26.3
+PENNSYLVANIA,Cameron County,42023,26.8
+PENNSYLVANIA,Carbon County,42025,25.1
+PENNSYLVANIA,Centre County,42027,24.7
+PENNSYLVANIA,Chester County,42029,18.7
+PENNSYLVANIA,Clarion County,42031,26.0
+PENNSYLVANIA,Clearfield County,42033,27.5
+PENNSYLVANIA,Clinton County,42035,25.8
+PENNSYLVANIA,Columbia County,42037,25.0
+PENNSYLVANIA,Crawford County,42039,27.5
+PENNSYLVANIA,Cumberland County,42041,25.1
+PENNSYLVANIA,Dauphin County,42043,25.8
+PENNSYLVANIA,Delaware County,42045,23.6
+PENNSYLVANIA,Elk County,42047,26.5
+PENNSYLVANIA,Erie County,42049,25.0
+PENNSYLVANIA,Fayette County,42051,30.5
+PENNSYLVANIA,Forest County,42053,26.2
+PENNSYLVANIA,Franklin County,42055,26.2
+PENNSYLVANIA,Fulton County,42057,23.7
+PENNSYLVANIA,Greene County,42059,29.8
+PENNSYLVANIA,Huntingdon County,42061,28.6
+PENNSYLVANIA,Indiana County,42063,24.6
+PENNSYLVANIA,Jefferson County,42065,27.2
+PENNSYLVANIA,Juniata County,42067,26.2
+PENNSYLVANIA,Lackawanna County,42069,22.6
+PENNSYLVANIA,Lancaster County,42071,24.5
+PENNSYLVANIA,Lawrence County,42073,25.4
+PENNSYLVANIA,Lebanon County,42075,28.0
+PENNSYLVANIA,Lehigh County,42077,24.1
+PENNSYLVANIA,Luzerne County,42079,25.6
+PENNSYLVANIA,Lycoming County,42081,25.3
+PENNSYLVANIA,McKean County,42083,25.0
+PENNSYLVANIA,Mercer County,42085,27.5
+PENNSYLVANIA,Mifflin County,42087,26.6
+PENNSYLVANIA,Monroe County,42089,24.6
+PENNSYLVANIA,Montgomery County,42091,20.9
+PENNSYLVANIA,Montour County,42093,26.7
+PENNSYLVANIA,Northampton County,42095,26.0
+PENNSYLVANIA,Northumberland County,42097,29.3
+PENNSYLVANIA,Perry County,42099,27.5
+PENNSYLVANIA,Philadelphia County,42101,27.4
+PENNSYLVANIA,Pike County,42103,24.7
+PENNSYLVANIA,Potter County,42105,25.5
+PENNSYLVANIA,Schuylkill County,42107,24.7
+PENNSYLVANIA,Snyder County,42109,24.3
+PENNSYLVANIA,Somerset County,42111,26.6
+PENNSYLVANIA,Sullivan County,42113,26.6
+PENNSYLVANIA,Susquehanna County,42115,24.2
+PENNSYLVANIA,Tioga County,42117,28.1
+PENNSYLVANIA,Union County,42119,26.1
+PENNSYLVANIA,Venango County,42121,23.0
+PENNSYLVANIA,Warren County,42123,23.0
+PENNSYLVANIA,Washington County,42125,27.6
+PENNSYLVANIA,Wayne County,42127,21.6
+PENNSYLVANIA,Westmoreland County,42129,25.6
+PENNSYLVANIA,Wyoming County,42131,26.6
+PENNSYLVANIA,York County,42133,25.4
+RHODE ISLAND,Bristol County,44001,17.5
+RHODE ISLAND,Kent County,44003,20.5
+RHODE ISLAND,Newport County,44005,17.6
+RHODE ISLAND,Providence County,44007,22.1
+RHODE ISLAND,Washington County,44009,18.2
+SOUTH CAROLINA,Abbeville County,45001,28.2
+SOUTH CAROLINA,Aiken County,45003,28.2
+SOUTH CAROLINA,Allendale County,45005,34.4
+SOUTH CAROLINA,Anderson County,45007,28.6
+SOUTH CAROLINA,Bamberg County,45009,34.2
+SOUTH CAROLINA,Barnwell County,45011,32.7
+SOUTH CAROLINA,Beaufort County,45013,21.2
+SOUTH CAROLINA,Berkeley County,45015,29.2
+SOUTH CAROLINA,Calhoun County,45017,31.7
+SOUTH CAROLINA,Charleston County,45019,23.9
+SOUTH CAROLINA,Cherokee County,45021,29.4
+SOUTH CAROLINA,Chester County,45023,31.7
+SOUTH CAROLINA,Chesterfield County,45025,28.9
+SOUTH CAROLINA,Clarendon County,45027,29.4
+SOUTH CAROLINA,Colleton County,45029,30.3
+SOUTH CAROLINA,Darlington County,45031,31.5
+SOUTH CAROLINA,Dillon County,45033,30.2
+SOUTH CAROLINA,Dorchester County,45035,28.8
+SOUTH CAROLINA,Edgefield County,45037,28.8
+SOUTH CAROLINA,Fairfield County,45039,32.5
+SOUTH CAROLINA,Florence County,45041,29.3
+SOUTH CAROLINA,Georgetown County,45043,26.1
+SOUTH CAROLINA,Greenville County,45045,22.6
+SOUTH CAROLINA,Greenwood County,45047,28.0
+SOUTH CAROLINA,Hampton County,45049,35.0
+SOUTH CAROLINA,Horry County,45051,25.3
+SOUTH CAROLINA,Jasper County,45053,32.2
+SOUTH CAROLINA,Kershaw County,45055,27.7
+SOUTH CAROLINA,Lancaster County,45057,28.6
+SOUTH CAROLINA,Laurens County,45059,31.3
+SOUTH CAROLINA,Lee County,45061,32.1
+SOUTH CAROLINA,Lexington County,45063,27.8
+SOUTH CAROLINA,McCormick County,45065,30.7
+SOUTH CAROLINA,Marion County,45067,32.2
+SOUTH CAROLINA,Marlboro County,45069,31.1
+SOUTH CAROLINA,Newberry County,45071,29.8
+SOUTH CAROLINA,Oconee County,45073,26.4
+SOUTH CAROLINA,Orangeburg County,45075,37.1
+SOUTH CAROLINA,Pickens County,45077,24.0
+SOUTH CAROLINA,Richland County,45079,26.4
+SOUTH CAROLINA,Saluda County,45081,26.7
+SOUTH CAROLINA,Spartanburg County,45083,27.7
+SOUTH CAROLINA,Sumter County,45085,31.8
+SOUTH CAROLINA,Union County,45087,31.3
+SOUTH CAROLINA,Williamsburg County,45089,35.9
+SOUTH CAROLINA,York County,45091,24.9
+SOUTH DAKOTA,Aurora County,46003,26.9
+SOUTH DAKOTA,Beadle County,46005,28.4
+SOUTH DAKOTA,Bennett County,46007,33.6
+SOUTH DAKOTA,Bon Homme County,46009,25.7
+SOUTH DAKOTA,Brookings County,46011,26.0
+SOUTH DAKOTA,Brown County,46013,26.5
+SOUTH DAKOTA,Brule County,46015,27.6
+SOUTH DAKOTA,Buffalo County,46017,36.0
+SOUTH DAKOTA,Butte County,46019,26.9
+SOUTH DAKOTA,Campbell County,46021,26.1
+SOUTH DAKOTA,Charles Mix County,46023,32.6
+SOUTH DAKOTA,Clark County,46025,26.6
+SOUTH DAKOTA,Clay County,46027,27.7
+SOUTH DAKOTA,Codington County,46029,26.0
+SOUTH DAKOTA,Corson County,46031,37.6
+SOUTH DAKOTA,Custer County,46033,22.2
+SOUTH DAKOTA,Davison County,46035,25.9
+SOUTH DAKOTA,Day County,46037,27.1
+SOUTH DAKOTA,Deuel County,46039,25.3
+SOUTH DAKOTA,Dewey County,46041,32.8
+SOUTH DAKOTA,Douglas County,46043,27.0
+SOUTH DAKOTA,Edmunds County,46045,26.7
+SOUTH DAKOTA,Fall River County,46047,25.4
+SOUTH DAKOTA,Faulk County,46049,25.5
+SOUTH DAKOTA,Grant County,46051,26.3
+SOUTH DAKOTA,Gregory County,46053,26.7
+SOUTH DAKOTA,Haakon County,46055,25.7
+SOUTH DAKOTA,Hamlin County,46057,26.3
+SOUTH DAKOTA,Hand County,46059,28.7
+SOUTH DAKOTA,Hanson County,46061,26.5
+SOUTH DAKOTA,Harding County,46063,26.2
+SOUTH DAKOTA,Hughes County,46065,25.6
+SOUTH DAKOTA,Hutchinson County,46067,25.4
+SOUTH DAKOTA,Hyde County,46069,27.9
+SOUTH DAKOTA,Jackson County,46071,30.1
+SOUTH DAKOTA,Jerauld County,46073,26.2
+SOUTH DAKOTA,Jones County,46075,25.7
+SOUTH DAKOTA,Kingsbury County,46077,25.9
+SOUTH DAKOTA,Lake County,46079,26.3
+SOUTH DAKOTA,Lawrence County,46081,21.5
+SOUTH DAKOTA,Lincoln County,46083,23.9
+SOUTH DAKOTA,Lyman County,46085,30.9
+SOUTH DAKOTA,McCook County,46087,25.5
+SOUTH DAKOTA,McPherson County,46089,26.8
+SOUTH DAKOTA,Marshall County,46091,29.7
+SOUTH DAKOTA,Meade County,46093,26.2
+SOUTH DAKOTA,Mellette County,46095,34.5
+SOUTH DAKOTA,Miner County,46097,25.6
+SOUTH DAKOTA,Minnehaha County,46099,24.5
+SOUTH DAKOTA,Moody County,46101,27.5
+SOUTH DAKOTA,Pennington County,46103,22.4
+SOUTH DAKOTA,Perkins County,46105,25.3
+SOUTH DAKOTA,Potter County,46107,25.2
+SOUTH DAKOTA,Roberts County,46109,28.5
+SOUTH DAKOTA,Sanborn County,46111,26.4
+SOUTH DAKOTA,Shannon County,46113,36.1
+SOUTH DAKOTA,Spink County,46115,28.8
+SOUTH DAKOTA,Stanley County,46117,25.6
+SOUTH DAKOTA,Sully County,46119,26.6
+SOUTH DAKOTA,Todd County,46121,36.4
+SOUTH DAKOTA,Tripp County,46123,28.5
+SOUTH DAKOTA,Turner County,46125,25.8
+SOUTH DAKOTA,Union County,46127,26.4
+SOUTH DAKOTA,Walworth County,46129,26.0
+SOUTH DAKOTA,Yankton County,46135,25.9
+SOUTH DAKOTA,Ziebach County,46137,34.3
+TENNESSEE,Anderson County,47001,25.1
+TENNESSEE,Bedford County,47003,25.5
+TENNESSEE,Benton County,47005,26.6
+TENNESSEE,Bledsoe County,47007,26.4
+TENNESSEE,Blount County,47009,27.8
+TENNESSEE,Bradley County,47011,25.9
+TENNESSEE,Campbell County,47013,26.2
+TENNESSEE,Cannon County,47015,26.8
+TENNESSEE,Carroll County,47017,28.7
+TENNESSEE,Carter County,47019,26.9
+TENNESSEE,Cheatham County,47021,25.4
+TENNESSEE,Chester County,47023,27.5
+TENNESSEE,Claiborne County,47025,29.4
+TENNESSEE,Clay County,47027,28.6
+TENNESSEE,Cocke County,47029,26.8
+TENNESSEE,Coffee County,47031,25.5
+TENNESSEE,Crockett County,47033,27.6
+TENNESSEE,Cumberland County,47035,28.9
+TENNESSEE,Davidson County,47037,26.7
+TENNESSEE,Decatur County,47039,25.2
+TENNESSEE,DeKalb County,47041,26.6
+TENNESSEE,Dickson County,47043,27.3
+TENNESSEE,Dyer County,47045,29.8
+TENNESSEE,Fayette County,47047,29.5
+TENNESSEE,Fentress County,47049,26.4
+TENNESSEE,Franklin County,47051,26.5
+TENNESSEE,Gibson County,47053,29.6
+TENNESSEE,Giles County,47055,27.6
+TENNESSEE,Grainger County,47057,25.6
+TENNESSEE,Greene County,47059,27.6
+TENNESSEE,Grundy County,47061,29.3
+TENNESSEE,Hamblen County,47063,27.7
+TENNESSEE,Hamilton County,47065,27.8
+TENNESSEE,Hancock County,47067,27.4
+TENNESSEE,Hardeman County,47069,30.4
+TENNESSEE,Hardin County,47071,27.4
+TENNESSEE,Hawkins County,47073,27.9
+TENNESSEE,Haywood County,47075,30.6
+TENNESSEE,Henderson County,47077,25.1
+TENNESSEE,Henry County,47079,29.1
+TENNESSEE,Hickman County,47081,29.9
+TENNESSEE,Houston County,47083,27.6
+TENNESSEE,Humphreys County,47085,25.7
+TENNESSEE,Jackson County,47087,28.0
+TENNESSEE,Jefferson County,47089,25.7
+TENNESSEE,Johnson County,47091,27.8
+TENNESSEE,Knox County,47093,26.0
+TENNESSEE,Lake County,47095,29.4
+TENNESSEE,Lauderdale County,47097,31.5
+TENNESSEE,Lawrence County,47099,30.6
+TENNESSEE,Lewis County,47101,27.7
+TENNESSEE,Lincoln County,47103,26.5
+TENNESSEE,Loudon County,47105,30.4
+TENNESSEE,McMinn County,47107,29.2
+TENNESSEE,McNairy County,47109,29.0
+TENNESSEE,Macon County,47111,29.2
+TENNESSEE,Madison County,47113,30.0
+TENNESSEE,Marion County,47115,25.0
+TENNESSEE,Marshall County,47117,32.6
+TENNESSEE,Maury County,47119,27.3
+TENNESSEE,Meigs County,47121,27.0
+TENNESSEE,Monroe County,47123,28.4
+TENNESSEE,Montgomery County,47125,26.6
+TENNESSEE,Moore County,47127,26.5
+TENNESSEE,Morgan County,47129,26.5
+TENNESSEE,Obion County,47131,28.1
+TENNESSEE,Overton County,47133,28.7
+TENNESSEE,Perry County,47135,27.7
+TENNESSEE,Pickett County,47137,27.5
+TENNESSEE,Polk County,47139,27.7
+TENNESSEE,Putnam County,47141,24.0
+TENNESSEE,Rhea County,47143,29.5
+TENNESSEE,Roane County,47145,26.5
+TENNESSEE,Robertson County,47147,29.2
+TENNESSEE,Rutherford County,47149,28.5
+TENNESSEE,Scott County,47151,26.4
+TENNESSEE,Sequatchie County,47153,27.2
+TENNESSEE,Sevier County,47155,28.3
+TENNESSEE,Shelby County,47157,29.4
+TENNESSEE,Smith County,47159,29.9
+TENNESSEE,Stewart County,47161,27.4
+TENNESSEE,Sullivan County,47163,27.9
+TENNESSEE,Sumner County,47165,24.3
+TENNESSEE,Tipton County,47167,31.1
+TENNESSEE,Trousdale County,47169,27.4
+TENNESSEE,Unicoi County,47171,28.8
+TENNESSEE,Union County,47173,27.2
+TENNESSEE,Van Buren County,47175,28.2
+TENNESSEE,Warren County,47177,27.0
+TENNESSEE,Washington County,47179,26.2
+TENNESSEE,Wayne County,47181,28.3
+TENNESSEE,Weakley County,47183,27.7
+TENNESSEE,White County,47185,29.5
+TENNESSEE,Williamson County,47187,22.0
+TENNESSEE,Wilson County,47189,27.1
+TEXAS,Anderson County,48001,27.3
+TEXAS,Andrews County,48003,25.7
+TEXAS,Angelina County,48005,28.4
+TEXAS,Aransas County,48007,25.0
+TEXAS,Archer County,48009,23.8
+TEXAS,Armstrong County,48011,25.4
+TEXAS,Atascosa County,48013,25.9
+TEXAS,Austin County,48015,25.7
+TEXAS,Bailey County,48017,24.5
+TEXAS,Bandera County,48019,25.5
+TEXAS,Bastrop County,48021,25.6
+TEXAS,Baylor County,48023,24.8
+TEXAS,Bee County,48025,26.1
+TEXAS,Bell County,48027,25.4
+TEXAS,Bexar County,48029,25.2
+TEXAS,Blanco County,48031,23.8
+TEXAS,Borden County,48033,24.6
+TEXAS,Bosque County,48035,25.6
+TEXAS,Bowie County,48037,26.9
+TEXAS,Brazoria County,48039,26.9
+TEXAS,Brazos County,48041,26.4
+TEXAS,Brewster County,48043,24.2
+TEXAS,Briscoe County,48045,24.9
+TEXAS,Brooks County,48047,24.6
+TEXAS,Brown County,48049,25.8
+TEXAS,Burleson County,48051,27.4
+TEXAS,Burnet County,48053,25.5
+TEXAS,Caldwell County,48055,26.5
+TEXAS,Calhoun County,48057,25.3
+TEXAS,Callahan County,48059,25.7
+TEXAS,Cameron County,48061,23.8
+TEXAS,Camp County,48063,25.6
+TEXAS,Carson County,48065,26.4
+TEXAS,Cass County,48067,27.4
+TEXAS,Castro County,48069,25.1
+TEXAS,Chambers County,48071,27.3
+TEXAS,Cherokee County,48073,26.6
+TEXAS,Childress County,48075,25.7
+TEXAS,Clay County,48077,25.2
+TEXAS,Cochran County,48079,25.3
+TEXAS,Coke County,48081,24.0
+TEXAS,Coleman County,48083,25.0
+TEXAS,Collin County,48085,23.8
+TEXAS,Collingsworth County,48087,25.0
+TEXAS,Colorado County,48089,25.3
+TEXAS,Comal County,48091,22.5
+TEXAS,Comanche County,48093,25.3
+TEXAS,Concho County,48095,25.5
+TEXAS,Cooke County,48097,25.8
+TEXAS,Coryell County,48099,25.3
+TEXAS,Cottle County,48101,25.6
+TEXAS,Crane County,48103,25.2
+TEXAS,Crockett County,48105,24.7
+TEXAS,Crosby County,48107,26.9
+TEXAS,Culberson County,48109,24.7
+TEXAS,Dallam County,48111,24.9
+TEXAS,Dallas County,48113,24.8
+TEXAS,Dawson County,48115,24.8
+TEXAS,Deaf Smith County,48117,25.1
+TEXAS,Delta County,48119,25.1
+TEXAS,Denton County,48121,23.0
+TEXAS,DeWitt County,48123,25.4
+TEXAS,Dickens County,48125,25.2
+TEXAS,Dimmit County,48127,25.6
+TEXAS,Donley County,48129,26.0
+TEXAS,Duval County,48131,25.2
+TEXAS,Eastland County,48133,25.6
+TEXAS,Ector County,48135,25.9
+TEXAS,Edwards County,48137,25.3
+TEXAS,Ellis County,48139,27.3
+TEXAS,El Paso County,48141,23.4
+TEXAS,Erath County,48143,26.4
+TEXAS,Falls County,48145,27.2
+TEXAS,Fannin County,48147,26.5
+TEXAS,Fayette County,48149,24.8
+TEXAS,Fisher County,48151,25.1
+TEXAS,Floyd County,48153,25.0
+TEXAS,Foard County,48155,24.7
+TEXAS,Fort Bend County,48157,24.0
+TEXAS,Franklin County,48159,24.2
+TEXAS,Freestone County,48161,25.7
+TEXAS,Frio County,48163,25.6
+TEXAS,Gaines County,48165,25.6
+TEXAS,Galveston County,48167,25.8
+TEXAS,Garza County,48169,25.8
+TEXAS,Gillespie County,48171,23.7
+TEXAS,Glasscock County,48173,24.6
+TEXAS,Goliad County,48175,25.0
+TEXAS,Gonzales County,48177,26.5
+TEXAS,Gray County,48179,26.1
+TEXAS,Grayson County,48181,24.4
+TEXAS,Gregg County,48183,25.1
+TEXAS,Grimes County,48185,27.2
+TEXAS,Guadalupe County,48187,24.3
+TEXAS,Hale County,48189,25.2
+TEXAS,Hall County,48191,24.8
+TEXAS,Hamilton County,48193,24.0
+TEXAS,Hansford County,48195,24.1
+TEXAS,Hardeman County,48197,25.4
+TEXAS,Hardin County,48199,24.0
+TEXAS,Harris County,48201,23.0
+TEXAS,Harrison County,48203,28.0
+TEXAS,Hartley County,48205,25.9
+TEXAS,Haskell County,48207,24.8
+TEXAS,Hays County,48209,22.8
+TEXAS,Hemphill County,48211,24.6
+TEXAS,Henderson County,48213,24.1
+TEXAS,Hidalgo County,48215,26.1
+TEXAS,Hill County,48217,26.9
+TEXAS,Hockley County,48219,24.6
+TEXAS,Hood County,48221,26.0
+TEXAS,Hopkins County,48223,25.8
+TEXAS,Houston County,48225,26.3
+TEXAS,Howard County,48227,24.5
+TEXAS,Hudspeth County,48229,25.2
+TEXAS,Hunt County,48231,25.5
+TEXAS,Hutchinson County,48233,26.3
+TEXAS,Irion County,48235,24.5
+TEXAS,Jack County,48237,25.5
+TEXAS,Jackson County,48239,25.6
+TEXAS,Jasper County,48241,26.2
+TEXAS,Jeff Davis County,48243,24.6
+TEXAS,Jefferson County,48245,28.9
+TEXAS,Jim Hogg County,48247,24.9
+TEXAS,Jim Wells County,48249,24.9
+TEXAS,Johnson County,48251,25.6
+TEXAS,Jones County,48253,25.5
+TEXAS,Karnes County,48255,26.7
+TEXAS,Kaufman County,48257,23.8
+TEXAS,Kendall County,48259,22.9
+TEXAS,Kenedy County,48261,24.8
+TEXAS,Kent County,48263,24.8
+TEXAS,Kerr County,48265,23.8
+TEXAS,Kimble County,48267,25.1
+TEXAS,King County,48269,24.5
+TEXAS,Kinney County,48271,25.2
+TEXAS,Kleberg County,48273,25.3
+TEXAS,Knox County,48275,25.2
+TEXAS,Lamar County,48277,26.8
+TEXAS,Lamb County,48279,25.2
+TEXAS,Lampasas County,48281,24.8
+TEXAS,La Salle County,48283,25.8
+TEXAS,Lavaca County,48285,26.7
+TEXAS,Lee County,48287,26.9
+TEXAS,Leon County,48289,25.0
+TEXAS,Liberty County,48291,26.4
+TEXAS,Limestone County,48293,26.0
+TEXAS,Lipscomb County,48295,25.4
+TEXAS,Live Oak County,48297,25.1
+TEXAS,Llano County,48299,24.0
+TEXAS,Loving County,48301,24.1
+TEXAS,Lubbock County,48303,24.9
+TEXAS,Lynn County,48305,25.9
+TEXAS,McCulloch County,48307,24.2
+TEXAS,McLennan County,48309,25.3
+TEXAS,McMullen County,48311,25.0
+TEXAS,Madison County,48313,26.8
+TEXAS,Marion County,48315,27.1
+TEXAS,Martin County,48317,24.7
+TEXAS,Mason County,48319,25.0
+TEXAS,Matagorda County,48321,26.7
+TEXAS,Maverick County,48323,25.6
+TEXAS,Medina County,48325,24.7
+TEXAS,Menard County,48327,24.7
+TEXAS,Midland County,48329,24.1
+TEXAS,Milam County,48331,26.8
+TEXAS,Mills County,48333,24.7
+TEXAS,Mitchell County,48335,26.4
+TEXAS,Montague County,48337,25.4
+TEXAS,Montgomery County,48339,24.6
+TEXAS,Moore County,48341,25.5
+TEXAS,Morris County,48343,27.6
+TEXAS,Motley County,48345,24.6
+TEXAS,Nacogdoches County,48347,25.2
+TEXAS,Navarro County,48349,27.2
+TEXAS,Newton County,48351,26.5
+TEXAS,Nolan County,48353,24.5
+TEXAS,Nueces County,48355,28.1
+TEXAS,Ochiltree County,48357,25.6
+TEXAS,Oldham County,48359,25.5
+TEXAS,Orange County,48361,27.3
+TEXAS,Palo Pinto County,48363,24.9
+TEXAS,Panola County,48365,26.7
+TEXAS,Parker County,48367,24.3
+TEXAS,Parmer County,48369,24.6
+TEXAS,Pecos County,48371,25.3
+TEXAS,Polk County,48373,26.9
+TEXAS,Potter County,48375,24.6
+TEXAS,Presidio County,48377,24.2
+TEXAS,Rains County,48379,24.9
+TEXAS,Randall County,48381,26.2
+TEXAS,Reagan County,48383,25.2
+TEXAS,Real County,48385,24.4
+TEXAS,Red River County,48387,25.9
+TEXAS,Reeves County,48389,25.4
+TEXAS,Refugio County,48391,25.9
+TEXAS,Roberts County,48393,25.2
+TEXAS,Robertson County,48395,26.9
+TEXAS,Rockwall County,48397,26.3
+TEXAS,Runnels County,48399,24.3
+TEXAS,Rusk County,48401,27.4
+TEXAS,Sabine County,48403,25.9
+TEXAS,San Augustine County,48405,26.4
+TEXAS,San Jacinto County,48407,27.7
+TEXAS,San Patricio County,48409,25.3
+TEXAS,San Saba County,48411,24.7
+TEXAS,Schleicher County,48413,24.7
+TEXAS,Scurry County,48415,24.2
+TEXAS,Shackelford County,48417,24.3
+TEXAS,Shelby County,48419,25.8
+TEXAS,Sherman County,48421,24.9
+TEXAS,Smith County,48423,28.2
+TEXAS,Somervell County,48425,24.9
+TEXAS,Starr County,48427,25.4
+TEXAS,Stephens County,48429,27.0
+TEXAS,Sterling County,48431,24.1
+TEXAS,Stonewall County,48433,25.1
+TEXAS,Sutton County,48435,25.4
+TEXAS,Swisher County,48437,24.3
+TEXAS,Tarrant County,48439,22.6
+TEXAS,Taylor County,48441,25.3
+TEXAS,Terrell County,48443,26.0
+TEXAS,Terry County,48445,25.6
+TEXAS,Throckmorton County,48447,24.9
+TEXAS,Titus County,48449,25.2
+TEXAS,Tom Green County,48451,23.7
+TEXAS,Travis County,48453,20.8
+TEXAS,Trinity County,48455,28.3
+TEXAS,Tyler County,48457,24.4
+TEXAS,Upshur County,48459,26.1
+TEXAS,Upton County,48461,24.7
+TEXAS,Uvalde County,48463,24.3
+TEXAS,Val Verde County,48465,25.1
+TEXAS,Van Zandt County,48467,24.0
+TEXAS,Victoria County,48469,25.6
+TEXAS,Walker County,48471,26.2
+TEXAS,Waller County,48473,26.8
+TEXAS,Ward County,48475,25.3
+TEXAS,Washington County,48477,26.6
+TEXAS,Webb County,48479,24.2
+TEXAS,Wharton County,48481,28.2
+TEXAS,Wheeler County,48483,25.8
+TEXAS,Wichita County,48485,25.9
+TEXAS,Wilbarger County,48487,25.3
+TEXAS,Willacy County,48489,24.7
+TEXAS,Williamson County,48491,23.4
+TEXAS,Wilson County,48493,24.8
+TEXAS,Winkler County,48495,25.2
+TEXAS,Wise County,48497,25.0
+TEXAS,Wood County,48499,25.6
+TEXAS,Yoakum County,48501,26.0
+TEXAS,Young County,48503,23.9
+TEXAS,Zapata County,48505,25.3
+TEXAS,Zavala County,48507,25.2
+UTAH,Beaver County,49001,20.7
+UTAH,Box Elder County,49003,23.8
+UTAH,Cache County,49005,21.9
+UTAH,Carbon County,49007,22.5
+UTAH,Daggett County,49009,20.8
+UTAH,Davis County,49011,21.6
+UTAH,Duchesne County,49013,25.3
+UTAH,Emery County,49015,23.8
+UTAH,Garfield County,49017,22.2
+UTAH,Grand County,49019,17.0
+UTAH,Iron County,49021,21.5
+UTAH,Juab County,49023,21.9
+UTAH,Kane County,49025,21.9
+UTAH,Millard County,49027,22.7
+UTAH,Morgan County,49029,19.2
+UTAH,Piute County,49031,23.9
+UTAH,Rich County,49033,20.9
+UTAH,Salt Lake County,49035,21.5
+UTAH,San Juan County,49037,24.0
+UTAH,Sanpete County,49039,22.0
+UTAH,Sevier County,49041,23.0
+UTAH,Summit County,49043,11.7
+UTAH,Tooele County,49045,26.8
+UTAH,Uintah County,49047,26.3
+UTAH,Utah County,49049,21.9
+UTAH,Wasatch County,49051,18.5
+UTAH,Washington County,49053,20.1
+UTAH,Wayne County,49055,20.6
+UTAH,Weber County,49057,23.2
+VERMONT,Addison County,50001,20.1
+VERMONT,Bennington County,50003,19.6
+VERMONT,Caledonia County,50005,21.5
+VERMONT,Chittenden County,50007,17.7
+VERMONT,Essex County,50009,23.7
+VERMONT,Franklin County,50011,25.2
+VERMONT,Grand Isle County,50013,22.2
+VERMONT,Lamoille County,50015,21.1
+VERMONT,Orange County,50017,22.8
+VERMONT,Orleans County,50019,23.4
+VERMONT,Rutland County,50021,22.5
+VERMONT,Washington County,50023,20.0
+VERMONT,Windham County,50025,20.0
+VERMONT,Windsor County,50027,20.3
+VIRGINIA,Accomack County,51001,30.2
+VIRGINIA,Albemarle County,51003,22.6
+VIRGINIA,Alleghany County,51005,26.2
+VIRGINIA,Amelia County,51007,27.4
+VIRGINIA,Amherst County,51009,27.2
+VIRGINIA,Appomattox County,51011,26.4
+VIRGINIA,Arlington County,51013,19.5
+VIRGINIA,Augusta County,51015,24.4
+VIRGINIA,Bath County,51017,25.2
+VIRGINIA,Bedford County,51019,25.5
+VIRGINIA,Bland County,51021,26.8
+VIRGINIA,Botetourt County,51023,25.3
+VIRGINIA,Brunswick County,51025,30.5
+VIRGINIA,Buchanan County,51027,27.0
+VIRGINIA,Buckingham County,51029,28.0
+VIRGINIA,Campbell County,51031,27.6
+VIRGINIA,Caroline County,51033,27.7
+VIRGINIA,Carroll County,51035,26.3
+VIRGINIA,Charles City County,51036,29.4
+VIRGINIA,Charlotte County,51037,28.8
+VIRGINIA,Chesterfield County,51041,28.0
+VIRGINIA,Clarke County,51043,23.7
+VIRGINIA,Craig County,51045,25.2
+VIRGINIA,Culpeper County,51047,28.0
+VIRGINIA,Cumberland County,51049,26.4
+VIRGINIA,Dickenson County,51051,25.8
+VIRGINIA,Dinwiddie County,51053,27.2
+VIRGINIA,Essex County,51057,27.4
+VIRGINIA,Fairfax County,51059,21.9
+VIRGINIA,Fauquier County,51061,23.0
+VIRGINIA,Floyd County,51063,22.8
+VIRGINIA,Fluvanna County,51065,25.8
+VIRGINIA,Franklin County,51067,25.8
+VIRGINIA,Frederick County,51069,25.1
+VIRGINIA,Giles County,51071,23.7
+VIRGINIA,Gloucester County,51073,25.6
+VIRGINIA,Goochland County,51075,26.6
+VIRGINIA,Grayson County,51077,23.9
+VIRGINIA,Greene County,51079,25.7
+VIRGINIA,Greensville County,51081,29.7
+VIRGINIA,Halifax County,51083,30.4
+VIRGINIA,Hanover County,51085,23.0
+VIRGINIA,Henrico County,51087,25.2
+VIRGINIA,Henry County,51089,25.7
+VIRGINIA,Highland County,51091,24.0
+VIRGINIA,Isle of Wight County,51093,26.1
+VIRGINIA,James City County,51095,25.6
+VIRGINIA,King and Queen County,51097,26.5
+VIRGINIA,King George County,51099,27.0
+VIRGINIA,King William County,51101,27.0
+VIRGINIA,Lancaster County,51103,25.9
+VIRGINIA,Lee County,51105,27.0
+VIRGINIA,Loudoun County,51107,21.8
+VIRGINIA,Louisa County,51109,25.7
+VIRGINIA,Lunenburg County,51111,28.9
+VIRGINIA,Madison County,51113,25.4
+VIRGINIA,Mathews County,51115,25.9
+VIRGINIA,Mecklenburg County,51117,28.3
+VIRGINIA,Middlesex County,51119,24.9
+VIRGINIA,Montgomery County,51121,23.9
+VIRGINIA,Nelson County,51125,24.5
+VIRGINIA,New Kent County,51127,24.8
+VIRGINIA,Northampton County,51131,29.0
+VIRGINIA,Northumberland County,51133,26.5
+VIRGINIA,Nottoway County,51135,27.0
+VIRGINIA,Orange County,51137,26.3
+VIRGINIA,Page County,51139,26.1
+VIRGINIA,Patrick County,51141,24.5
+VIRGINIA,Pittsylvania County,51143,28.3
+VIRGINIA,Powhatan County,51145,27.2
+VIRGINIA,Prince Edward County,51147,26.9
+VIRGINIA,Prince George County,51149,25.4
+VIRGINIA,Prince William County,51153,26.4
+VIRGINIA,Pulaski County,51155,28.4
+VIRGINIA,Rappahannock County,51157,23.5
+VIRGINIA,Richmond County,51159,27.4
+VIRGINIA,Roanoke County,51161,22.4
+VIRGINIA,Rockbridge County,51163,24.4
+VIRGINIA,Rockingham County,51165,23.4
+VIRGINIA,Russell County,51167,23.9
+VIRGINIA,Scott County,51169,26.4
+VIRGINIA,Shenandoah County,51171,26.6
+VIRGINIA,Smyth County,51173,23.0
+VIRGINIA,Southampton County,51175,26.4
+VIRGINIA,Spotsylvania County,51177,25.7
+VIRGINIA,Stafford County,51179,26.4
+VIRGINIA,Surry County,51181,28.7
+VIRGINIA,Sussex County,51183,31.2
+VIRGINIA,Tazewell County,51185,26.9
+VIRGINIA,Warren County,51187,24.8
+VIRGINIA,Washington County,51191,26.4
+VIRGINIA,Westmoreland County,51193,28.3
+VIRGINIA,Wise County,51195,27.0
+VIRGINIA,Wythe County,51197,23.6
+VIRGINIA,York County,51199,23.6
+VIRGINIA,Alexandria (City),51510,21.2
+VIRGINIA,Bedford (City),51515,26.3
+VIRGINIA,Bristol (City),51520,24.7
+VIRGINIA,Buena Vista (City),51530,25.0
+VIRGINIA,Charlottesville (City),51540,24.8
+VIRGINIA,Chesapeake (City),51550,26.5
+VIRGINIA,Colonial Heights (City),51570,24.6
+VIRGINIA,Covington (City),51580,26.5
+VIRGINIA,Danville (City),51590,28.8
+VIRGINIA,Emporia (City),51595,29.1
+VIRGINIA,Fairfax (City),51600,25.8
+VIRGINIA,Falls Church (City),51610,24.9
+VIRGINIA,Franklin (City),51620,30.2
+VIRGINIA,Fredericksburg (City),51630,26.0
+VIRGINIA,Galax (City),51640,23.9
+VIRGINIA,Hampton (City),51650,29.3
+VIRGINIA,Harrisonburg (City),51660,24.8
+VIRGINIA,Hopeville (City),51670,26.9
+VIRGINIA,Lexington (City),51678,25.1
+VIRGINIA,Lynchburg (City),51680,26.8
+VIRGINIA,Manassas (City),51683,25.8
+VIRGINIA,Manassas Park (City),51685,26.2
+VIRGINIA,Martinsville (City),51690,27.8
+VIRGINIA,Newport News (City),51700,29.7
+VIRGINIA,Norfolk (City),51710,26.3
+VIRGINIA,Norton (City),51720,25.1
+VIRGINIA,Petersburg (City),51730,34.2
+VIRGINIA,Poguoson (City),51735,24.5
+VIRGINIA,Portsmouth (City),51740,29.5
+VIRGINIA,Radford (City),51750,23.7
+VIRGINIA,Richmond (City),51760,25.7
+VIRGINIA,Roanoke (City),51770,27.7
+VIRGINIA,Salem (City),51775,27.0
+VIRGINIA,Staunton (City),51790,26.2
+VIRGINIA,Suffolk (City),51800,26.6
+VIRGINIA,Virginia Beach (City),51810,23.7
+VIRGINIA,Waynesboro (City),51820,24.5
+VIRGINIA,Williamsburg (City),51830,25.3
+VIRGINIA,Winchester (City),51840,25.7
+WASHINGTON,Adams County,53001,30.6
+WASHINGTON,Asotin County,53003,24.1
+WASHINGTON,Benton County,53005,24.7
+WASHINGTON,Chelan County,53007,21.4
+WASHINGTON,Clallam County,53009,24.8
+WASHINGTON,Clark County,53011,26.4
+WASHINGTON,Columbia County,53013,30.3
+WASHINGTON,Cowlitz County,53015,30.6
+WASHINGTON,Douglas County,53017,24.6
+WASHINGTON,Ferry County,53019,24.0
+WASHINGTON,Franklin County,53021,24.3
+WASHINGTON,Garfield County,53023,28.6
+WASHINGTON,Grant County,53025,28.1
+WASHINGTON,Grays Harbor County,53027,29.4
+WASHINGTON,Island County,53029,22.4
+WASHINGTON,Jefferson County,53031,18.2
+WASHINGTON,King County,53033,19.0
+WASHINGTON,Kitsap County,53035,24.4
+WASHINGTON,Kittitas County,53037,20.3
+WASHINGTON,Klickitat County,53039,25.5
+WASHINGTON,Lewis County,53041,30.8
+WASHINGTON,Lincoln County,53043,25.7
+WASHINGTON,Mason County,53045,27.2
+WASHINGTON,Okanogan County,53047,25.3
+WASHINGTON,Pacific County,53049,30.0
+WASHINGTON,Pend Oreille County,53051,24.9
+WASHINGTON,Pierce County,53053,26.3
+WASHINGTON,San Juan County,53055,16.5
+WASHINGTON,Skagit County,53057,23.3
+WASHINGTON,Skamania County,53059,25.7
+WASHINGTON,Snohomish County,53061,25.0
+WASHINGTON,Spokane County,53063,24.7
+WASHINGTON,Stevens County,53065,26.1
+WASHINGTON,Thurston County,53067,25.0
+WASHINGTON,Wahkiakum County,53069,27.2
+WASHINGTON,Walla Walla County,53071,24.1
+WASHINGTON,Whatcom County,53073,19.7
+WASHINGTON,Whitman County,53075,23.6
+WASHINGTON,Yakima County,53077,25.8
+WEST VIRGINIA,Barbour County,54001,29.4
+WEST VIRGINIA,Berkeley County,54003,29.8
+WEST VIRGINIA,Boone County,54005,32.4
+WEST VIRGINIA,Braxton County,54007,30.6
+WEST VIRGINIA,Brooke County,54009,30.1
+WEST VIRGINIA,Cabell County,54011,29.1
+WEST VIRGINIA,Calhoun County,54013,29.7
+WEST VIRGINIA,Clay County,54015,30.3
+WEST VIRGINIA,Doddridge County,54017,29.1
+WEST VIRGINIA,Fayette County,54019,31.7
+WEST VIRGINIA,Gilmer County,54021,31.9
+WEST VIRGINIA,Grant County,54023,30.4
+WEST VIRGINIA,Greenbrier County,54025,30.1
+WEST VIRGINIA,Hampshire County,54027,27.2
+WEST VIRGINIA,Hancock County,54029,28.4
+WEST VIRGINIA,Hardy County,54031,29.8
+WEST VIRGINIA,Harrison County,54033,29.4
+WEST VIRGINIA,Jackson County,54035,27.7
+WEST VIRGINIA,Jefferson County,54037,27.7
+WEST VIRGINIA,Kanawha County,54039,28.5
+WEST VIRGINIA,Lewis County,54041,29.1
+WEST VIRGINIA,Lincoln County,54043,30.3
+WEST VIRGINIA,Logan County,54045,38.5
+WEST VIRGINIA,McDowell County,54047,33.0
+WEST VIRGINIA,Marion County,54049,26.8
+WEST VIRGINIA,Marshall County,54051,27.5
+WEST VIRGINIA,Mason County,54053,32.0
+WEST VIRGINIA,Mercer County,54055,27.1
+WEST VIRGINIA,Mineral County,54057,27.7
+WEST VIRGINIA,Mingo County,54059,33.5
+WEST VIRGINIA,Monongalia County,54061,27.1
+WEST VIRGINIA,Monroe County,54063,29.2
+WEST VIRGINIA,Morgan County,54065,28.3
+WEST VIRGINIA,Nicholas County,54067,28.3
+WEST VIRGINIA,Ohio County,54069,28.6
+WEST VIRGINIA,Pendleton County,54071,28.4
+WEST VIRGINIA,Pleasants County,54073,30.2
+WEST VIRGINIA,Pocahontas County,54075,32.7
+WEST VIRGINIA,Preston County,54077,28.1
+WEST VIRGINIA,Putnam County,54079,27.7
+WEST VIRGINIA,Raleigh County,54081,29.2
+WEST VIRGINIA,Randolph County,54083,27.3
+WEST VIRGINIA,Ritchie County,54085,27.7
+WEST VIRGINIA,Roane County,54087,27.5
+WEST VIRGINIA,Summers County,54089,30.5
+WEST VIRGINIA,Taylor County,54091,28.0
+WEST VIRGINIA,Tucker County,54093,31.6
+WEST VIRGINIA,Tyler County,54095,31.0
+WEST VIRGINIA,Upshur County,54097,32.0
+WEST VIRGINIA,Wayne County,54099,33.0
+WEST VIRGINIA,Webster County,54101,31.9
+WEST VIRGINIA,Wetzel County,54103,29.1
+WEST VIRGINIA,Wirt County,54105,28.9
+WEST VIRGINIA,Wood County,54107,30.3
+WEST VIRGINIA,Wyoming County,54109,29.8
+WISCONSIN,Adams County,55001,25.5
+WISCONSIN,Ashland County,55003,24.8
+WISCONSIN,Barron County,55005,26.8
+WISCONSIN,Bayfield County,55007,26.4
+WISCONSIN,Brown County,55009,25.0
+WISCONSIN,Buffalo County,55011,25.2
+WISCONSIN,Burnett County,55013,26.0
+WISCONSIN,Calumet County,55015,26.3
+WISCONSIN,Chippewa County,55017,25.3
+WISCONSIN,Clark County,55019,26.5
+WISCONSIN,Columbia County,55021,25.0
+WISCONSIN,Crawford County,55023,24.8
+WISCONSIN,Dane County,55025,22.5
+WISCONSIN,Dodge County,55027,25.9
+WISCONSIN,Door County,55029,24.0
+WISCONSIN,Douglas County,55031,24.7
+WISCONSIN,Dunn County,55033,25.2
+WISCONSIN,Eau Claire County,55035,25.5
+WISCONSIN,Florence County,55037,25.2
+WISCONSIN,Fond du Lac County,55039,25.8
+WISCONSIN,Forest County,55041,26.4
+WISCONSIN,Grant County,55043,26.8
+WISCONSIN,Green County,55045,27.1
+WISCONSIN,Green Lake County,55047,24.7
+WISCONSIN,Iowa County,55049,24.7
+WISCONSIN,Iron County,55051,24.6
+WISCONSIN,Jackson County,55053,25.6
+WISCONSIN,Jefferson County,55055,24.3
+WISCONSIN,Juneau County,55057,25.1
+WISCONSIN,Kenosha County,55059,28.5
+WISCONSIN,Kewaunee County,55061,25.4
+WISCONSIN,La Crosse County,55063,24.9
+WISCONSIN,Lafayette County,55065,25.4
+WISCONSIN,Langlade County,55067,26.9
+WISCONSIN,Lincoln County,55069,25.9
+WISCONSIN,Manitowoc County,55071,27.6
+WISCONSIN,Marathon County,55073,24.7
+WISCONSIN,Marinette County,55075,26.8
+WISCONSIN,Marquette County,55077,26.4
+WISCONSIN,Menominee County,55078,30.9
+WISCONSIN,Milwaukee County,55079,28.0
+WISCONSIN,Monroe County,55081,25.3
+WISCONSIN,Oconto County,55083,27.1
+WISCONSIN,Oneida County,55085,25.5
+WISCONSIN,Outagamie County,55087,26.6
+WISCONSIN,Ozaukee County,55089,22.1
+WISCONSIN,Pepin County,55091,24.3
+WISCONSIN,Pierce County,55093,26.3
+WISCONSIN,Polk County,55095,25.6
+WISCONSIN,Portage County,55097,24.2
+WISCONSIN,Price County,55099,24.9
+WISCONSIN,Racine County,55101,25.3
+WISCONSIN,Richland County,55103,25.0
+WISCONSIN,Rock County,55105,26.6
+WISCONSIN,Rusk County,55107,26.2
+WISCONSIN,St. Croix County,55109,25.5
+WISCONSIN,Sauk County,55111,26.1
+WISCONSIN,Sawyer County,55113,27.4
+WISCONSIN,Shawano County,55115,26.0
+WISCONSIN,Sheboygan County,55117,24.5
+WISCONSIN,Taylor County,55119,25.4
+WISCONSIN,Trempealeau County,55121,25.4
+WISCONSIN,Vernon County,55123,25.8
+WISCONSIN,Vilas County,55125,24.6
+WISCONSIN,Walworth County,55127,23.3
+WISCONSIN,Washburn County,55129,24.8
+WISCONSIN,Washington County,55131,23.5
+WISCONSIN,Waukesha County,55133,22.2
+WISCONSIN,Waupaca County,55135,26.1
+WISCONSIN,Waushara County,55137,25.4
+WISCONSIN,Winnebago County,55139,26.2
+WISCONSIN,Wood County,55141,26.9
+WYOMING,Albany County,56001,18.8
+WYOMING,Big Horn County,56003,19.3
+WYOMING,Campbell County,56005,23.2
+WYOMING,Carbon County,56007,26.4
+WYOMING,Converse County,56009,24.2
+WYOMING,Crook County,56011,22.4
+WYOMING,Fremont County,56013,24.8
+WYOMING,Goshen County,56015,22.2
+WYOMING,Hot Springs County,56017,25.5
+WYOMING,Johnson County,56019,17.7
+WYOMING,Laramie County,56021,22.4
+WYOMING,Lincoln County,56023,22.6
+WYOMING,Natrona County,56025,22.4
+WYOMING,Niobrara County,56027,23.6
+WYOMING,Park County,56029,19.7
+WYOMING,Platte County,56031,23.8
+WYOMING,Sheridan County,56033,22.0
+WYOMING,Sublette County,56035,21.1
+WYOMING,Sweetwater County,56037,24.2
+WYOMING,Teton County,56039,11.9
+WYOMING,Uinta County,56041,21.5
+WYOMING,Washakie County,56043,22.2
+WYOMING,Weston County,56045,26.0

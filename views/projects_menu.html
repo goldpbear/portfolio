@@ -1,0 +1,25 @@
+<script type="text/html" id="projects_menu_tmpl">
+	<div class="col-md-12">
+		<h4 id="projects_menu_header">The work below represents a mix of web development, graphic design, interaction design, design research, and data analysis projects. Click on a project to learn more about it.</h4>
+	</div>
+	<% for (var i = 0; i < arguments[0].length; i++) { %>
+		<a href="#projects/<%=i%>">	
+			<div class="col-md-5 projects-menu-item">
+			<h3 class="projects-menu-item-header accent-1"><%=arguments[0][i].name%></h3>
+		    <div class="col-md-5">
+	    		<div class="circle center-block">
+	    			<img class="center-block projects-menu-item-img" src="<%=arguments[0][i].thumbnail%>" />
+	    		</div>
+		    </div>
+		    <div class="col-md-7 projects-menu-item-content">
+		    	<p class="projects-menu-item-blurb"><%=arguments[0][i].blurb%></p>
+		    </div>
+		    <div class="tags" id="projects-menu-tags">
+	    		<% for (var j = 0; j < arguments[0][i].tags.length; j++) { %>
+	    			<span class="accent-1"><%=arguments[0][i].tags[j]%></span>
+	    		<% } %>
+	    	</div>
+	    </div>
+	    </a>
+	<% } %>
+</script>

@@ -1,0 +1,404 @@
+
+@font-face {
+	font-family: "ultraLight";
+	src: url("Aliquam.ttf");
+}
+
+@font-face {
+  font-family: "octicons";
+  src: url("octicons.ttf");
+}
+
+@media (min-width: 768px) { .container { max-width: 1170px; } }
+
+a:hover {
+	text-decoration: none !important;
+}
+
+.octicon-mark-github:before {
+	text-decoration: none; 
+	font: normal normal normal 16px/1 octicons;
+  	display: inline-block;
+	content: "\f00a"
+}
+
+body html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	background-color: #E7EAEC;
+}
+
+.container {
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+#left-gutter {
+}
+
+#center {
+	font-family: ultraLight;
+	color: #777777;
+}
+
+#content {
+	margin-bottom: 75px;
+	overflow: hidden;
+}
+
+#right-gutter {
+	height: 400px;
+
+}
+
+#name-header {
+	font-size: 4em;
+}
+
+.accent-1 {
+	color: #F15E50;
+}
+
+.accent-2 {
+	color: #9FE5FF;
+}
+
+.header-img {
+	margin-bottom: 10px;
+}
+
+#main-menu {
+	font-family: Helvetica;
+	color: #777777;
+	text-align: right;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-right: 20px;
+}
+
+.menu-item {
+	cursor: pointer;
+}
+
+.menu-item:hover {
+	color: #F15E50;
+}
+
+.active {
+	color: #F15E50;
+}
+
+.inactive {
+	color: #777777;
+}
+
+.icon-link {
+	margin-right: 10px;
+}
+
+.projects-menu-item {
+	border-radius: 4pt;
+	margin-top: 25px;
+	height: 260px;
+	margin-left: 40px;
+	border: 1px solid #CCCCCC;
+	-webkit-transition: background 0.2s linear;
+    -moz-transition: background 0.2s linear;
+    -ms-transition: background 0.2s linear;
+    -o-transition: background 0.2s linear;
+    transition: background 0.2s linear;
+	/*-webkit-box-shadow: 3px 3px 1px 0px rgba(200,200,200,1);
+	-moz-box-shadow: 3px 3px 1px 0px rgba(200,200,200,1);
+	box-shadow: 3px 3px 1px 0px rgba(200,200,200,1);*/
+}
+
+.projects-menu-item:hover {
+	text-decoration: none !important;
+	background-color: #333333;
+	cursor: pointer;
+}
+
+.projects-menu-item-header {
+	text-decoration: none !important;
+	font-weight: bold;
+	text-align: center;
+	margin-left: 25px;
+}
+
+.projects-menu-item-blurb {
+	text-decoration: none !important;
+	font-weight: normal;
+	text-align: left;
+	font-size: 1.1em;
+	font-family: Helvetica;
+	color: #777777;
+	line-height: 1.2em;
+	padding-left: 10px;
+}
+
+.projects-menu-item-content {
+}
+
+.projects-menu-item-img {
+	margin-top: 10px;
+}
+
+#projects-menu-tags {
+	position: absolute;
+	bottom: 0;
+	margin-bottom: 10px;
+}
+
+.tags span {
+	background-color: white;
+	border: 1pt solid #9FE5FF;
+	border-radius: 4pt;
+	padding: 5px;
+	white-space: nowrap;
+	line-height: 2.5em;
+}
+
+.circle {
+	overflow: hidden;
+	background-color: white;
+	border: 3pt solid #9FE5FF;
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+}
+
+.circle:hover {
+	/*background-color: black;
+	border-color: #F15E50;*/
+}
+
+.focus-images {
+}
+
+.focus-images img {
+	margin-bottom: 10px;
+	margin-right: 5px;
+	-webkit-box-shadow: 3px 3px 1px 0px rgba(150,150,150,1);
+	-moz-box-shadow: 3px 3px 1px 0px rgba(150,150,150,1);
+	box-shadow: 3px 3px 1px 0px rgba(150,150,150,1);
+}
+
+#project_focus_container {
+	margin-top: 30px;
+}
+
+#project_focus_desc {
+	font-family: Helvetica;
+}
+
+#project_focus_desc h1 {
+	font-weight: bold;
+}
+
+hr {
+	border-color: #999999;
+}
+
+.fullDescription {
+	font-family: Helvetica;
+}
+
+.focus-project-title {
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+.text-block {
+	margin-bottom: 20px;
+}
+
+.tags {
+	font-family: ultraLight;
+	font-weight: bold;
+}
+
+.muted-link {
+	color: #337ab7;
+}
+
+#homepage-desc {
+	font-family: Helvetica;
+	font-size: 1.4em;
+}
+
+#homepage-desc div {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	line-height: 1.2em;
+}
+
+#footer {
+	position: fixed;
+	bottom: 0;
+}
+
+#copyright {
+	position: absolute;
+	padding: 0;
+	line-height: 1em;
+	font-family: ultraLight;
+	color: white;
+	text-align: center;
+	bottom: 2%;
+	left: 25%;
+}
+
+#copyright p {
+	margin-bottom: 7px;
+}
+
+.hidden {
+	display: none;
+}
+
+.visible {
+	display: block;
+}
+
+.hoverable-surprise {
+	cursor: pointer;
+}
+
+#me {
+	margin-left: 5px;
+	margin-top: 20px;
+}
+
+#center {
+	padding: 0;
+}
+
+#not_found {
+	margin-bottom: 200px;
+}
+
+.back_button {
+
+}
+
+.back_button:hover {
+	color: #F15E50;
+	cursor: pointer;
+}
+
+#projects_menu_header {
+	font-family: Helvetica;
+}
+
+.resume_position {
+	font-family: ultraLight;
+	font-weight: bold;
+}
+
+.resume_location_dates {
+	font-family: Helvetica;
+	font-weight: normal;
+}
+
+.resume_organization {
+	font-family: Helvetica;
+	font-weight: normal;
+}
+
+.resume_location {
+	font-family: Helvetica;
+	font-weight: normal;
+}
+
+.resume_roles {
+	font-family: Helvetica;
+	font-weight: normal;
+}
+
+.resume_item {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.resume_section_title {
+	font-family: ultraLight;
+	font-weight: bold;
+}
+
+.resume_institution {
+	font-family: ultraLight;
+	font-weight: bold;
+}
+
+.resume_degree {
+	font-family: Helvetica;
+	font-weight: normal;
+}
+
+.resume_education_dates {
+	font-family: Helvetica;
+	font-weight: normal;
+}
+
+.resume_description {
+	font-family: Helvetica;
+	font-weight: normal;
+}
+
+.resume_other {
+	font-family: Helvetica;
+	font-weight: normal;
+}
+
+.resume_interests {
+	font-family: Helvetica;
+	font-weight: normal;
+}
+
+#contact_header {
+	font-family: Helvetica;
+}
+
+#comments_text {
+	width: 450px;
+	height: 100px;
+	border: none;
+	margin-bottom: 15px;
+	padding: 8px;
+	font-family: Helvetica;
+}
+
+#comments_email {
+	width: 450px;
+	margin-bottom: 20px;
+	margin-top: 30px;
+	padding-left: 8px;
+	font-family: Helvetica;
+
+}
+
+#comments_submit {
+	font-weight: bold;
+	
+}
+
+.message_success {
+	font-weight: bold;
+	color: #74c474;
+	font-family: Helvetica;
+}
+
+.message_failure {
+	font-weight: bold;
+	color: #e06359;
+	font-family: Helvetica;
+}
+
+
+

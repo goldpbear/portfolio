@@ -1,0 +1,57 @@
+<script type="text/html" id="resume_tmpl">
+	<div class="col-md-12">
+		<h1 class="accent-1" id="resume_title"><strong><%=title%></strong></h1>
+		<h4><%=contact%></h4>
+	</div>
+
+    <div class="col-md-9" id="resume_experience">
+    	<h3 class="resume_section_title accent-1">Professional Experience</h3>
+    	<% for (var i = 0; i < sections.professional_experience.length; i++) { %>
+    		<div class="resume_item">
+		    	<div class="resume_position accent-1"><%=sections.professional_experience[i].position%></div>
+		    	<div class="resume_organization"><%=sections.professional_experience[i].organization%></div>
+		    	<div class="resume_location_dates"><%=sections.professional_experience[i].location%>, <%=sections.professional_experience[i].dates%></div>
+				<ul class="resume_roles">
+				<% for (var j = 0; j < sections.professional_experience[i].roles.length; j++) { %>
+					<li><%=sections.professional_experience[i].roles[j]%></li>
+				<% } %>			    	
+				</ul>
+    		</div>
+    	<% } %>	
+    </div>
+
+    <div class="col-md-9" id="resume_education">
+    	<h3 class="resume_section_title accent-1">Education</h3>
+    	<% for (var k = 0; k < sections.education.length; k++) { %>
+    		<div class="resume_item">
+    			<div class="resume_institution accent-1"><%=sections.education[k].institution%></div>
+    			<div class="resume_degree"><%=sections.education[k].degree%></div>
+    			<div class="resume_education_dates"><%=sections.education[k].dates%></div>
+    			<ul>
+    				<% if (sections.education[k].description) { %><li class="resume_description"><%=sections.education[k].description%></li> <% } %>
+    				<% if (sections.education[k].other) { %><li class="resume_other"><%=sections.education[k].other%></li> <% } %>
+    			</ul>
+    		</div>
+    	<% } %>
+    </div>
+
+    <div class="col-md-9" id="resume_skills">
+    	<h3 class="resume_section_title accent-1">Skills</h3>
+    	<div class="tags">
+    		<% for (var l = 0; l < sections.skills.tags.length; l++) { %>
+    			<span class="accent-1"><%=sections.skills.tags[l]%></span>
+    		<% } %>
+	    </div>
+    </div>
+
+    <div class="col-md-9" id="resume_interests">
+    	<h3 class="resume_section_title accent-1">Interests</h3>
+    	<ul class="resume_interests">
+    	<% for (var m = 0; m < sections.interests.length; m++) { %>
+			<li><%=sections.interests[m]%></li>
+		<% } %>
+		</ul>
+    </div>
+
+
+</script>

@@ -1,0 +1,43 @@
+<script type="text/html" id="focus_project_tmpl">
+
+		<div class="col-md-12">
+			<p class="back_button">< Back</p>
+			<h1 class="accent-1 focus-project-title"><strong><%=name%></strong></h1>
+		</div>
+
+	    <div class="col-md-5" id="project_focus_desc">
+	    	<div><em><strong>Overview</strong></em></div>
+	    	<div class="fullDescription text-block"><%=fullDescription%></div>
+	    	<div><em><strong>Role</strong></em></div>
+	    	<ul class="text-block">
+	    		<% for (var k = 0; k < role.length; k++) { %>
+	    			<li><%=role[k]%></li>
+	    		<% } %>
+	    	</ul>
+	    	<% if (collaborators) { %>
+		    	<div><em><strong>Collaborators</strong></em></div>
+	    		<ul>
+	    		<% for (var i = 0; i < collaborators.length; i++) { %>
+	    			<li><a href="<%=collaborators[i][1]%>" target="_blank"><%=collaborators[i][0]%></a></li>
+	    		<% } %>
+	    		</ul>
+    		<% } %>
+    		<% if (link) { %>
+		    	<div><em><strong>Link</strong></em></div>
+		    	<div class="text-block"><a href="<%=link[1]%>" target="_blank"><%=link[0]%></a></div>
+		    <% } %>
+	    	<div class="tags">
+	    		<% for (var j = 0; j < tags.length; j++) { %>
+	    			<span class="accent-1"><%=tags[j]%></span>
+	    		<% } %>
+	    	</div>
+	    </div>
+	    <div class="col-md-7 pull-right">
+	    	<div class="focus-images">
+	    		<% if (mainImgs[0]) { %><img width="390px" src="<%=mainImgs[0] || ''%>" /><% } %>
+	    		<% if (mainImgs[1]) { %><img width="390px" src="<%=mainImgs[1] || ''%>" /><% } %>
+	    		<% if (mainImgs[2]) { %><img width="390px" src="<%=mainImgs[2] || ''%>" /><% } %>
+	    		<% if (mainImgs[3]) { %><img width="190px" src="<%=mainImgs[3] || ''%>" /><% } %>
+	    	</div>
+	    </div>
+</script>
