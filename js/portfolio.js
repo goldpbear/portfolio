@@ -8,7 +8,6 @@
 
     	// Figure out if we're getting a template, or if we need to
     	// load the template - and be sure to cache the result.
-    	console.log(str);
 	    var fn = !/\W/.test(str) ? cache[str] = cache[str] || tmpl(document.getElementById(str).innerHTML) :
 	     
 	      // Generate a reusable function that will serve as a template

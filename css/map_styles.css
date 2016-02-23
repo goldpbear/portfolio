@@ -96,3 +96,12 @@ label:hover {
 input:checked + label {
 	color: #000000;
 }
+
+#loading_icon {
+	height: 300px;
+	display: none;
+	position: absolute;
+	left: 40%;
+	top: 55%;
+	font-size: 2em;
+}
