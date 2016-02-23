@@ -1,6 +1,4 @@
-var theID = 2004;
-var previousYear = 2004;
-document.getElementById(previousYear).style.color="#000000";
+
 var w = 860;
 var h = 500;
 var csv_file = "data/2004_obesity_data_abbr.csv";
@@ -76,10 +74,6 @@ d3.json("data/us-counties.json", function(json) {
 });
 
 function updateMap(year) {
-	theID = year;
-	document.getElementById(previousYear).style.color="#CCCCCC";
-	document.getElementById(year).style.color="#000000";
-	previousYear = year;
 	var csv_file = "data/" + year + "_obesity_data_abbr.csv";
 
 	d3.csv(csv_file, function(data) {
@@ -116,3 +110,15 @@ function updateMap(year) {
 			});
 		});
 }
+
+// register menu listeners
+var radios = document.forms["map_header"].elements["map_menu"];
+for (var i = 0; i < radios.length; i++) {
+	radios[i].onclick = function() {
+		updateMap(this.id);
+	}
+}
+
+window.scrollBy(0, 185);
+
+

@@ -10,9 +10,12 @@ svg {
 #county_readout,
 #county_readout_filler {
 	font-size: 1.5em;
+	font-family: Helvetica;
+	margin-top: 45px;
 }	
 
 #county_readout_filler {
+	font
 	color:#CCCCCC;
 }	
 
@@ -25,30 +28,34 @@ svg {
 	font-size: 2em;
 }
 
-#map_header span {
-	padding-right: 30px;
-	cursor:pointer;
-	color:#CCCCCC;
-}
-
-.swatch {
-	width:15px;
-	height:15px;
-	position:absolute;
-	display: inline;
+#map_header {
+	display: block;
 }
 
 #legend {
 	font-family: Helvetica;
-	margin-top: 30px;
+	position: absolute;
+	left: -25px;
+}
+
+#legend div {
+	display: inline;
+	width:15px;
+	height:15px;
+	position:absolute;
+	top: 2px;
 }
 
 #legend p {
-	position:relative;
-	left:27px;
-	top:2px;
-	font-size: .65em;
+	font-size: 1em;
 	display: inline;
+	padding-left: 20px;
+}
+
+#legend li {
+	float: left;
+	list-style-type: none;
+	margin-right: 20px;
 }
 
 #low {
@@ -69,4 +76,23 @@ svg {
 
 #severe {
 	background-color:#a50f15;
+}
+
+input {
+	display: none;
+}
+
+label {
+	padding-right: 30px;
+	cursor:pointer;
+	color:#BBBBBB;
+}
+
+label:hover {
+	cursor: pointer;
+	color: #000000;
+}
+
+input:checked + label {
+	color: #000000;
 }
