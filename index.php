@@ -14,7 +14,7 @@
 					<div id="menu-projects" class="menu-item inactive">Projects</div>
 					<div id="menu-resume" class="menu-item inactive">Resume</div>
 					<div id="menu-contact" class="menu-item inactive">Contact</div>
-					<a href="https://github.com/goldpbear"><span class="octicon-mark-github icon-link"></span></a>
+					<a href="https://github.com/goldpbear" target="_blank"><span class="octicon-mark-github icon-link"></span></a>
 					<a href="https://www.linkedin.com/in/trevorcroxson" target="_blank"><img src="img/linkedin_icon.svg" class="icon-link" /></a>
 				</div>
 			</div>

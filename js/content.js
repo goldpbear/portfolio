@@ -28,7 +28,7 @@ var content =
 						"thumbnail": "img/LITWIcon.png",
 						"mainImgs": ["img/LITW1.png", "img/LITW2.png", "img/LITW3.png"],
 						"blurb": "LabintheWild is a platform for conducting large-scale experiments in the fields of psychology and human-computer interaction.",
-						"fullDescription": "LabintheWild is a collection of interactive experiments that leverage social comparisons among participants to generate interest. LabintheWild draws thousands of participants from all over the world, helping to make science <a href='http://lessweird.org' target='_blank'>less WEIRD!</a><br /><br />During my time with LabinthWild, I maintained the site itself, developed and launched several experiments, oversaw localization of the site's content into seven languages, analyzed data from past experiments, and worked with team members to develop their own experiments.",
+						"fullDescription": "LabintheWild is a collection of interactive experiments that leverage social comparisons among participants to generate interest. LabintheWild draws thousands of participants from all over the world, helping to make science <a href='http://lessweird.org' target='_blank'>less WEIRD!</a><br /><br />During my time with LabinthWild, I maintained the site itself, developed and launched several experiments, oversaw localization of the site's content into four languages, analyzed data from past experiments, and worked with team members to develop their own experiments.",
 						"role": ["Front-end development", "Back-end development", "Graphic design", "Data analysis"],
 						"collaborators": [["Katharina Reinecke", "https://homes.cs.washington.edu/~reinecke/"], ["Carol Moser", "https://www.linkedin.com/in/carol-moser-50b0b4a"], ["Yan Chen", "https://www.si.umich.edu/people/yan-chen-0"], ["Nick Strayer", "http://nickstrayer.me/"]],
 						"tags": ["Web development", "Web design", "JavaScript", "jQuery", "D3.js", "PHP", "SQL", "API design", "R"],
@@ -78,18 +78,17 @@ var content =
 						"tags": ["Python", "Whoosh", "Data wrangling"],
 						"link": ["Congressional bills search engine", "http://billsearchengine.herokuapp.com/"]
 					},
-					/*
 					{
 						"name": "Society 2030",
 						"thumbnail": "img/societyIcon.png",
 						"mainImgs": ["img/society1.png"],
-						"blurb": "The Society 2030 synthesized academic research about the changing demographic face of the country.",
+						"blurb": "The Society 2030 project synthesized academic research about the changing demographic face of the country.",
 						"fullDescription": "What will society look like in 2030? I designed a set of graphics synthesizing research from across the University of Michigan to answer this question. The graphics were used in presentations to corporate partners of the Society 2030 project.",
 						"role": ["Graphic design"],
-						"collaborators": [["Justin Dicenso", ""]],
-						"tags": ["Graphic design", "Illustrator"]
-					}
-					*/
+						"collaborators": [["Justin Dicenso", "https://www.linkedin.com/in/justin-dicenso-28376a46"]],
+						"tags": ["Graphic design", "Illustrator"],
+						"link": null
+					},
 					{
 						"name": "Obesity map",
 						"template": "map_tmpl",

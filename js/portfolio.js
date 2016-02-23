@@ -60,7 +60,7 @@
 		if (fetchedContent) {
 			// optionally override the default template
 			results.innerHTML = tmpl((fetchedContent.data.template || fetchedContent.template), fetchedContent.data);
-			attachHomepageListeners();
+			//attachHomepageListeners();
 			highlightMenu(route[0]);
 		} else {
 			results.innerHTML = tmpl("404_tmpl", {});
