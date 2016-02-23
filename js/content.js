@@ -93,14 +93,9 @@ var content =
 					{
 						"name": "Obesity map",
 						"template": "map_tmpl",
-						"thumbnail": "img/delayedIcon.png",
-						"mainImgs": ["img/delayed1.png", "img/delayed2.png"],
+						"thumbnail": "img/mapIcon.png",
 						"blurb": "An interactive visualization of county-by-county obesity data, designed to enable easy comparisons over time.",
-						"fullDescription": "For a class on exploratory data analysis techniques, I dug into raw airport delay data from the Bureau of Transportation Statistics.<br><br>I acquired the raw data, cleaned it, explored trends using R, and graphed results using the ggplot2 package.<br><br>I learned to avoid Newark airport in July.",
-						"role": ["Data munging", "Data analysis", "Data visualization"],
-						"collaborators": null,
 						"tags": ["D3.js", "JavaScript"],
-						"link": null
 					},	
 					{
 						"name": "Delayed",
