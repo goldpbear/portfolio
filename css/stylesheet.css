@@ -103,8 +103,7 @@ body {
 .projects-menu-item {
 	border-radius: 4pt;
 	margin-top: 25px;
-	height: 260px;
-	margin-left: 40px;
+	/*margin-left: 40px;*/
 	border: 1px solid #CCCCCC;
 	-webkit-transition: background 0.2s linear;
     -moz-transition: background 0.2s linear;
@@ -126,7 +125,7 @@ body {
 	text-decoration: none !important;
 	font-weight: bold;
 	text-align: center;
-	margin-left: 25px;
+	margin-bottom: 25px;
 }
 
 .projects-menu-item-blurb {
@@ -137,7 +136,7 @@ body {
 	font-family: Helvetica;
 	color: #777777;
 	line-height: 1.2em;
-	padding-left: 10px;
+	margin-top: 10px;
 }
 
 .projects-menu-item-content {
@@ -148,9 +147,14 @@ body {
 }
 
 #projects-menu-tags {
-	position: absolute;
 	bottom: 0;
 	margin-bottom: 10px;
+	margin-top: 30px;
+}
+
+.tags {
+	margin-left: 15px;
+	margin-right: 15px;
 }
 
 .tags span {
@@ -199,6 +203,10 @@ body {
 
 #project_focus_desc h1 {
 	font-weight: bold;
+}
+
+#project_focus_desc li {
+	margin-bottom: 0;
 }
 
 hr {

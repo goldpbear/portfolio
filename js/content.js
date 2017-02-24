@@ -13,42 +13,53 @@ var content =
 				// assume that if "data" is an array, children of this node will be numbered to correspond to array indices.
 				"data": [
 					{
-						"name": "Hey Duwamish!",
+						"name": "Mapseed",
 						"thumbnail": "img/duwamishIcon.png",
-						"mainImgs": ["img/duwamish1.png"],
-						"blurb": "I recently started contributing to this open source effort to track and visualize data about Seattle's Lower Duwamish Waterway.",
-						"fullDescription": "Hey Duwamish! is an interactive map that tracks environmental information about the Lower Duwamish Waterway.<br><br>I began collaborating on this open source project in November, 2015, working primarily on front-end features.",
-						"role": ["Front-end development"],
+						"mainImgs": ["img/duwamish2.png", "img/pboakland1.png"],
+						"blurb": "Mapseed is a Seattle-area startup focused on building solutions for community map-based data gathering.",
+						"fullDescription": "Mapseed's goal is to make it simple to deploy custom maps suitable for gathering data and telling stories. Use cases include environmental groups looking to gather data about cleanup efforts, and classroom teachers looking to engage students in community issues.<br><br>Based on an open source project called Shareabouts, we run a stack cosisting of PostgreSQL, Django, and Backbone.js.<br><br>I have worked on several pieces of front-end functionality, including a map story mode and a content editor.",
+						"role": ["Front-end development", "Back-end development", "UI design"],
 						"collaborators": null,
-						"tags": ["Web development", "JavaScript", "MapBox"],
-						"link": ["Visit Hey Duwamish!", "http://www.heyduwamish.org"]
+						"tags": ["Web development", "JavaScript", "Python", "SASS", "Django", "Leaflet", "backbone.js"],
+						"link": ["Mapseed", "http://mapseed.org", "Oakland Participatory Budgeting", "http://pboakland.org", "Hey Duwamish!", "http://www.heyduwamish.org"]
+					},
+					{
+						"name": "LabintheWild API development",
+						"thumbnail": "img/LITWIcon.png",
+						"mainImgs": ["img/LITW1.png"],
+						"blurb": "LabintheWild is a platform for conducting large-scale experiments in the fields of psychology and human-computer interaction.",
+						"fullDescription": "LabintheWild hosts interactive behavioral studies that leverage social comparisons among participants to generate interest. LabintheWild draws thousands of participants from all over the world, helping to make science <a href='http://lessweird.org' target='_blank'>less WEIRD!</a><br /><br />In addition to designing and implementing several studies for LabintheWild, I recently completed a comprehensive restructuring of the site's code repository and server infrastructure, resulting in better control over the code put into production.<br><br>I also completed the design and development of a JavaScript-based library that simplifies basic study tasks, like creating forms and tracking participants, and the design and implementation of a PHP-based RESTful API intended to simplify data collection. These tools have led to less code duplication and faster development times.",
+						"role": ["Front-end development", "Back-end development", "Graphic design", "Data analysis"],
+						"collaborators": null,
+						"tags": ["Web development", "Web design", "JavaScript", "jQuery", "D3.js", "PHP", "SQL"],
+						"link": ["LabintheWild", "http://www.labinthewild.org", "Sample study built with new library", "http://www.labinthewild.org/studies/computer-behaviors"]
 					},
 					{
 						"name": "Augury",
 						"thumbnail": "img/auguryIcon.png",
 						"mainImgs": ["img/augury1.png", "img/augury2.png", "img/augury3.png"],
 						"blurb": "Built on several years of research, Augury is a web application that helps designers understand the aesthetic appeal of their work.",
-						"fullDescription": "Augury is a single-page AngularJS web application based on research into web users' aesthetic preferences.<br /><br /><a href='https://homes.cs.washington.edu/~reinecke/Publications_files/Reinecke_CHI2013.pdf'>Research suggests</a> that visual complexity and colorfulness strongly affect aesthetic appeal. Augury determines the complexity and colorfulness of user-submitted images, then provides appeal ratings by country.<br><br>I developed all aspects of the application, except the low-level Java code that analyzes image features.",
+						"fullDescription": "Augury is a single-page AngularJS web application based on research into web users' aesthetic preferences.<br /><br /><a href='https://homes.cs.washington.edu/~reinecke/Publications_files/Reinecke_CHI2013.pdf'>Research suggests</a> that visual complexity and colorfulness strongly affect aesthetic appeal. Augury determines the complexity and colorfulness of user-submitted images, then provides appeal ratings by country.<br><br>For this project, I created an appealing visual design, built an AngularJS single-page web application, and integrated existing Java-based image processing code.",
 						"role": ["Front-end development", "Back-end development", "Graphic design", "Design research"],
 						"collaborators": null,
 						"tags": ["Web development", "Web design", "JavaScript", "AngularJS", "Java", "D3.js", "Illustrator"],
-						"link": ["Try the demo!", "http://ec2-52-88-229-218.us-west-2.compute.amazonaws.com:8080/webapp/web/app.html"]
+						"link": ["Try the demo!", "augury.labinthewild.org"]
 					},
 					{
-						"name": "LabintheWild",
-						"thumbnail": "img/LITWIcon.png",
-						"mainImgs": ["img/LITW1.png", "img/LITW2.png", "img/LITW3.png"],
-						"blurb": "LabintheWild is a platform for conducting large-scale experiments in the fields of psychology and human-computer interaction.",
-						"fullDescription": "LabintheWild is a collection of interactive experiments that leverage social comparisons among participants to generate interest. LabintheWild draws thousands of participants from all over the world, helping to make science <a href='http://lessweird.org' target='_blank'>less WEIRD!</a><br /><br />During my time with LabinthWild, I maintained the site itself, developed and launched several experiments, oversaw localization of the site's content into four languages, analyzed data from past experiments, and worked with team members to develop their own experiments.",
-						"role": ["Front-end development", "Back-end development", "Graphic design", "Data analysis"],
+						"name": "Fasterbids Data Dashboard",
+						"thumbnail": "img/fb_DataGraph1.png",
+						"mainImgs": ["img/fb_DataGraph.png", "img/fb_DataGraph1.png", "img/fb_DataGraph2.png"],
+						"blurb": "The Fasterbids data dashboard makes it easy for Fasterbids customers to compare and summarize sales data.",
+						"fullDescription": "Fasterbids.com is a Seattle-area startup that streamlines the process of bidding for construction materials.<br><br>On this project, I worked with a team to design and build an internal data dashboard that Fasterbids customers can use to easily summarize and compare sales figures.<br><br>I worked extensively with the D3 data visualization library, including implementation of an algorithm to correctly distribute labels on pie charts with dense data.",
+						"role": ["Front-end development"],
 						"collaborators": null,
-						"tags": ["Web development", "Web design", "JavaScript", "jQuery", "D3.js", "PHP", "SQL", "API design", "R"],
-						"link": ["Visit LabintheWild", "http://www.labinthewild.org"]
+						"tags": ["Web development", "Web design", "JavaScript", "D3.js", "AngularJS"],
+						"link": null
 					},
 					{
 						"name": "NEXCAP",
 						"thumbnail": "img/NEXCAPIcon.png",
-						"mainImgs": ["img/NEXCAP1.png", "img/NEXCAP2.png", "img/NEXCAP3.png", "img/NEXCAP4.png"],
+						"mainImgs": ["img/NEXCAP1.png", "img/NEXCAP2.png", "img/NEXCAP4.png"],
 						"blurb": "NEXCAP is a catalog of vacant industrial properties located throughout the country.",
 						"fullDescription": "The National Excess Manufacturing Capacity Catalog (NEXCAP) is a searchable collection of vacant industrial properties throughout the country.<br><br>NEXCAP provides industrial site selection specialists with detailed information about available properties in both print and digital form.<br><br>On this project, I designed print and web content, researched user needs by interviewing site selection specialists, and summarized research findings in a report used by the rest of the team.<br><br>I presented an overview of the projcet to SEMCOG, the Southeast Michigan Council of Governments (bottom picture).",
 						"role": ["Design research", "Print design and layout", "Graphic design", "Interaction design"],
@@ -79,34 +90,12 @@ var content =
 						"link": ["Congressional bills search engine", "http://billsearchengine.herokuapp.com/"]
 					},
 					{
-						"name": "Society 2030",
-						"thumbnail": "img/societyIcon.png",
-						"mainImgs": ["img/society1.png"],
-						"blurb": "The Society 2030 project synthesized academic research about the changing demographic face of the country.",
-						"fullDescription": "What will society look like in 2030? I designed a set of graphics synthesizing research from across the University of Michigan to answer this question. The graphics were used in presentations to corporate partners of the Society 2030 project.",
-						"role": ["Graphic design"],
-						"collaborators": null,
-						"tags": ["Graphic design", "Illustrator"],
-						"link": null
-					},
-					{
 						"name": "Obesity map",
 						"template": "map_tmpl",
 						"thumbnail": "img/mapIcon.png",
 						"blurb": "An interactive visualization of county-by-county obesity data, designed to enable easy comparisons over time.",
 						"tags": ["D3.js", "JavaScript"],
-					},	
-					{
-						"name": "Delayed",
-						"thumbnail": "img/delayedIcon.png",
-						"mainImgs": ["img/delayed1.png", "img/delayed2.png"],
-						"blurb": "An exploratory data analysis class project examined airport delays.",
-						"fullDescription": "For a class on exploratory data analysis techniques, I dug into raw airport delay data from the Bureau of Transportation Statistics.<br><br>I acquired the raw data, cleaned it, explored trends using R, and graphed results using the ggplot2 package.<br><br>I learned to avoid Newark airport in July.",
-						"role": ["Data munging", "Data analysis", "Data visualization"],
-						"collaborators": null,
-						"tags": ["Python", "R", "ggplot2"],
-						"link": null
-					}	
+					}
 				],
 				"children": {
 					"_inhereted": {
