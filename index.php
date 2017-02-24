@@ -2,24 +2,25 @@
 
 <html>
 	<head>
-		<title>Trevor Croxson | Web developer</title>
+		<title>Trevor Croxson</title>
 		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 
 	<body>
 		<div class="container" id="main-content">
-			<div class="col-md-2" id="left-gutter">
-				<div id="main-menu">
-					<div id="menu-home" class="menu-item active">Home</div>
-					<div id="menu-projects" class="menu-item inactive">Projects</div>
-					<div id="menu-resume" class="menu-item inactive">Resume</div>
-					<div id="menu-contact" class="menu-item inactive">Contact</div>
-					<a href="https://github.com/goldpbear" target="_blank"><span class="octicon-mark-github icon-link"></span></a>
-					<a href="https://www.linkedin.com/in/trevorcroxson" target="_blank"><img src="img/linkedin_icon.svg" class="icon-link" /></a>
+			<div class="col-md-12" id="center">
+				<img id="header-img-main" src="img/bear_sliver_long.png" class="header-img visible" />
+				<div id="left-gutter">
+					<ul id="main-menu">
+						<li id="menu-home" class="menu-item active">Home</li>
+						<li id="menu-projects" class="menu-item inactive">Projects</li>
+						<!-- <li id="menu-resume" class="menu-item inactive">Resume</li> -->
+						<li id="menu-contact" class="menu-item inactive">Contact</li>
+						<li class="menu-item"><a href="https://github.com/goldpbear" target="_blank"><span class="octicon-mark-github icon-link"></span></a></li>
+						<li class="menu-item"><a href="https://www.linkedin.com/in/trevorcroxson" target="_blank"><img src="img/linkedin_icon.svg" class="icon-link" /></a></li>
+					</ul>
 				</div>
-			</div>
-			<div class="col-md-10" id="center">
-				<img id="header-img-main" width="950px" src="img/bear_sliver_long.png" class="header-img visible" />
 				<!--<img id="header-img-developer" width="760px" src="img/developerBear.png" class="header-img hidden" />
 				<img id="header-img-seattle" width="760px" src="img/seattleBear.png" class="header-img hidden" />
 				<img id="header-img-graduate" width="760px" src="img/graduateBear.png" class="header-img hidden" />
@@ -29,11 +30,9 @@
 				<img id="header-img-urban" width="760px" src="img/urbanBear.png" class="header-img hidden" />
 				<img id="header-img-coro" width="760px" src="img/coroBear.png" class="header-img hidden" />-->
 				<div id="content"></div>
-				<div id="footer">
-					<img src="img/footer_long.png" width="950px" height="45px"/>
-					<div id="copyright">
-						<p>&copy 2016 Trevor Croxson  •  Header image courtesy Jim Croxson</p>
-					</div>
+				<!-- <img src="img/footer_long.png" id="footer-img" /> -->
+				<div id="footer">	
+					&copy 2017 Trevor Croxson  •  Header image courtesy Jim Croxson
 				</div>
 			</div>
 			

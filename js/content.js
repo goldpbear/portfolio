@@ -13,13 +13,24 @@ var content =
 				// assume that if "data" is an array, children of this node will be numbered to correspond to array indices.
 				"data": [
 					{
+						"name": "Hey Duwamish!",
+						"thumbnail": "img/duwamishIcon.png",
+						"mainImgs": ["img/duwamish1.png"],
+						"blurb": "I recently started contributing to this open source effort to track and visualize data about Seattle's Lower Duwamish Waterway.",
+						"fullDescription": "Hey Duwamish! is an interactive map that tracks environmental information about the Lower Duwamish Waterway.<br><br>I began collaborating on this open source project in November, 2015, working primarily on front-end features.",
+						"role": ["Front-end development"],
+						"collaborators": null,
+						"tags": ["Web development", "JavaScript", "MapBox"],
+						"link": ["Visit Hey Duwamish!", "http://www.heyduwamish.org"]
+					},
+					{
 						"name": "Augury",
 						"thumbnail": "img/auguryIcon.png",
 						"mainImgs": ["img/augury1.png", "img/augury2.png", "img/augury3.png"],
 						"blurb": "Built on several years of research, Augury is a web application that helps designers understand the aesthetic appeal of their work.",
 						"fullDescription": "Augury is a single-page AngularJS web application based on research into web users' aesthetic preferences.<br /><br /><a href='https://homes.cs.washington.edu/~reinecke/Publications_files/Reinecke_CHI2013.pdf'>Research suggests</a> that visual complexity and colorfulness strongly affect aesthetic appeal. Augury determines the complexity and colorfulness of user-submitted images, then provides appeal ratings by country.<br><br>I developed all aspects of the application, except the low-level Java code that analyzes image features.",
 						"role": ["Front-end development", "Back-end development", "Graphic design", "Design research"],
-						"collaborators": [["Katharina Reinecke", "https://homes.cs.washington.edu/~reinecke/"]],
+						"collaborators": null,
 						"tags": ["Web development", "Web design", "JavaScript", "AngularJS", "Java", "D3.js", "Illustrator"],
 						"link": ["Try the demo!", "http://ec2-52-88-229-218.us-west-2.compute.amazonaws.com:8080/webapp/web/app.html"]
 					},
@@ -30,20 +41,9 @@ var content =
 						"blurb": "LabintheWild is a platform for conducting large-scale experiments in the fields of psychology and human-computer interaction.",
 						"fullDescription": "LabintheWild is a collection of interactive experiments that leverage social comparisons among participants to generate interest. LabintheWild draws thousands of participants from all over the world, helping to make science <a href='http://lessweird.org' target='_blank'>less WEIRD!</a><br /><br />During my time with LabinthWild, I maintained the site itself, developed and launched several experiments, oversaw localization of the site's content into four languages, analyzed data from past experiments, and worked with team members to develop their own experiments.",
 						"role": ["Front-end development", "Back-end development", "Graphic design", "Data analysis"],
-						"collaborators": [["Katharina Reinecke", "https://homes.cs.washington.edu/~reinecke/"], ["Carol Moser", "https://www.linkedin.com/in/carol-moser-50b0b4a"], ["Yan Chen", "https://www.si.umich.edu/people/yan-chen-0"], ["Nick Strayer", "http://nickstrayer.me/"]],
+						"collaborators": null,
 						"tags": ["Web development", "Web design", "JavaScript", "jQuery", "D3.js", "PHP", "SQL", "API design", "R"],
 						"link": ["Visit LabintheWild", "http://www.labinthewild.org"]
-					},
-					{
-						"name": "Hey Duwamish!",
-						"thumbnail": "img/duwamishIcon.png",
-						"mainImgs": ["img/duwamish1.png"],
-						"blurb": "I recently started contributing to this open source effort to track and visualize data about Seattle's Lower Duwamish Waterway.",
-						"fullDescription": "Hey Duwamish! is an interactive map that tracks environmental information about the Lower Duwamish Waterway.<br><br>I began collaborating on this open source project in November, 2015, working primarily on front-end features.",
-						"role": ["Front-end development"],
-						"collaborators": [["Luke Swart", "https://www.github.com/lukeswart"], ["Jacob Caggiano", "https://twitter.com/futuresoup"]],
-						"tags": ["Web development", "JavaScript", "MapBox"],
-						"link": ["Visit Hey Duwamish!", "http://www.heyduwamish.org"]
 					},
 					{
 						"name": "NEXCAP",
@@ -52,7 +52,7 @@ var content =
 						"blurb": "NEXCAP is a catalog of vacant industrial properties located throughout the country.",
 						"fullDescription": "The National Excess Manufacturing Capacity Catalog (NEXCAP) is a searchable collection of vacant industrial properties throughout the country.<br><br>NEXCAP provides industrial site selection specialists with detailed information about available properties in both print and digital form.<br><br>On this project, I designed print and web content, researched user needs by interviewing site selection specialists, and summarized research findings in a report used by the rest of the team.<br><br>I presented an overview of the projcet to SEMCOG, the Southeast Michigan Council of Governments (bottom picture).",
 						"role": ["Design research", "Print design and layout", "Graphic design", "Interaction design"],
-						"collaborators": [["Greg Lawrence", "https://www.linkedin.com/in/greg-lawrence-1611b965"]],
+						"collaborators": null,
 						"tags": ["Graphic design", "Interaction design", "Design research", "Illustrator", "InDesign"],
 						"link": ["The NEXCAP catalog", "http://www.edastayusa.org"]
 					},
@@ -63,7 +63,7 @@ var content =
 						"blurb": "The Jackson Property Report maps derelict properties in the city of Jackson, MI.<br><br>",
 						"fullDescription": "For a class in citizen interaction design, I worked with a design team and stakeholders at the city of Jackson, MI to research and design an interactive map of condemned properties. The map and accompanying graphics were deisgned to help citizens of the city understand the property demolition process.",
 						"role": ["Design research", "Graphic design", "Interaction design"],
-						"collaborators": [["Andrew Ku", "https://www.linkedin.com/in/andrewisku"], ["Fan Zhang", "https://www.linkedin.com/in/fanzhangux"]],
+						"collaborators": null,
 						"tags": ["Graphic design", "Interaction design", "Design research", "Illustrator"],
 						"link": null
 					},
@@ -74,7 +74,7 @@ var content =
 						"blurb": "The bills search engine indexes twenty years' worth of bills proposed in Congress, allowing users to search over several fields.",
 						"fullDescription": "Built for a class project, this vertical search engine indexes the full text of bills proposed in Congress between 1993 and 2013&#8212;over 30,000 documents.<br /><br />Our team acquired the raw bill text (thanks to <a href='https://www.govtrack.us'>GovTrack</a>), created and refined a search index, and developed a front-end interface for performing searches.",
 						"role": ["Data exploration and preparation", "Back-end development"],
-						"collaborators": [["Steven Hoelscher", "https://www.linkedin.com/in/stevenhoelscher"], ["Greg Lawrence", "https://www.linkedin.com/in/greg-lawrence-1611b965"]],
+						"collaborators": null,
 						"tags": ["Python", "Whoosh", "Data wrangling"],
 						"link": ["Congressional bills search engine", "http://billsearchengine.herokuapp.com/"]
 					},
@@ -85,7 +85,7 @@ var content =
 						"blurb": "The Society 2030 project synthesized academic research about the changing demographic face of the country.",
 						"fullDescription": "What will society look like in 2030? I designed a set of graphics synthesizing research from across the University of Michigan to answer this question. The graphics were used in presentations to corporate partners of the Society 2030 project.",
 						"role": ["Graphic design"],
-						"collaborators": [["Justin Dicenso", "https://www.linkedin.com/in/justin-dicenso-28376a46"]],
+						"collaborators": null,
 						"tags": ["Graphic design", "Illustrator"],
 						"link": null
 					},
