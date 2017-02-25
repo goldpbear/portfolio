@@ -43,7 +43,7 @@ var content =
 						"role": ["Front-end development", "Back-end development", "Graphic design", "Design research"],
 						"collaborators": null,
 						"tags": ["Web development", "Web design", "JavaScript", "AngularJS", "Java", "D3.js", "Illustrator"],
-						"link": ["Try the demo!", "augury.labinthewild.org"]
+						"link": ["Try the demo!", "http://augury.labinthewild.org"]
 					},
 					{
 						"name": "Fasterbids Data Dashboard",
